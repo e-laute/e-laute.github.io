@@ -1,2 +1,2 @@
-# e-laute.github.io
+# E-LAUTE
 Electronic Linked Annotated Unified Tablature Edition
