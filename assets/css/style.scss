@@ -10,8 +10,12 @@ h2 {
   color:#0c1f41 !important;
 }
 
-a {
-  color:#aaaaaa !important;
+p>a {
+  color:#1c4896 !important;
+}
+
+p>a:hover {
+  color: #0c1f41 !important; 
 }
 
 footer { 
@@ -25,6 +29,9 @@ body {
 #lang-select { 
   display:flex;
   justify-content:flex-end;
+  a {
+    color:#aaaaaa;
+  }
 }
 
 #funder-logos { 
