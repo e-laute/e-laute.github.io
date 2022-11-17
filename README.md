@@ -1,4 +1,4 @@
-# e-laute.github.io
+# E-LAUTE
 ## Electronic Linked Annotated Unified Tablature Edition
 
 This repository contains the project website for the research project "E-LAUTE".
