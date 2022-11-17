@@ -2,12 +2,20 @@
 ---
 @import "{{ site.theme }}";
 
+h1 { 
+  color:#1c4896 !important;
+}
+
+h2 { 
+  color:#0c1f41 !important;
+}
+
 a {
   color:#aaaaaa !important;
 }
 
 footer { 
-  color: black !important;
+  color:black !important;
 }
 
 #lang-select { 
