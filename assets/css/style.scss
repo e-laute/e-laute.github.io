@@ -1,0 +1,30 @@
+---
+---
+@import "{{ site.theme }}";
+
+a {
+  color:#aaaaaa !important;
+}
+
+footer { 
+  color: black !important;
+}
+
+#lang-select { 
+  display:flex;
+  justify-content:flex-end;
+}
+
+#funder-logos { 
+  display:flex;
+  justify-content:space-between;
+  max-width:100%;
+  img { 
+    max-width: 20% !important;
+  }
+}
+
+#funder-acks { 
+  margin-top:1em;
+  text-align:center;
+}
