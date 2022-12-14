@@ -7,13 +7,15 @@ The main aim is to create a novel form of music edition: an 'open knowledge plat
 As scholars, we are also working on five pilot studies on our platform that cover some current gaps in the research and practice of music before 1600: Variance and Retextualisation in the Music and Text of the Love Song (I), On the Origin of German Lute Tablature (II), Tablature Notation as Reflective Images of 16th-Century Culture (III), Dialogues About Music (‘interactive annotations’) (IV) and Hybrid Editions (V). As part of our project, the first hybrid edition in the *Denkmäler der Tonkunst in Österreich* series will be produced.
 
 The E-LAUTE project brings together international and interdisciplinary researchers to achieve desiderata in the evaluation of this cultural heritage. It is funded by international programm WEAVE in cooperation of the Austrian Science Fund (FWF, Lead Agency, I 6019-G), the German Research Foundation (DFG) and the Swiss National Science Foundation (SNF).
+
 The core team unites seven instutions and consists of:
+
 Austria
 [Dr. Kateryna Schöning](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), University of Vienna, Department of Musicology; Musicology
 [Dr. David M. Weigl](https://iwk.mdw.ac.at/david-weigl), University of Music and Performing Arts Vienna; Web Science and Music Informatics
 [Prof. Dr. Andreas Rauber](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology; Information and Software Engineering
 [Mag. Max Kaiser](http://www.maxkaiser.at/), Mag. Martin Krickl and DI Christoph Steindl, Austrian National Library; host, IT
-[Dr. Reinier de Valk](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ, Denmark/Austria, Music Encoding
+[Dr. Reinier de Valk](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Denmark/Austria, Music Encoding
 
 Germany 
 [Prof. Dr. Irene Holzer](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), Ludwig-Maximilian-University Munich; Musicology
