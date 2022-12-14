@@ -11,17 +11,26 @@ The E-LAUTE project brings together international and interdisciplinary research
 The core team unites seven instutions and consists of:
 
 Austria
+
 [Dr. Kateryna Schöning](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), University of Vienna, Department of Musicology; Musicology
+
 [Dr. David M. Weigl](https://iwk.mdw.ac.at/david-weigl), University of Music and Performing Arts Vienna; Web Science and Music Informatics
+
 [Prof. Dr. Andreas Rauber](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology; Information and Software Engineering
+
 [Mag. Max Kaiser](http://www.maxkaiser.at/), Mag. Martin Krickl and DI Christoph Steindl, Austrian National Library; host, IT
+
 [Dr. Reinier de Valk](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Denmark/Austria, Music Encoding
 
-Germany 
+Germany
+
 [Prof. Dr. Irene Holzer](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), Ludwig-Maximilian-University Munich; Musicology
+
 [Prof. Dr. Cordula Kropik](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), University Bayreuth; German Medieval Studies
 
 Switzerland
+
 [Prof. Dr. Martin Kirnbauer](https://www.fhnw.ch/de/personen/martin-kirnbauer), Schola Cantorum Basiliensis / FHNW Basel; musicology and performance practice
+
 [Prof. Dr. Marc Lewon](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel; musicology and performance practice, lute
  
