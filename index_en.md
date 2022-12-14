@@ -12,8 +12,7 @@ The core team unites seven instutions and consists of:
 
 Austria
 
-[Dr. Kateryna Schöning](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), University of Vienna, Department of Musicology; Musicology
-
+[Dr. Kateryna Schöning](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), University of Vienna, Department of Musicology; Musicology  
 [Dr. David M. Weigl](https://iwk.mdw.ac.at/david-weigl), University of Music and Performing Arts Vienna; Web Science and Music Informatics
 
 [Prof. Dr. Andreas Rauber](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology; Information and Software Engineering
