@@ -1,3 +1,8 @@
+## Stellenausschreibungen
+Für das internationale Weave-Projekt “E-LAUTE: Electronic Linked Annotated Unified Tablature Edition -- The Lute in the German-Speaking Area 1450-1550" werden wissenschaftliche Mitarbeiter&middot;innen (w/m/d, Prae-Doc) in den Bereichen der Musikwissenschaften, der germanischer Mediävistik, der Aufführungspraxis, sowie der Musikinformatik gesucht. [Alle aktuellen Stellenausschreibungen finden Sie unter diesem Link](/jobs).
+
+
+
 ## Die Laute im deutschsprachigen Raum 1450–1550
 
 Wir erstellen eine umfassende elektronische Edition von Lautentabulaturen (spezielle Notationen für Lauten) aus dem deutschsprachigen Raum zwischen 1450 und 1550. Das Corpus (2.000 Seiten) wurde in seiner Gesamtheit bisher nicht erschlossen und blieb daher sowohl für die Wissenschaft und professionelle Musiker als auch für den weiteren Kreis von Interessierten kaum zugänglich, wurde nicht entschlüsselt und konnte somit nur punktuell ausgewertet werden. Die Gründe dafür sind die heute nicht mehr verwendete Notation ("Deutsche Lautentabulatur"), die über ganz Mitteleuropa verstreuten Aufbewahrungsorte der Manuskripte und der Mangel an ausgearbeiteten, einheitlichen Forschungsmethoden.
