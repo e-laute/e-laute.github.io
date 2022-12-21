@@ -1,4 +1,4 @@
-Für das FWF-geförderte Projekt “E-LAUTE: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550” sucht die TU Wien mit Eintritt am 01.03.2023 befristet bis 31.12.2025 eine/n
+Für das FWF-geförderte Projekt "E-LAUTE: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550” sucht die TU Wien mit Eintritt am 01.03.2023 befristet bis 31.12.2025 eine/n
 
 ## Wissenschaftliche&middot;n Mitarbeiter&middot;in (w/m/d), Prae-Doc (75%, 30 h/Woche)
 

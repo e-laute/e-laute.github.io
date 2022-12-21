@@ -1,7 +1,7 @@
 ## Job Opportunities
 ### Research Associate, Prae-Doc / Doctoral Student, from 1st March 2023
 
-We are seeking Research Associates (prae-doc) to work as part of the international Weave project “E-LAUTE: Electronic Linked Annotated Unified Tablature Edition -- The Lute in the German-Speaking Area 1450-1550" in areas of research including musicology, medieval German studies, performance practice, and music informatics. 
+We are seeking Research Associates (prae-doc) to work as part of the international Weave project "E-LAUTE: Electronic Linked Annotated Unified Tablature Edition -- The Lute in the German-Speaking Area 1450-1550" in areas of research including musicology, medieval German studies, performance practice, and music informatics. 
 
 E-LAUTE aims to create an open-access comprehensive and interactive edition of the lute tablatures of the
 German-speaking area between 1450 and 1550. The corpus (2,000 pages) has not yet been investigated as

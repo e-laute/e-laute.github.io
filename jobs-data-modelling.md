@@ -1,4 +1,4 @@
-Für das FWF-geförderte Projekt “E-Laute: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550” an der Österreichischen Nationalbibliothek / Abteilung Forschung und Datenservices mit Eintritt am 01.03.2023 befristet bis 31.12.2025.
+Für das FWF-geförderte Projekt "E-Laute: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550” an der Österreichischen Nationalbibliothek / Abteilung Forschung und Datenservices mit Eintritt am 01.03.2023 befristet bis 31.12.2025.
 
 ## Wissenschaftliche&middot;n Mitarbeiter&middot;in (w/m/d), Prae-Doc (75%, 30 h/Woche)
 

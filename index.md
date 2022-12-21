@@ -1,5 +1,5 @@
 ## Stellenausschreibungen
-Für das internationale Weave-Projekt “E-LAUTE: Electronic Linked Annotated Unified Tablature Edition -- The Lute in the German-Speaking Area 1450-1550" werden wissenschaftliche Mitarbeiter&middot;innen (w/m/d, Prae-Doc) in den Bereichen der Musikwissenschaften, der germanischer Mediävistik, der Aufführungspraxis, sowie der Musikinformatik gesucht. [Alle aktuellen Stellenausschreibungen finden Sie unter diesem Link](/jobs).
+Für das internationale Weave-Projekt "E-LAUTE: Electronic Linked Annotated Unified Tablature Edition -- The Lute in the German-Speaking Area 1450-1550" werden wissenschaftliche Mitarbeiter&middot;innen (w/m/d, Prae-Doc) in den Bereichen der Musikwissenschaften, der germanischer Mediävistik, der Aufführungspraxis, sowie der Musikinformatik gesucht. [Alle aktuellen Stellenausschreibungen finden Sie unter diesem Link](/jobs).
 
 
 
