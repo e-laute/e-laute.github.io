@@ -1,8 +1,8 @@
-As part of the FWF-funded project 'E-LAUTE: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550') TU Wien - Vienna University of Technology is offering the fixed-term (1/3/2023 – 31.12.2025) position of a
+As part of the FWF-funded project 'E-LAUTE: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550') TU Wien - Vienna University of Technology is offering the fixed-term (1/3/2023 – 31/12/2025) position of a
 
 ## Research Associate Prae-Doc / Doctoral Student (75%, 30h/week)
 
-E-LAUTE  is an interdisciplinary research project focused on the electronic edition of lute tablatures of the German speaking area between 1450 and 1550. For this purpose we are developing a novel form of music edition: an open knowledge platform combining musicology, music practice, music informatics, and literary studies, enriching and interlinking traditional edition methods within disciplinary and interdisciplinary research contexts. Furthermore, the project is undertaking five pilot studies within the constituent disciplines aiming to improve coverage of research and practice of music before 1600. 
+E-LAUTE is an interdisciplinary research project focused on the electronic edition of lute tablatures of the German speaking area between 1450 and 1550. For this purpose we are developing a novel form of music edition: an open knowledge platform combining musicology, music practice, music informatics, and literary studies, enriching and interlinking traditional edition methods within disciplinary and interdisciplinary research contexts. Furthermore, the project is undertaking five pilot studies within the constituent disciplines aiming to improve coverage of research and practice of music before 1600. 
 
 As Research Associate you will work in collaboration with project partners at the Data Science Research Unit, Department for Information Systems Engineering, at TU Wien (Vienna University of Technology), in order to research information retrieval solutions within historical music notations in different transcription formats. 
 
