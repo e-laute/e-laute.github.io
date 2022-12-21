@@ -46,7 +46,6 @@ body {
 
 .logo { 
   display:block;
-  max-width: 100%;
 }
 
 .logo a { 
@@ -61,6 +60,12 @@ body {
   height:80px;
   object-fit: contain;
   mix-blend-mode: multiply;
+}
+
+.logo.wide img { 
+  max-width: 250% !important;
+  width: 250px;
+  margin-left:150px;
 }
 
 footer hr { 
