@@ -20,7 +20,7 @@ We are currently seeking applicants to the following positions:
 * [Musik Informatics--Data Modelling, 75%, Austrian National Library (ONB)](/jobs-data-modelling_en){:target="_blank"}
 
 ### Germany  
-* [medieval German Studies / Musicology, 65%, University of Bayreuth](https://www.uni-bayreuth.de/stelle-kennwort-e-laute-5d4fe9a0d174214d){:target="_blank"}
+* [Medieval German Studies / Musicology, 65%, University of Bayreuth](https://www.uni-bayreuth.de/stelle-kennwort-e-laute-5d4fe9a0d174214d){:target="_blank"}
 * [Musicology, 65%, Ludwig Maximilian University of Munich](https://job-portal.lmu.de/jobposting/47456c7bd68556c191d782eb671b6937bee195e20){:target="_blank"}
 
 ### Switzerland
