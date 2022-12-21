@@ -1,4 +1,4 @@
-As part of the FWF-funded project "E-LAUTE: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550”) TU Wien - Vienna University of Technology is offering the fixed-term (1/3/2023 – 31.12.2025) position of a
+As part of the FWF-funded project 'E-LAUTE: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550') TU Wien - Vienna University of Technology is offering the fixed-term (1/3/2023 – 31.12.2025) position of a
 
 ## Research Associate Prae-Doc / Doctoral Student (75%, 30h/week)
 
