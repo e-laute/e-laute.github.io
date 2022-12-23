@@ -30,4 +30,4 @@ Schweiz:
 [Prof. Dr. Martin Kirnbauer](https://www.fhnw.ch/de/personen/martin-kirnbauer), Schola Cantorum Basiliensis / FHNW Basel; Musikwissenschaft und Aufführungspraxis   
 [Prof. Dr. Marc Lewon](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel; Musikwissenschaft und Aufführungspraxis, Laute)
 
-## Kontakt: Kateryna Schöning - kateryna.schoening@univie.ac.at
+Kontakt: Kateryna Schöning - kateryna.schoening@univie.ac.at
