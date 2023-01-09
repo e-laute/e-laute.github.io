@@ -1,8 +1,8 @@
-As part of the FWF-funded project “E-LAUTE: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550”) the Austrian National Library (Dept. for Research and Data Services) is offering the fixed-term (1/3/2023 – 31.12.2025) position of a
+As part of the FWF-funded project 'E-LAUTE: Electronic Linked Annotated Unified Tablature Edition – The Lute in the German-Speaking Area 1450-1550' the Austrian National Library (Dept. for Research and Data Services) is looking for the fixed-term (1/3/2023 – 31/12/2025) position of a
 
 ## Research Associate Prae-Doc / Doctoral Student (75%, 30h/week)
 
-E-LAUTE s an interdisciplinary research project focused on the electronic edition of lute tablatures of the German speaking area between 1450 and 1550. For this purpose we are developing a novel form of music edition: an open knowledge platform combining musicology, music practice, music informatics, and literary studies, enriching and interlinking traditional edition methods within disciplinary and interdisciplinary research contexts. Additionally to the edition, the project is undertaking five pilot studies within the constituent disciplines aiming to improve coverage of research and practice of music before 1600. 
+E-LAUTE is an interdisciplinary research project focused on the electronic edition of lute tablatures of the German speaking area between 1450 and 1550. For this purpose we are developing a novel form of music edition: an open knowledge platform combining musicology, music practice, music informatics, and literary studies, enriching and interlinking traditional edition methods within disciplinary and interdisciplinary research contexts. Additionally to the edition, the project is undertaking five pilot studies within the constituent disciplines aiming to improve coverage of research and practice of music before 1600. 
 
 As Research Associate you will work in collaboration with project partners at the Data Science Research Unit, Department for Information Systems Engineering, at TU Wien (Vienna University of Technology), in order to research information retrieval solutions within historical music notations in different transcription formats. 
 
@@ -14,9 +14,9 @@ Your responsibilities will include:
 * Establishing solutions to the modelling of versioned user-generated data (annotations, audio recordings) and their relationships to other project data (notations, transcriptions)
 * Research on the extension of the MEI standard toward modelling music notations in tablature-based formats
 * Preparation and management of research data as FAIR Linked Open Data
-* Data integration (transcriptions, annotations) in various formats and representations within the Austrian National Library’s platform for digital editions 
+* Data integration (transcriptions, annotations) in various formats and representations within the Austrian National Library’s infrastructure for digital editions (https://edition.onb.ac.at)
 * Collaboration in the adaptation of functionalities within the digital edition
-* Proactive collaboration with project colleagues in other areas, particularly in the implementation of search functionalities within the Austrian National Library’s platform for digital editions
+* Proactive collaboration with project colleagues in other areas, particularly in the implementation of search functionalities within the Austrian National Library’s infrastructure for digital editions
 * Dissemination through publications in leading academic journals and presentations at relevant conferences
  
 Employment requirements include:
