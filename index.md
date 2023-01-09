@@ -1,6 +1,6 @@
 ## Stellenausschreibungen
-Für das internationale Weave-Projekt "E-LAUTE: Electronic Linked Annotated Unified Tablature Edition -- The Lute in the German-Speaking Area 1450-1550" werden wissenschaftliche Mitarbeiter&middot;innen (w/m/d, Prae-Doc) in den Bereichen der Musikwissenschaften, der germanischer Mediävistik, der Aufführungspraxis, sowie der Musikinformatik gesucht. [Alle aktuellen Stellenausschreibungen finden Sie unter diesem Link](/jobs).
 
+Für das internationale Weave-Projekt “E-LAUTE: Electronic Linked Annotated Unified Tablature Edition -- The Lute in the German-Speaking Area 1450-1550" werden wissenschaftliche Mitarbeiter&middot;innen (w/m/d, Prae-Doc) in den Bereichen Musikwissenschaft und Aufführungspraxis, germanischer Mediävistik und Musikinformatik gesucht. [Alle aktuellen Stellenausschreibungen finden Sie unter diesem Link](/jobs).
 
 
 ## Die Laute im deutschsprachigen Raum 1450–1550
@@ -29,3 +29,5 @@ Deutschland:
 Schweiz:  
 [Prof. Dr. Martin Kirnbauer](https://www.fhnw.ch/de/personen/martin-kirnbauer), Schola Cantorum Basiliensis / FHNW Basel; Musikwissenschaft und Aufführungspraxis   
 [Prof. Dr. Marc Lewon](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel; Musikwissenschaft und Aufführungspraxis, Laute)
+
+Kontakt: Kateryna Schöning - kateryna.schoening@univie.ac.at

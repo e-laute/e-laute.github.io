@@ -28,4 +28,5 @@ Germany
 Switzerland  
 [Prof. Dr. Martin Kirnbauer](https://www.fhnw.ch/de/personen/martin-kirnbauer), Schola Cantorum Basiliensis / FHNW Basel; musicology and performance practice  
 [Prof. Dr. Marc Lewon](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel; musicology and performance practice, lute
- 
+
+Contact: Kateryna Schöning - kateryna.schoening@univie.ac.at
