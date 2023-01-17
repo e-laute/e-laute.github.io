@@ -11,7 +11,7 @@ Unser Ziel ist, eine neuartige Form der Musikedition zu entwickeln: Eine "open k
 
 Als Wissenschaftler arbeiten wir auf unserer Plattform außerdem an fünf Pilotstudien, die  aktuelle Lücken in der Forschung und Praxis der Musik vor 1600 abdecken: "Varianz und Retextualisierung in der Musik und den Texten von Liebesliedern" (I); "Über die Herkunft der deutschen Lautentabulatur" (II); "Die Lautentabulatur als Reflexionsbild der Kultur des 16. Jahrhunderts" (III); "Dialoge über Musik" (interaktive Annotationen) (IV) und "Hybrid-Editionen" (V). Im Rahmen des Projektes wird die erste Hybrid-Edition in der Reihe *Denkmäler der Tonkunst in Österreich* geschaffen.
 
-Das Projekt E-LAUTE vereinigt internationale und interdisziplinäre Kräfte, um auf Desiderate bei der Erfassung dieses kulturellen Gutes hinzuarbeiten. Das Projekt wird durch das internationale programm WEAVE in Kooperation von Wissenschaftsfonds (FWF, Lead Agency, I 6019-G), der Deutschen Forschungsgemeinschaft (DFG) und dem Schweizerischen Nationalfonds (SNF) gefördert.  
+Das Projekt E-LAUTE vereinigt internationale und interdisziplinäre Kräfte, um auf Desiderate bei der Erfassung dieses kulturellen Gutes hinzuarbeiten. Das Projekt wird durch das internationale Programm WEAVE in Kooperation von Wissenschaftsfonds (FWF, Lead Agency, I 6019-G), der Deutschen Forschungsgemeinschaft (DFG) und dem Schweizerischen Nationalfonds (SNF) gefördert.  
 
 Das Kernteam vereinigt sieben Institutionen und besteht aus:
 
