@@ -16,7 +16,6 @@ We are currently seeking applicants to the following positions:
 
 ### Austria 
 * [Musicology, 75%, Dept. of Musicology, University of Vienna](https://univis.univie.ac.at/ausschreibungstellensuche/flow/bew_ausschreibung-flow?tid=93601.28){:target="_blank"}
-* [Music Informatics--Information Retrieval, 75%, TU Wien](/jobs-information-retrieval_en){:target="_blank"}
 * [Music Informatics--Data Modelling, 75%, Austrian National Library (ONB)](/jobs-data-modelling_en){:target="_blank"}
 
 ### Germany  
