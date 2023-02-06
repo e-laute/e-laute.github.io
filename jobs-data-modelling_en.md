@@ -9,13 +9,11 @@ As Research Associate you will work in collaboration with project partners at th
 Your responsibilities will include:
 
 * Authoring a doctoral dissertation in informatics (computer science)
-* Research on the representation of linked information assets using semantic technologies
-* Versioning of heterogeneous linked information assets (e.g., in notations, annotations, recordings, and their relationships)
-* Establishing solutions to the modelling of versioned user-generated data (annotations, audio recordings) and their relationships to other project data (notations, transcriptions)
-* Research on the extension of the MEI standard toward modelling music notations in tablature-based formats
+* Research on the representation of linked information assets using semantic technologies with a special focus on integrating user generated data (annotations, audio-recordings) into the project context
+* Research on a sustainable versioning scheme for heterogeneous linked information assets coming from the project (e.g., in notations, annotations, audio-recordings, and their relationships)
+* Assistance during the extension of the MEI standard toward enabling modelling music notations in tablature-based formats with MEI
 * Preparation and management of research data as FAIR Linked Open Data
 * Data integration (transcriptions, annotations) in various formats and representations within the Austrian National Library’s infrastructure for digital editions (https://edition.onb.ac.at)
-* Collaboration in the adaptation of functionalities within the digital edition
 * Proactive collaboration with project colleagues in other areas, particularly in the implementation of search functionalities within the Austrian National Library’s infrastructure for digital editions
 * Dissemination through publications in leading academic journals and presentations at relevant conferences
  
@@ -35,7 +33,7 @@ Employment requirements include:
 
 The salary is 2,300.30 euros (gross) per month (14 salaries/year) on the basis of 30 h/week in accordance with the [FWF staff cost rate](https://www.fwf.ac.at/de/forschungsfoerderung/personalkostensaetze){:target="_blank"}. The place of employment is the Austrian National Library / Department of Research and Data Services in Vienna.
 
-We look forward to receiving your application. Please send your letter of motivation and CV including links to reference software projects or relevant code repositories summarised in one PDF file by 16/1/2023 to: 
+We look forward to receiving your application. Please send your letter of motivation and CV including links to reference software projects or relevant code repositories summarised in one PDF file by 26/2/2023 to: 
 
 [jobs-elaute@onb.ac.at](mailto:jobs-elaute@onb.ac.at?subject=Application%20Research%20Associate%20DataModelling)
 
