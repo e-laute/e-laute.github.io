@@ -2,6 +2,7 @@
 
 We are seeking Research Associates (prae-doc) to work as part of the international Weave project 'E-LAUTE: Electronic Linked Annotated Unified Tablature Edition -- The Lute in the German-Speaking Area 1450-1550' in areas of research including musicology, medieval German studies, performance practice, and music informatics. [Please click here to see all currently advertised positions](/jobs_en).
 
+![Stammbuch Paul Jenisch Kutsche](/assets/img/Paul_Jenisch_Kutsche.png)
 ## The Lute in the German-Speaking Area 1450–1550
 
 We are creating an open-access comprehensive and interactive edition of the lute tablatures (special notations for lutes) of the German-speaking area between 1450 and 1550. The corpus (2,000 pages) has not yet been investigated as a whole and is barely accessible to scholars and professional musicians as well as to the broad public, has not been deciphered and has therefore been evaluated only selectively. The reasons for this being the notation (‘German lute tablature’), which is little used today, the sites of the manuscripts scattered throughout Central Europe, and the fact that consistent adequate research methods have not yet been worked up.
@@ -11,6 +12,8 @@ The main aim is to create a novel form of music edition: an 'open knowledge plat
 As scholars, we are also working on five pilot studies on our platform that cover some current gaps in the research and practice of music before 1600: Variance and Retextualisation in the Music and Text of the Love Song (I), On the Origin of German Lute Tablature (II), Tablature Notation as Reflective Images of 16th-Century Culture (III), Dialogues About Music (‘interactive annotations’) (IV) and Hybrid Editions (V). As part of our project, the first hybrid edition in the *Denkmäler der Tonkunst in Österreich* series will be produced.
 
 The E-LAUTE project brings together international and interdisciplinary researchers to achieve desiderata in the evaluation of this cultural heritage. It is funded by international programm WEAVE in cooperation of the Austrian Science Fund (FWF, Lead Agency, I 6019-G), the German Research Foundation (DFG) and the Swiss National Science Foundation (SNF).
+
+![Tablature book](/assets/img/buch.jpg)
 
 The core team unites seven instutions and consists of:
 
