@@ -2,20 +2,20 @@ As part of the FWF-funded project 'E-LAUTE: Electronic Linked Annotated Unified 
 
 ## Research Associate Prae-Doc / Doctoral Student (75%, 30h/week)
 
-E-LAUTE is an interdisciplinary research project focused on the electronic edition of lute tablatures of the German speaking area between 1450 and 1550. For this purpose we are developing a novel form of music edition: an open knowledge platform combining musicology, music practice, music informatics, and literary studies, enriching and interlinking traditional edition methods within disciplinary and interdisciplinary research contexts. Additionally to the edition, the project is undertaking five pilot studies within the constituent disciplines aiming to improve coverage of research and practice of music before 1600. 
+E-LAUTE (https://e-laute.info) is an interdisciplinary research project - computer science, digital humanities and musicology. We are developing a novel form of music edition: an open knowledge platform combining music informatics, musicology and music practice, enriching and interlinking traditional edition methods within disciplinary and interdisciplinary research contexts.
 
-As Research Associate you will work in collaboration with project partners at the Data Science Research Unit, Department for Information Systems Engineering, at TU Wien (Vienna University of Technology), in order to research information retrieval solutions within historical music notations in different transcription formats. 
+As Research Associate you will work in collaboration with project partners, in order to develop a robust data model and research on information retrieval solutions. You have the opportunity to make a significant contribution to an exciting international and interdisciplinary research project.
 
 Your responsibilities will include:
 
-* Authoring a doctoral dissertation in informatics (computer science)
-* Research on the representation of linked information assets using semantic technologies with a special focus on integrating user generated data (annotations, audio-recordings) into the project context
-* Research on a sustainable versioning scheme for heterogeneous linked information assets coming from the project (e.g., in notations, annotations, audio-recordings, and their relationships)
-* Assistance during the extension of the MEI standard toward enabling modelling music notations in tablature-based formats with MEI
+* Research on the representation of linked information assets using semantic technologies with a special focus on integrating user generated data (annotations, audio-recordings)
+* Development of a sustainable versioning scheme for heterogeneous linked information assets coming from the project (e.g., in notations, annotations, audio-recordings, and their relationships)
+* Collaborative research into the extension of the MEI standard toward modelling music notations in tablature-based formats
 * Preparation and management of research data as FAIR Linked Open Data
 * Data integration (transcriptions, annotations) in various formats and representations within the Austrian National Library’s infrastructure for digital editions (https://edition.onb.ac.at)
 * Proactive collaboration with project colleagues in other areas, particularly in the implementation of search functionalities within the Austrian National Library’s infrastructure for digital editions
 * Dissemination through publications in leading academic journals and presentations at relevant conferences
+* Opportunity for a doctoral dissertation in informatics (computer science)
  
 Employment requirements include:
 
