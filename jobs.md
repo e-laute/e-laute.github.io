@@ -9,7 +9,6 @@ Die derzeit beworbenden Stellen:
 
 ### Österreich
 * [Musikwissenschaft, 75%, Institut für Musikwissenschaft, Universität Wien](https://univis.univie.ac.at/ausschreibungstellensuche/flow/bew_ausschreibung-flow?tid=93601.28){:target="_blank"}
-* [Musikinformatik--Information Retrieval, 75%, TU Wien](/jobs-information-retrieval){:target="_blank"}
 * [Musikinformatik--Datenmodellierung, 75%, ÖNB](/jobs-data-modelling){:target="_blank"}
 
 ### Deutschland
