@@ -13,16 +13,21 @@
 {% seo %}
     {% include head-custom.html %}
   </head>
-
   <body>
     <div id="container">
-      <div class="inner">
-
         <header>
-          <div id="lang-select"><a href="index.html" alt="Deutsch" title="Deutsch">de</a>|<a href="index_en.html" alt="English" title="English">en</a></div>
-          <h1>{{ site.title }}</h1>
-          <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+          <div class="header-wrapper">
+            <div id="lang-select"><a href="index.html" alt="Deutsch" title="Deutsch">de</a>|<a href="index_en.html" alt="English" title="English">en</a></div>
+            <span id="project-logo">
+              <img src="/assets/img/lute-round.png"/>
+            </span>
+            <span>
+            <h1>{{ site.title }}</h1>
+            <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+            </span>
+          </div>
         </header>
+      <div class="inner">
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
@@ -42,12 +47,13 @@
         </section>
 
         <footer>
+          <hr/>
           <ul class="logos">
             <li class="logo"><a><img src="assets/img/UW.png" alt="Universität Wien" title="Universität Wien"></a></li>
+            <li class="logo"><a><img src="assets/img/mdw.png" alt="Universität für Musik und darstellende Kunst Wien" title="Universität für Musik und darstellende Kunst Wien"></a></li>
             <li class="logo"><a><img src="assets/img/TU.png" alt="TU Wien" title="TU Wien"></a></li>
             <li class="logo"><a><img src="assets/img/LMU.png" alt="Ludwig-Maximilian-Universität München" title="Ludwig-Maximilian-Universität München"></a></li>
             <li class="logo"><a><img src="assets/img/ONB.png" alt="Österreichische Nationalbibliothek" title="Österreichische Nationalbibliothek"></a></li>
-            <li class="logo"><a><img src="assets/img/mdw.png" alt="Universität für Musik und darstellende Kunst Wien" title="Universität für Musik und darstellende Kunst Wien"></a></li>
             <li class="logo"><a><img src="assets/img/Bayreuth.png" alt="Universität Bayreuth" title="Universität Bayreuth"></a></li>
             <li class="logo wide"><a><img src="assets/img/Schola_Cantorum.jpg" alt="Schola Cantorum Basiliensis / FHNW Basel" title="Schola Cantorum Basiliensis / FHNW Basel"></a></li>
           </ul>
