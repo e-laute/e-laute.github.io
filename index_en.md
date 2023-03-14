@@ -15,6 +15,8 @@ The E-LAUTE project brings together international and interdisciplinary research
 
 ![Tablature book](/assets/img/buch.jpg)
 
+# Core team
+
 The core team unites seven instutions and consists of:
 
 Austria  
@@ -32,4 +34,14 @@ Switzerland
 [Prof. Dr. Martin Kirnbauer](https://www.fhnw.ch/de/personen/martin-kirnbauer), Schola Cantorum Basiliensis / FHNW Basel; musicology and performance practice  
 [Prof. Dr. Marc Lewon](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel; musicology and performance practice, lute
 
-Contact: Kateryna Schöning - kateryna.schoening@univie.ac.at
+Contact: Kateryna Schöning - <kateryna.schoening@univie.ac.at>
+
+## Project Collaborators
+
+[Dr. Laurent Pugin](https://rism.digital/organization/contact.html), RISM Digital, Switzerland
+
+## Advisory Board
+
+[Prof. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Goldsmiths University of London, UK
+
+[Prof. John Griffiths](https://www.lavihuela.com/), University of Melbourne, Australia; Chair, Tablature in Western Music Study Group, IMS

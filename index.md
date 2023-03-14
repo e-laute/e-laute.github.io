@@ -17,6 +17,8 @@ Das Projekt E-LAUTE vereinigt internationale und interdisziplinäre Kräfte, um 
 
 ![Tablature book](/assets/img/buch.jpg)
 
+## Kernteam
+
 Das Kernteam vereinigt sieben Institutionen und besteht aus:
 
 Österreich  
@@ -34,4 +36,13 @@ Schweiz:
 [Prof. Dr. Martin Kirnbauer](https://www.fhnw.ch/de/personen/martin-kirnbauer), Schola Cantorum Basiliensis / FHNW Basel; Musikwissenschaft und Aufführungspraxis   
 [Prof. Dr. Marc Lewon](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel; Musikwissenschaft und Aufführungspraxis, Laute)
 
-Kontakt: Kateryna Schöning - kateryna.schoening@univie.ac.at
+Kontakt: Kateryna Schöning - <kateryna.schoening@univie.ac.at>
+
+## Kooperationspartner
+
+[Dr. Laurent Pugin](https://rism.digital/organization/contact.html), RISM Digital, Schweiz
+
+## Advisory Board
+
+[Prof. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Goldsmiths University of London, Großbrittanien   
+[Prof. John Griffiths](https://www.lavihuela.com/), University of Melbourne, Australien; Chair, Tablature in Western Music Study Group, IMS
