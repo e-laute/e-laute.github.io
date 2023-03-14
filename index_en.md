@@ -15,7 +15,7 @@ The E-LAUTE project brings together international and interdisciplinary research
 
 ![Tablature book](/assets/img/buch.jpg)
 
-# Core team
+## Core team
 
 The core team unites seven instutions and consists of:
 
