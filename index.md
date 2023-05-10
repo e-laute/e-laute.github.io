@@ -44,6 +44,7 @@ Kontakt: Kateryna Schöning - <kateryna.schoening@univie.ac.at>
 
 ## Advisory Board
 
-[Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Goldsmiths University of London, Großbritannien   
+[Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Goldsmiths University of London, Großbritannien, Dept. of Computing  
 [Prof. Dr. John Griffiths](https://www.lavihuela.com/), University of Melbourne, Australien; Chair, Tablature in Western Music Study Group, IMS  
-[Prof. Dr. Birgit Lodes](https://musikwissenschaft.univie.ac.at/ueber-uns/team/lodes/), Universität Wien, Institut für Musikwissenschaft
+[David Lewis](https://eng.ox.ac.uk/people/david-lewis/), Goldsmiths University of London, Großbritannien, Dept. of Computing / University of Oxford, UK, Oxford e-Research Centre 
+[Prof. Dr. Birgit Lodes](https://musikwissenschaft.univie.ac.at/ueber-uns/team/lodes/), Universität Wien, Institut für Musikwissenschaft 
