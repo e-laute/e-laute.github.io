@@ -1,0 +1,43 @@
+
+
+
+<nav class="navbar navbar-expand-md">
+    <div class="container {% unless page.title %}container-home{% endunless %}">
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span>
+                <i class="fa-solid fa-bars"></i>
+            </span>
+        </button>
+        
+
+        <div class="collapse navbar-collapse" id="navbar">
+            
+            <ul class="navbar-nav nav-main mr-auto list-unstyled">
+
+                {% for item in site.data.samplelist %}
+    {% if item.subfolderitems %}
+        <div class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                {{ item.title }}
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                {% for entry in item.subfolderitems %}
+                    <a class="dropdown-item" href="{{ entry.url }}">{{ entry.page }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    {% else %}
+        <div class="nav-item">
+            <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+        </div>
+    {% endif %}
+{% endfor %}
+
+
+               
+            
+                
+            </ul>
+        </div>
+    </div>
+</nav>

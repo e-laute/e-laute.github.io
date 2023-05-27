@@ -1,0 +1,41 @@
+  - title: Das Projekt
+    subfolderitems:
+      - page: Präsentation
+        url: /thing1.html
+      - page: Team
+        url: /thing2.html
+      - page: Partner & Beratendes Gremium
+        url: /thing3.html
+  - title: Edition
+    url: /edition.html
+  - title: Forschung
+    subfolderitems:
+      - page: Pilot I
+        url: /widget1.html
+      - page: Pilot II
+        url: /widget2.html
+      - page: Pilot III
+        url: /widget3.html
+      - page: Pilot IV
+        url: /widget3.html
+      - page: Pilot V
+        url: /widget3.html
+      - page: MEI & TEI
+        url: /widget3.html
+      - page: Einzelne Aspekte
+        url: /widget3.html
+  - title: Aktivitäten
+    subfolderitems:
+      - page: Workshop E-LAUTE 3.7.-4.7. 2023 Wien
+        url: /thing1.html
+      - page: Einzelne Präsentationen
+        url: /thing2.html
+      - page: Presse über uns
+        url: /thing3.html
+  - title: Zur kollaborativen Edition
+    url: /edition.html
+  - title: Stellenausschreibungen
+    url: /edition.html
+  - title: Kontakt
+    url: /edition.html
+    
