@@ -26,7 +26,7 @@ Employment requirements include:
 
 ## Application:
 The salary is 2,300.30 euros (gross) per month (14 salaries/year) on the basis of 30 h/week. The place of employment is the Austrian National Library / Department of Research and Data Services in Vienna. Options for working remotely at a flexible schedule.
-We look forward to receiving your application. Please send your letter of motivation and CV including links to reference software projects or relevant code repositories summarized in one PDF file by 11/6/2023 to: [jobs-elaute@onb.ac.at](mailto:jobs-elaute@onb.ac.at?subject=Bewerbung%Wissenschaftliche%20MitarbeiterIn%20Datenmodellierung)
+We look forward to receiving your application. Please send your letter of motivation and CV including links to reference software projects or relevant code repositories summarized in one PDF file by 14/6/2023 to: [jobs-elaute@onb.ac.at](mailto:jobs-elaute@onb.ac.at?subject=Bewerbung%Wissenschaftliche%20MitarbeiterIn%20Datenmodellierung)
 Submission of the application constitutes consent under data protection law to the processing of your application data. The personal data you provide will be used exclusively within the framework of the selection procedure. Your application documents will be stored internally until the selection procedure is completed and will be deleted thereafter.
 
 
