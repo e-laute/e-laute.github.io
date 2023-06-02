@@ -25,6 +25,6 @@ Was wir von Ihnen erwarten:
 
 Bewerbung:
 Das Gehalt beträgt auf Basis von 30 h/Woche mindestens 2.300 Euro (brutto) pro Monat (14 Gehälter/Jahr). Der Dienstort ist die Österreichische Nationalbibliothek / Abteilung Forschung und Datenservices in Wien. Es gibt die Möglichkeit von Home Office und flexibler Arbeitszeiteinteilung.
-Wir freuen uns auf Ihre Bewerbung. Bitte senden Sie Ihr Motivationsschreiben und Ihren Lebenslauf inkl. Links zu Referenz-Softwareprojekten bzw. relevanten Code-Repositories zusammengefasst in einer PDF-Datei bis zum 11.6.2023 an: [jobs-elaute@onb.ac.at](mailto:jobs-elaute@onb.ac.at?subject=Bewerbung%Wissenschaftliche%20MitarbeiterIn%20Datenmodellierung)
+Wir freuen uns auf Ihre Bewerbung. Bitte senden Sie Ihr Motivationsschreiben und Ihren Lebenslauf inkl. Links zu Referenz-Softwareprojekten bzw. relevanten Code-Repositories zusammengefasst in einer PDF-Datei bis zum 14.6.2023 an: [jobs-elaute@onb.ac.at](mailto:jobs-elaute@onb.ac.at?subject=Bewerbung%Wissenschaftliche%20MitarbeiterIn%20Datenmodellierung)
 Die Einreichung der Bewerbung stellt eine datenschutzrechtliche Einwilligung in die Verarbeitung Ihrer Bewerbungsdaten dar. Die von Ihnen zur Verfügung gestellten Daten zu Ihrer Person werden ausschließlich im Rahmen des Auswahlverfahrens verwendet. Ihre Bewerbungsunterlagen werden bis zum Abschluss des Auswahlverfahrens intern gespeichert und danach gelöscht.
 
