@@ -4,3 +4,54 @@ plugins:
 - jekyll-remote-theme 
 title: E-LAUTE
 description: Electronic Linked Annotated Unified Tablature Edition
+
+
+
+languages: ["en", "de"]
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: false
+
+edition: dei mama
+presentation:
+  de: Präsentation
+  en: Presentation
+
+project:
+  de: Das Projekt
+  en: The Project
+
+team:
+  de: Team
+  en: Team
+
+partner:
+  de: Partner & Beratendes Gremium
+  en: Partners & advisory panel
+
+aspects: 
+  de: Einzelne Aspekte
+  en: Single aspects
+
+single_presentations:
+  de: Einzelne Präsentationen
+  en: Single presentations
+
+press:
+  de: Presse über uns
+  en: Press about us
+
+collab:
+  de: Zur kollaborativen Edtion
+  en: Collaborative edition
+
+sourcing:
+  de: Stellenausschreibungen
+  en: Sourcing
+
+contact:
+  de: Kontakt
+  en: Contact
+
+activity:
+  de: Aktivitäten
+  en: Activities

@@ -4,10 +4,24 @@
 
 .navbar {
   margin-left: 17rem;
+  color: white;
 }
 
 .dropdown-menu {
-  background-color: #933 !important;
+  background-color: rgb(198, 94, 94) !important;
+}
+
+.dropdown-item {
+  color: white !important;
+}
+
+.navigation {
+  background-color: rgb(198, 94, 94) !important;
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
 }
 
 body { 
