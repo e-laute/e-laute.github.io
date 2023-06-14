@@ -11,7 +11,6 @@ languages: ["en", "de"]
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: false
 
-edition: dei mama
 presentation:
   de: Präsentation
   en: Presentation
@@ -55,3 +54,10 @@ contact:
 activity:
   de: Aktivitäten
   en: Activities
+
+
+collections:
+  de:
+    output: true
+  en:
+    output: true
