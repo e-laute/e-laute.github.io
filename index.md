@@ -31,7 +31,7 @@ Das Kernteam vereinigt sieben Institutionen und besteht aus:
 [Dr. Reinier de Valk](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich; Musikinformatik
 
 Deutschland:   
-[Prof. Dr. Irene Holzer](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Deutschland, Ludwig-Maximilian-Universität München; Musikwisssenschaft  
+[Prof. Dr. Irene Holzer](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Deutschland, Ludwig-Maximilian-Universität München; Musikwissenschaft  
 [Prof. Dr. Cordula Kropik](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Deutschland, Universität Bayreuth; Germanistische Mediävistik  
 
 Schweiz:  
