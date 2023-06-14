@@ -3,6 +3,7 @@
 We are seeking Research Associates (prae-doc) to work as part of the international Weave project 'E-LAUTE: Electronic Linked Annotated Unified Tablature Edition -- The Lute in the German-Speaking Area 1450-1550' in areas of research including musicology, medieval German studies, performance practice, and music informatics. [Please click here to see all currently advertised positions](/jobs_en).
 
 ![Stammbuch Paul Jenisch Kutsche](/assets/img/Paul_Jenisch_Kutsche.png)
+<div class="acks">Image: Stuttgart, Württembergische Landesbibliothek, Cod. hist. qt. 298, Bl. 180v</div>
 ## The Lute in the German-Speaking Area 1450–1550
 
 We are creating an open-access comprehensive and interactive edition of the lute tablatures (special notations for lutes) of the German-speaking area between 1450 and 1550. The corpus (2,000 pages) has not yet been investigated as a whole and is barely accessible to scholars and professional musicians as well as to the broad public, has not been deciphered and has therefore been evaluated only selectively. The reasons for this being the notation (‘German lute tablature’), which is little used today, the sites of the manuscripts scattered throughout Central Europe, and the fact that consistent adequate research methods have not yet been worked up.
@@ -14,6 +15,7 @@ As scholars, we are also working on five pilot studies on our platform that cove
 The E-LAUTE project brings together international and interdisciplinary researchers to achieve desiderata in the evaluation of this cultural heritage. It is funded by international programm WEAVE in cooperation of the Austrian Science Fund (FWF, Lead Agency, I 6019-G), the German Research Foundation (DFG) and the Swiss National Science Foundation (SNF).
 
 ![Tablature book](/assets/img/buch.jpg)
+<div class="acks">Image:  UKR-LVu 1400/I, photo by Kateryna Schöning</div>
 
 ## Core team
 

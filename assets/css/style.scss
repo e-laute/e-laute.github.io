@@ -95,10 +95,18 @@ hr {
   background: transparent url("../images/hr.png") center/150% no-repeat;
 }
 
-#funder-acks { 
+#funder-acks, #logo-acks { 
   margin-top:1em;
   text-align:center;
 }
+
+.acks {
+  font-size: 13px;
+  margin-top:-1.5em;
+  margin-bottom:1em;
+  text-align:center;
+}
+
 
 .inner { 
   width: 1000px !important;
