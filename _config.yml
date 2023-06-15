@@ -61,3 +61,7 @@ collections:
     output: true
   en:
     output: true
+
+research:
+  de: Forschung
+  en: Research

@@ -1,33 +1,34 @@
 {% assign lang = site.active_lang %}
 
-<nav class="navbar navbar-expand-md">
-    <div class="container {% unless page.title %}container-home{% endunless %}">
-        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-            <span>
-                <i class="fa-solid fa-bars"></i>
-            </span>
+<nav class="navbar navbar-expand-lg navbar-dark center">
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01"
+            aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbar">
-            <ul class="navbar-nav nav-main mr-auto list-unstyled">
-                <div class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+        <div class="collapse navbar-collapse ml-2 navbar-inner" id="navbarColor01">
+            <ul class="navbar-nav me-auto">
+
+                <li class="nav-link dropdown">
+
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown"
+                        aria-expanded="false">
                         {{site.project[lang]}}
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <div class="dropdown-menu">
                         <a class="dropdown-item" href="/presentation">{{site.presentation[lang]}}</a>
                         <a class="dropdown-item" href="/team">{{site.team[lang]}}</a>
                         <a class="dropdown-item" href="/partner">{{site.partner[lang]}}</a>
                     </div>
-                </div>
-                <div class="nav-item">
-                    <a class="nav-link" href="/edition">Edition</a>
-                </div>
-                <div class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                        Forschung
+                </li>
+
+                <li class="nav-link dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        {{site.research[lang]}}
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <div class="dropdown-menu">
                         <a class="dropdown-item" href="/pilotI">Pilot I</a>
                         <a class="dropdown-item" href="/pilotII">Pilot II</a>
                         <a class="dropdown-item" href="/pilotIII">Pilot III</a>
@@ -36,27 +37,34 @@
                         <a class="dropdown-item" href="/meitei">MEI & TEI</a>
                         <a class="dropdown-item" href="/aspects">{{site.aspects[lang]}}</a>
                     </div>
-                </div>
-                <div class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                </li>
+
+                <li class="nav-link">
+                    <a class="link-no-decoration nav-link" href="/partner">{{site.partner[lang]}}</a>
+                </li>
+
+
+                <li class="nav-link dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown"
+                        aria-expanded="false">
                         {{site.activity[lang]}}
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <div class="dropdown-menu">
                         <a class="dropdown-item" href="/workshop">Workshop E-LAUTE 3.7.-4.7. 2023 Wien</a>
                         <a class="dropdown-item" href="/single-presentation
-                        ">{{site.single_presentations[lang]}}</a>
+                ">{{site.single_presentations[lang]}}</a>
                         <a class="dropdown-item" href="/press">{{site.press[lang]}}</a>
                     </div>
-                </div>
-                <div class="nav-item">
+                </li>
+                <li class="nav-link">
                     <a class="nav-link" href="/collaboration">{{site.collab[lang]}}</a>
-                </div>
-                <div class="nav-item">
+                </li>
+                <li class="nav-link">
                     <a class="nav-link" href="/jobs">{{site.sourcing[lang]}}</a>
-                </div>
-                <div class="nav-item">
+                </li>
+                <li class="nav-link">
                     <a class="nav-link" href="/contact">{{site.contact[lang]}}</a>
-                </div>
+                </li>
             </ul>
         </div>
     </div>

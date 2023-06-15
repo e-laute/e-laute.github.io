@@ -3,8 +3,8 @@
 @import "{{ site.theme }}";
 
 .navbar {
-  margin-left: 17rem;
-  color: white;
+  display: flex;
+  justify-content: center;
 }
 
 .dropdown-menu {
@@ -18,6 +18,8 @@
 .navigation {
   background-color: rgb(198, 94, 94) !important;
   color: white !important;
+  display: flex;
+  justify-content: center;
 }
 
 .nav-link {
@@ -68,6 +70,7 @@ footer {
 body { 
   text-align: justify;
 }
+
 
 #lang-select { 
   display:flex;
@@ -166,20 +169,25 @@ header {
 ================================================== */
 
 /* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) { }
+@media only screen and (max-width: 959px) { 
+  
+}
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
-@media only screen and (min-width: 768px) and (max-width: 959px) { }
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+  
+ }
 
 /* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 990px) {
   header {
     padding-top: 10px;
     padding-bottom: 10px;
   }
 
   .header-wrapper { 
-    width:94% !important;
+    width:100% !important;
   }
 
   .header-wrapper h2 { 
@@ -204,11 +212,22 @@ header {
   ol li {
     margin-left: 10px;
   }
+
 }
 
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-@media only screen and (min-width: 480px) and (max-width: 767px) { }
+@media only screen and (min-width: 480px) and (max-width: 990px) {
+  
+  .navigation {
+    justify-content: left;
+  }
+ }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 479px) { }
+@media only screen and (max-width: 479px) {
+  .navigation {
+    justify-content: left;
+  }
+ }
+
