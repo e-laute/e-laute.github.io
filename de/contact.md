@@ -4,7 +4,7 @@ permalink: /contact/
 lang: de
 ---
 
-### Kontakt
+### Contact
 _Austria_  
 - [Dr. Kateryna Schöning](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/) kateryna.schoening@univie.ac.at    
 - [Dr. David M. Weigl](https://iwk.mdw.ac.at/david-weigl), weigl@mdw.ac.at   
