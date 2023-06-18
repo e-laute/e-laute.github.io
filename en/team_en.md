@@ -23,24 +23,24 @@ ___
 - **N.N.** PhD, Austrian National Library / Vienna University of Technology, Information, Software Engineering     
 - **N.N.** PhD, Vienna University of Technology, Information, Software Engineering     
 ___
-#### Deutschland
+#### Germany
 ---
-- [**Prof. Dr. Irene Holzer**](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Deutschland, Ludwig-Maximilian-Universität München, Musikwissenschaft
-- [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Deutschland, Universität Bayreuth, Germanistische Mediävistik  
-- [**Dr. Stefan Rosmer**](https://germanistik.philhist.unibas.ch/de/personen/stefan-rosmer/), Universität Bayreuth, Germanistische Mediävistik & Universität Basel, Sprach- und Literaturwissenschaft   
-- [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-Universität München, Musikwissenschaft  
-- **Francisca Gruber**, stud. Mitarbeiterin,  Universität Bayreuth, Germanistische Mediävistik  
-- **Elias Schedler**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft    
-- **Jochen Schnapka**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft
-- **N.N:**, stud. Mitarbeiter/in,  Universität Bayreuth, Germanistische Mediävistik     
+- [**Prof. Dr. Irene Holzer**](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Germany, Ludwig-Maximilian-University Munich, Musicology    
+- [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Germany, University of Bayreuth, German Medieval Studies    
+- [**Dr. Stefan Rosmer**](https://germanistik.philhist.unibas.ch/de/personen/stefan-rosmer/), University of Bayreuth, German Medieval Studies & University of Basel, German Linguistics and Literature     
+- [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-University Munich, Musicology    
+- **Francisca Gruber**, student assistant, University of Bayreuth, German Medieval Studies    
+- **Elias Schedler**, student assistant, Ludwig-Maximilian-University Munich, Musicology    
+- **Jochen Schnapka**, student assistant, Ludwig-Maximilian-University Munich, Musicology  
+- **N.N.**, student assistant, University of Bayreuth, German Medieval Studies       
 
 
 ___
-#### Schweiz
+#### Switzerland
 ---
-- [**Prof. Dr. Martin Kirnbauer**](https://www.fhnw.ch/de/personen/martin-kirnbauer), PI Schweiz, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis   
-- [**Prof. Dr. Marc Lewon**](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis, Laute)  
-- **PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)
-- **N.N.**, stud. Mitarbeiter/in, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)   
-- **N.N.**, stud. Mitarbeiter/in, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)  
-## team englisch
+- [**Prof. Dr. Martin Kirnbauer**](https://www.fhnw.ch/de/personen/martin-kirnbauer), PI Switzerland, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice     
+- [**Prof. Dr. Marc Lewon**](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)  
+- **PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)   
+- **N.N.**, student assistant, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)     
+- **N.N.**, student assistant,Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)    
+
