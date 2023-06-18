@@ -33,7 +33,8 @@ Das Kernteam vereinigt sieben Institutionen und besteht aus:
 - [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-Universität München, Musikwissenschaft  
 - **Francisca Gruber**, stud. Mitarbeiterin,  Universität Bayreuth, Germanistische Mediävistik  
 - **Elias Schedler**,stud. Mitarbeiter,Ludwig-Maximilian-Universität München, Musikwisssenschaft    
-- **Jochen Schnapka**, stud. Mitarbeiter,Ludwig-Maximilian-Universität München, Musikwisssenschaft   
+- **Jochen Schnapka**, stud. Mitarbeiter,Ludwig-Maximilian-Universität München, Musikwisssenschaft
+- **N.N:**, stud. Mitarbeiter/in,  Universität Bayreuth, Germanistische Mediävistik     
 
 
 
