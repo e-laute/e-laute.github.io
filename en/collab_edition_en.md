@@ -3,5 +3,7 @@ title: Collab
 permalink: /collaboration/
 lang: en
 ---
+### Do you also want to (co-)edit?
+...or do you already have your own editions? Write to us, we are interested in exchanging experience and materials!
 
-## Collab ENGLISCH
+![](/assets/img/PC_4.png)
