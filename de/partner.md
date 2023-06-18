@@ -12,6 +12,9 @@ ___
 [Prof. Dr. John Griffiths](https://findanexpert.unimelb.edu.au/profile/16194-john-griffiths), AM Oficial de la Orden de Isabel la Católica FAHA Chair, [IMS Study Group “Tablature in Western Music”](https://www.musicology.org/networks/sg/tablature), Director-at-Large, International Musicological Society  
 ![](/assets/img/IMS.png)
 ___
+[Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Professorial Research Fellow in Computational Musicology, Goldsmiths University of London, Department of Computing  
+![](/assets/img/Goldsmiths.png)
+___
 
 
 ### Beratendes Gremium
