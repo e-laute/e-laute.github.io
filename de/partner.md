@@ -22,7 +22,10 @@ ___
 ___
 [Bayerische Staastbibliopthek](https://www.bsb-muenchen.de/sammlungen/musik/)  
 
-![](/assets/img/BSB-Logo_Claim-deutsch_3.jpg)
+![](/assets/img/BSB-Logo_Claim-deutsch_3.jpg)  
+___
+[Dr. Christine Glaßner](https://www.oeaw.ac.at/imafo/forschung/schrift-buchwesen/mitarbeiterinnen/christine-glassner), 
+![](/assets/img/ÖAW.png)
 
 ### Beratendes Gremium
 ---
