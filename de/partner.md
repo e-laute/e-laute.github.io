@@ -28,7 +28,11 @@ ___
 
 ![](/assets/img/OeAW_2.png) ![](/assets/img/imafo_logo_kurz_HP_var01b_96_230_v2.png)  ![](/assets/img/Manuscripta.png)
 ___
-[Prof. Dr. Andrea Lindmayr-Brandl](https://www.plus.ac.at/kunst-musik-und-tanzwissenschaft/abteilung-musik-und-tanzwissenschaft/die-abteilung/personen/wissenschaftliches-personal/andrea-lindmayr-brandl-univ-prof-dr-mag-art/), Paris Lodron Universität Salzburg,Abteilung Musik- udn Tanzwissenschaft, Leiterin des Projekts [_Music Printing in German Speaking Lands: From the 1470s to the mid-16th century_]()  
+[Prof. Dr. Andrea Lindmayr-Brandl](https://www.plus.ac.at/kunst-musik-und-tanzwissenschaft/abteilung-musik-und-tanzwissenschaft/die-abteilung/personen/wissenschaftliches-personal/andrea-lindmayr-brandl-univ-prof-dr-mag-art/), Paris Lodron Universität Salzburg, Abteilung Musik- und Tanzwissenschaft, Leiterin der Projekte [_Early music printing in German-speaking lands: Technical and repertoire development_](http://vdm-sbg.eu/db/music_prints.php), [_From the 1470s to the mid-16th century_](http://vdm-sbg.eu/db/music_prints.php), [_vdm Verzeichnis deutscher Musikdrucke_](http://vdm-sbg.eu/db/music_prints.php)  
+
+![](/assets/img/uni-sbg.GIF)
+___
+
 
 ### Beratendes Gremium
 ---
