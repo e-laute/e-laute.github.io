@@ -1,5 +1,5 @@
 ---
-title: Partner
+title: Cooperation Partner, Advisory Board, Funders
 permalink: /partner/
 lang: en
 ---
