@@ -17,7 +17,7 @@ Das Kernteam vereinigt sieben Institutionen und besteht aus:
 [Prof. Dr. Andreas Rauber](https://informatics.tuwien.ac.at/people/andreas-rauber), Technische Universität Wien, Information-, Softwareentwicklung    
 [Dr. Reinier de Valk](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich, Musikinformatik  
 [PhD Paul Kieffer](https://www.discogs.com/de/artist/3805018-Paul-Kieffer), Universität Wien, Institut für Musikwissenschaft, Laute / Musikwissenschaft  
-[Henning Burghoff](), stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik  
+Henning Burghoff, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik  
 BA Barbara Recheis, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft   
 Eva Schöfer, stud. Mitarbeiterin, bis zum 31.5.2023, Universität Wien, Musikwissenschaft  
 Maximilian Höller, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung
