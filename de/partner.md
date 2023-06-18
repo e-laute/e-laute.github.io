@@ -24,11 +24,11 @@ ___
 
 ![](/assets/img/BSB-Logo_Claim-deutsch_3.jpg)  
 ___
-[Dr. Christine Glaßner](https://www.oeaw.ac.at/imafo/forschung/schrift-buchwesen/mitarbeiterinnen/christine-glassner), Leiterin der Abteilung für Paläographie und Kodikologie and das Team des Instituts für Mittelalterforschung der Österreichischen Akademie der Wissenschaften  
+[Dr. Christine Glaßner](https://www.oeaw.ac.at/imafo/forschung/schrift-buchwesen/mitarbeiterinnen/christine-glassner), Leiterin der Abteilung für Paläographie und Kodikologie and [Dr. Maria Stieglecker](https://www.oeaw.ac.at/imafo/forschung/schrift-buchwesen/mitarbeiterinnen/maria-stieglecker), Institut für Mittelalterforschung der Österreichischen Akademie der Wissenschaften, Forschuhngsplatform [_Mittelalterliche Handschriften in Österreich_](https://manuscripta.at/team.php)  
 
-![](/assets/img/OeAW_2.png) ![](/assets/img/imafo_logo_kurz_HP_var01b_96_230_v2.png)
+![](/assets/img/OeAW_2.png) ![](/assets/img/imafo_logo_kurz_HP_var01b_96_230_v2.png)  ![](/assets/img/Manuscripta.png)
 ___
-
+[Prof. Dr. Andrea Lindmayr-Brandl](https://www.plus.ac.at/kunst-musik-und-tanzwissenschaft/abteilung-musik-und-tanzwissenschaft/die-abteilung/personen/wissenschaftliches-personal/andrea-lindmayr-brandl-univ-prof-dr-mag-art/), Paris Lodron Universität Salzburg,Abteilung Musik- udn Tanzwissenschaft, Leiterin des Projekts [_Music Printing in German Speaking Lands: From the 1470s to the mid-16th century_]()  
 
 ### Beratendes Gremium
 ---
