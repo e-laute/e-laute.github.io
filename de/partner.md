@@ -9,7 +9,8 @@ lang: de
 [PD Dr. Laurent Pugin](https://rism.digital/organization/contact.html) RISM Digital, Schweiz  
 ![](/assets/img/RISM.png) 
 
-[IMS Study Group “Tablature in Western Music”](https://www.musicology.org/networks/sg/tablature)
+[IMS Study Group “Tablature in Western Music”](https://www.musicology.org/networks/sg/tablature)  
+![](/assets/img/IMS.png)
 
 ### Beratendes Gremium
 ---
