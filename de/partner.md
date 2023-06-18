@@ -1,5 +1,5 @@
 ---
-title: Kooperationspartner, Förderer, Beratendes Gremium  
+title: Kooperationspartner, Beratendes Gremium, Förderer,  
 permalink: /partner/
 lang: de
 ---
@@ -41,5 +41,6 @@ ___
 - [Dr. David Lewis](https://eng.ox.ac.uk/people/david-lewis/), Goldsmiths University of London, Großbritannien, Dept. of Computing / University of Oxford, UK, Oxford e-Research Centre   
 - [Prof. Dr. Birgit Lodes](https://musikwissenschaft.univie.ac.at/ueber-uns/team/lodes/), Universität Wien, Institut für Musikwissenschaft
 ___
-### Unsere Förderer  
+### Unsere Förderer   
+
 
