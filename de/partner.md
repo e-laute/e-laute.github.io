@@ -1,13 +1,12 @@
 ---
-title: Partner
+title: Partner & Beratendes Gremium  
 permalink: /partner/
 lang: de
 ---
 
-##Partner Deutsch
-### Kooperationspartner
+### Partner Deutsch
 ---
-[Dr. Laurent Pugin](https://rism.digital/organization/contact.html), RISM Digital, Schweiz
+[Dr. Laurent Pugin](https://rism.digital/organization/contact.html), RISM Digital, Schweiz !
 
 ### Advisory Board
 ---
