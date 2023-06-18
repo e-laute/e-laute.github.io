@@ -18,7 +18,7 @@ ___
 ___
 [Prof. Dr. Birgit Lodes](https://musikwissenschaft.univie.ac.at/ueber-uns/team/lodes/), Head of the Department of Musicology, University of Vienna, Corr. Member of the Austrian Academy of Sciences, Member of the Academia Europaea, Head of the online research project [_Musical Life of the Late Middle Ages in the Austrian Region_](https://musical-life.net), Leader of the publications of the [_Denkmäler der Tonkunst in Österreich_](http://www.dtoe.at) 
 
-![](/assets/img/OeDT_2.png)
+![](/assets/img/OeDT_2.png)   |  | ![](/assets/img/uni_logo_2.jpg)
 
 
 ### Beratendes Gremium
