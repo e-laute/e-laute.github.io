@@ -37,8 +37,9 @@ Das Kernteam vereinigt sieben Institutionen und besteht aus:
 
 #### Schweiz
 ---
-[Prof. Dr. Martin Kirnbauer](https://www.fhnw.ch/de/personen/martin-kirnbauer), PI Schweiz, Schola Cantorum Basiliensis / FHNW Basel; Musikwissenschaft und Aufführungspraxis   
-[Prof. Dr. Marc Lewon](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel; Musikwissenschaft und Aufführungspraxis, Laute)
+[**Prof. Dr. Martin Kirnbauer**](https://www.fhnw.ch/de/personen/martin-kirnbauer), PI Schweiz, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis   
+[**Prof. Dr. Marc Lewon**](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis, Laute)  
+**PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)
 
 
 
