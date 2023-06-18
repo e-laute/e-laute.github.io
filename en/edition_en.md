@@ -4,4 +4,5 @@ permalink: /edition/
 lang: en
 ---
 
-## Edition englisch
+### Edition englisch
+Access to our digital edition being prepared here
