@@ -1,5 +1,5 @@
 ---
-title: Kooperationspartner, Beratendes Gremium, Förderer,  
+title: Kooperationspartner, Beratendes Gremium, Förderer  
 permalink: /partner/
 lang: de
 ---
