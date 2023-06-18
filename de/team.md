@@ -4,10 +4,8 @@ permalink: /team/
 lang: de
 ---
 
-## team deutsch
-
-Das Kernteam vereinigt sieben Institutionen und besteht aus:
-
+### team
+___
 #### Österreich
 ---  
 - [**Dr. Kateryna Schöning**](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), Leitung, PI Österreich, Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft  
