@@ -13,9 +13,10 @@ Das Kernteam vereinigt sieben Institutionen und besteht aus:
 [Dr. David M. Weigl](https://iwk.mdw.ac.at/david-weigl), Data Officer, Universität für Musik und darstellender Kunst Wien; Web Science und Musikinformatik  
 [Mag. Max Kaiser](http://www.maxkaiser.at/), Österreichische Nationalbibliothek, host, IT  
 [Mag. Martin Krickl](https://onb.academia.edu/MartinKrickl), bis 15.6.2023, Österreichische Nationalbibliothek, host, IT   
-[DI Christoph Steindl] (https://edition.onb.ac.at/digital edition.at), Österreichische Nationalbibliothek, host, IT  
+[DI Christoph Steindl](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Österreichische Nationalbibliothek, host, IT  
 [Prof. Dr. Andreas Rauber](https://informatics.tuwien.ac.at/people/andreas-rauber), Technische Universität Wien; Information-, Softwareentwicklung    
-[Dr. Reinier de Valk](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich; Musikinformatik
+[Dr. Reinier de Valk](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich; Musikinformatik  
+[PhD Paul Kieffer](https://www.discogs.com/de/artist/3805018-Paul-Kieffer), Universität Wien, Institut für Musikwissenschaft, Laute / Musikwissenschaft 
 
 **Deutschland**   
 [Prof. Dr. Irene Holzer](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Deutschland, Ludwig-Maximilian-Universität München; Musikwisssenschaft  
