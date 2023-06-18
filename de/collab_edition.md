@@ -1,7 +1,7 @@
 ---
-title: Collab
+title: Edition als Dialog 
 permalink: /collaboration/
 lang: de
 ---
 
-## Collab DEUTSCH
+## Wollen Sie auch (Mit)edieren?
