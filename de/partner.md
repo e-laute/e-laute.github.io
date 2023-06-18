@@ -13,9 +13,11 @@ ___
 ![](/assets/img/IMS.png)
 ___
 [Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Professorial Research Fellow in Computational Musicology, Goldsmiths University of London, Department of Computing  
-![](/assets/img/Goldsmiths.png)
+![](/assets/img/Goldsmiths_2.png)
 ___
-[Prof. Dr. Birgit Lodes](https://musikwissenschaft.univie.ac.at/ueber-uns/team/lodes/), Head of the Department of Musicology, University of Vienna, Corr. Member of the Austrian Academy of Sciences, Member of the Academia Europaea, Head of the online research project [_Musical Life of the Late Middle Ages in the Austrian Region_](https://musical-life.net), Leader of the publications of the [_Denkmäler der Tonkunst in Österreich_](http://www.dtoe.at)
+[Prof. Dr. Birgit Lodes](https://musikwissenschaft.univie.ac.at/ueber-uns/team/lodes/), Head of the Department of Musicology, University of Vienna, Corr. Member of the Austrian Academy of Sciences, Member of the Academia Europaea, Head of the online research project [_Musical Life of the Late Middle Ages in the Austrian Region_](https://musical-life.net), Leader of the publications of the [_Denkmäler der Tonkunst in Österreich_](http://www.dtoe.at) 
+
+![](/assets/img/OeDT_2.png)
 
 
 ### Beratendes Gremium
