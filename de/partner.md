@@ -1,14 +1,14 @@
 ---
-title: Partner & Beratendes Gremium  
+title: Kooperationspartner & Beratendes Gremium  
 permalink: /partner/
 lang: de
 ---
 
-### Partner Deutsch
+### Kooperationspartner
 ---
-[Dr. Laurent Pugin](https://rism.digital/organization/contact.html), RISM Digital, Schweiz ![](/assets/img/logo.png)
+[Dr. Laurent Pugin](https://rism.digital/organization/contact.html), RISM Digital, Schweiz  ![](/assets/img/logo.png)
 
-### Advisory Board
+### Beratendes Gremium
 ---
 [Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Goldsmiths University of London, Großbritannien, Dept. of Computing  
 [Prof. Dr. John Griffiths](https://www.lavihuela.com/), University of Melbourne, Australien; Chair, Tablature in Western Music Study Group, IMS  
