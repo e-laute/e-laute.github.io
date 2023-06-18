@@ -42,9 +42,9 @@ ___
 - [Dr. David Lewis](https://eng.ox.ac.uk/people/david-lewis/), Goldsmiths University of London, Großbritannien, Dept. of Computing / University of Oxford, UK, Oxford e-Research Centre   
 - [Prof. Dr. Birgit Lodes](https://musikwissenschaft.univie.ac.at/ueber-uns/team/lodes/), Universität Wien, Institut für Musikwissenschaft
 ___
-### Unsere Förderer   
-![](/assets/img/Weave_Slider_2.jpg) ![](/assets/img/space.png) ![](/assets/img/FWF_2.png)   
-![](/assets/img/dfg_3.jpg)
+### Unsere Förderer 
+___
+![](/assets/img/Weave_Slider_2.jpg) ![](/assets/img/space.png) ![](/assets/img/FWF_2.png)  ![](/assets/img/space.png) ![](/assets/img/dfg_3.jpg)
 
 
 
