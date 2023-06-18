@@ -9,8 +9,9 @@ lang: de
 [PD Dr. Laurent Pugin](https://rism.digital/organization/contact.html) RISM Digital, Schweiz  
 ![](/assets/img/RISM.png)  
 ___
-[Prof. Dr. John Griffiths](https://findanexpert.unimelb.edu.au/profile/16194-john-griffiths), AM Oficial de la Orden de Isabel la Católica FAHA Chair, [IMS Study Group _Tablature in Western Music_](https://www.musicology.org/networks/sg/tablature), Director-at-Large, International Musicological Society  
-![](/assets/img/IMS.png)
+[Prof. Dr. John Griffiths](https://findanexpert.unimelb.edu.au/profile/16194-john-griffiths), AM Oficial de la Orden de Isabel la Católica FAHA Chair, [IMS Study Group _Tablature in Western Music_](https://www.musicology.org/networks/sg/tablature), Director-at-Large, International Musicological Society
+
+![](/assets/img/IMS_3.png)
 ___
 [Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Professorial Research Fellow in Computational Musicology, Goldsmiths University of London, Department of Computing  
 ![](/assets/img/Goldsmiths_2.png)
