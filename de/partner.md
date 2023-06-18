@@ -3,7 +3,7 @@ title: Kooperationspartner, Förderer, Beratendes Gremium
 permalink: /partner/
 lang: de
 ---
-
+___
 ### Kooperationspartner
 ---
 [PD Dr. Laurent Pugin](https://rism.digital/organization/contact.html) RISM Digital, Schweiz  
