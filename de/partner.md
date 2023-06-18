@@ -6,7 +6,7 @@ lang: de
 
 ### Partner Deutsch
 ---
-[Dr. Laurent Pugin](https://rism.digital/organization/contact.html), RISM Digital, Schweiz !
+[Dr. Laurent Pugin](https://rism.digital/organization/contact.html), RISM Digital, Schweiz ![](/assets/img/logo.png)
 
 ### Advisory Board
 ---
