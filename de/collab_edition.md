@@ -4,4 +4,4 @@ permalink: /collaboration/
 lang: de
 ---
 
-## Wollen Sie auch (Mit)edieren?
+### Wollen Sie auch (Mit)edieren?
