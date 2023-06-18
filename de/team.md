@@ -32,8 +32,8 @@ Das Kernteam vereinigt sieben Institutionen und besteht aus:
 - [**Dr. Stefan Rosmer**](https://germanistik.philhist.unibas.ch/de/personen/stefan-rosmer/), Universität Bayreuth, Germanistische Mediävistik & Universität Basel, Sprach- und Literaturwissenschaft   
 - [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-Universität München, Musikwissenschaft  
 - **Francisca Gruber**, stud. Mitarbeiterin,  Universität Bayreuth, Germanistische Mediävistik  
-- **Elias Schedler**, stud. Mitarbeiter,Ludwig-Maximilian-Universität München, Musikwissenschaft    
-- **Jochen Schnapka**, stud. Mitarbeiter,Ludwig-Maximilian-Universität München, Musikwissenschaft
+- **Elias Schedler**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft    
+- **Jochen Schnapka**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft
 - **N.N:**, stud. Mitarbeiter/in,  Universität Bayreuth, Germanistische Mediävistik     
 
 
