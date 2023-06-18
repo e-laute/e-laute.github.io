@@ -4,5 +4,8 @@ permalink: /edition/
 lang: en
 ---
 
-### Edition englisch
-Access to our digital edition being prepared here
+### E-LAUTE Edition
+_Access to our digital edition E-LAUTE being prepared here_
+
+
+![](/assets/img/students_2.png) 
