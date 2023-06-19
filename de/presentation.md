@@ -83,7 +83,48 @@ _The Optical Music Recognition in French Lute Tablature Manuscripts (17th and 18
 
 **ab 14.00** Mittagessen im Garten des Café-Restaurants “Diglas im Schottenstift”  
 ___
+Das Hauptziel des Treffens ist es, in folgenden Arbeitsbereichen des Projekts voranzukommen:  
 
+(1) diplomatische und editorische Übertragung in CMN, GLT u.a. Tab;  
+(2) MEI-Friend und Arbeit mit dem Programm;  
+(3) Kodierung der GLT;  
+(4) Systematische, historische und bibliographische Erfassung des Text- und Musik-Materials (Logik, Struktur, Datenbank), mit der Perspektive der zukünftigen Darstellung des Materials auf unserer editorischen Plattform;  
+(5) Speicherung der Daten und Organisation des Projekts;  
+(6) Bearbeitung von Texten (TEI); Zusammenhang von Texten und Musik;  
+(7) Audiodaten, Auswahl, Aufnahme und Anbindung an die Edition;   
+(8) Perspektiven der OMR: erste Probe-Studien mit Ähnlickeitssuchen in den Notendaten;   
+
+(9) Pilot I+II (Teilaspekte): Text und Musik, Varianz, Metrik, Konkordanz, erste Zeichen der Lautentabulatur im 15. Jh.  
+(10) Pilot III (Teilaspekte): Text und Musik in den Intavolierungen des D-Mbs Mus.ms. 1512  
+(11) Website www.e-laute-info, Konzeption; Infrastruktur des ÖNB-Hosts   
+___
+Für die Anschaulichkeit nehmen wir nur wenige Probebeispiele, die wir von unterschiedlichen Seiten betrachten:    
+
+**Beispiele**:  
+A1 “Elslein, liebes Elslein mein”, fol. 22v, aus Hans Judenkünig, Ain schone kunstliche vnderweisung, Wien 1523  
+A2 “Elslein, liebes Elslein mein”, fol. 7v, aus A-Wn_Mus.Hs._18688 (Craus-Tabulatur)  
+A3: “Elslein, liebes Elslein mein”, fol. 24v, aus A-Wn_Mus.Hs._18688 (Craus-Tabulatur)  
+B1: Lied Nr. 134 aus  dem Königsteiner Liederbuch  
+B2: fol. 170v-171r, Nr. 134=146 aus  Königsteiner Liederbuch  
+C1: “Ich hat mir eyn falcken ußderkorn”/ “Zwischen berg und tieffem tail” fol. 142r-142v, Nr. 82 aus  Königsteiner Liederbuch  
+C2: “Pschissen perg und leckh die tall” [nach H. Isaac, „Zwischen Berg und tiefen Tal“, Tenor und Bass”], fol. 29r, aus A-Wn_Mus.Hs._18688 (Craus-Tabulatur)  
+D1: “Chiarenzana”, fol. 7v-8v, aus A-Wn Mus.Hs.18827, in zwei Varianten (im Original)  
+D2:  “Chiarenzana”, fol. 7v-8v, aus A-Wn Mus.Hs.18827, in zwei Varianten (ediert)  
+E: “Passo e mezzo”, fol. 34r-35r, PL-WRk 352   
+F: “Mein Fleiß und Mueh’”, fol. 17r, D-Mbs_Mus.ms_1512  
+___
+Teilnehmer des Workshops sind Mitglieder des Projekts und unsere Gäste.
+___
+Unsere Gäste und Respondenten:  
+**Prof. Tim Crawford**, Goldsmiths College, University of  London, Musikinformatik (online, im MEI-Teil)  
+**Dr. David Lewis**, Goldsmiths College, University of  London, Musikinformatik (online, im MEI-Teil)  
+**Dr. Anna Plaksin**, Universität Mainz, Musikinformatik (online, im “MEI-Friend”-Teil)  
+**Dr. Irina Döring**, Universität François-Rabelais in Tours, Musikwissenschaft und Aufführungspraxis (Laute, das 15. Jh.)  
+**Dr. Grzegorz Joachimiak**, Universität Wrocław, Musikwissenschaft und Aufführungspraxis (Laute, das 17.-18. Jh.)  
+**DI Arek Margraf**, Poznan Supercomputing and Networking Center/ PSNC (online)  
+**Dr. Stefan Gasch**, mdw Wien, Musikwissenschaft  
+**Prof. Dr. Birgit Lodes**, Universität Wien, Musikwissenschaft  
+**Prof. Frauke Jürgensen**, mdw Wien    
 
 
 
