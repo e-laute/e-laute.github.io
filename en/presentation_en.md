@@ -24,7 +24,7 @@ The E-LAUTE project brings together international and interdisciplinary research
 
 ___
 ## NEWS
-___
+
 ### E-LAUTE, Workshop / Kick-off Meeting, Vienna, 3.7.-4.7. 2023
 #### Venues: Institut of Musicology, University of Vienna, lecture hall 1
 
