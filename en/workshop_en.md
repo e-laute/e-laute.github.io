@@ -106,5 +106,5 @@ Our guests and responders:
 **Dr. Grzegorz Joachimiak**, University Wrocław, musicology and performance practice (lute, the 17th-18th c.)  
 **DI Arek Margraf**, Poznan Supercomputing and Networking Center/ PSNC (online)  
 **Dr. Stefan Gasch**, University of Music and Performing Arts Vienna, musicology  
-**Prof. Dr. Birgit Lodes**, Universität Wien, Musikwissenschaft  
+**Prof. Dr. Birgit Lodes**, Department of Musicology, University of Vienna,musicology   
 **Prof. Frauke Jürgensen**, University of Music and Performing Arts Vienna, musicology   
