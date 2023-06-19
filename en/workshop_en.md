@@ -20,52 +20,52 @@ Part **CMN**
 Material of the project  (K. Schöning)
 'MEI-Friend' (D. Weigl)  
 Transfer into CMN and editing the files in ‘MEI-Friend’ (D. Weigl, H. Burghoff, B. Recheis, K. Schöning)   
-Diskussion - 30’  
+Discussion - 30’  
 
-**10.35 - 10.45** Kaffeepause (bei schönem Wetter im Hof)  
+**10.35 - 10.45** Coffee break    
 
 **10.45 - 12.00**  
-Teil **GLT**   
-_Diplomatische Übertragung in GLT (“Fronimo”), Kodierung und Perspektiven der TabMEI, Arbeit mit ILT und FLT_ (P. Kieffer, M. Lewon, R. de Valk)   
-Diskussion - 30’ (Leitung D. Weigl)   
+Part **GLT**   
+_Literal transcription in GLT, encoding and perspectives of the TabMEI, Working with ILT and FLT_ (P. Kieffer, M. Lewon, R. de Valk)  
+Discussion - 30’ (leader D. Weigl)   
 
-**12.00 - 12.40** _**III.** Perspektiven der OMR: erste Probe-Studien mit Ähnlickeitssuchen in den Notendaten_ (A. Rauber, M. Höller)  
-Diskussion - 10’   
+**12.00 - 12.40** _**III.** Perspectives of OMR: first trial studies with similarity searches in music data_ (A. Rauber, M. Höller)  
+Discussion - 10’   
 
-**12.50 - 13.50** Gemeinsames Mittagessen: in “Bierheuriger zum Gangl”, Alser Str. 4, 1090 Wien  
+**12.50 - 13.50** Lunch: in 'Bierheuriger zum Gangl', Alser Str. 4, 1090 Wien    
 
-**14.00 - 15.20** _**IV.** **Pilot I + II**: Text und Musik in der Edition, erste Tabulatur-Aufzeichnungen. Fallstudie zum Königssteiner Liederbuch. Lieder in den Lautentabulaturen_  
-Stand der Forschung / Systematisierung von Texten, Pilot I (C.Kropik, S.Rosmer, Ch. Steindl)  
-**Pilot II**: frühe Tabulatur-Notation, Rolle des Texts, aufführungspraktische Agenda (M. Lewon)  
-Diskussion - 30’  
+**14.00 - 15.20** _**IV.** **Pilot I + II**: Text and music in the edition, first tablature characters. Case study on the Königssteiner Liederbuch. Songs in the lute tablatures_  
+-	State of research / systematisation of texts, Pilot I (C. Kropik, S. Rosmer, Ch. Steindl)  
+**Pilot II**: -	Pilot II: early tablature notation, role of the text, performance agenda (M. Lewon)  
+Discussion - 30’  
 
-**15.20 - 15.45** _**V.** Systematische, historische und bibliographische Erfassung des Text- und Musik-Materials (Logik, Struktur, Datenbank)_  (K.Schöning, Imput)  
-Diskussion - 20’  
+**15.20 - 15.45** _**V.** Systematic, historical and bibliographical gathering of text and music material (logic, structure, database)_  (K.Schöning, Imput)  
+Discussion - 20’  
 
-**15.45** Gemeinsamer Spaziergang zur ÖNB   
+**15.45** walking together to the ÖNB     
 
-**16.00 - 17.00** Besuch der Musiksammlung der ÖNB: Sichtung der handschriftlichen Tabulaturen   
+**16.00 - 17.00** visit to the music collection of the ÖNB: viewing of handwritten tablatures   
 
-**17.00 - 18.00** Prunksaal der ÖNB   
+**17.00 - 18.00** State Hall of the ÖNB   
 
-**18.00 - 19.00** gemeinsame Fahrt zum Heurigen  
+**18.00 - 19.00** Common trip to the Heurigen  
 
-**ab 19.00**  Abendessen beim Heurigen “Zum Martin Seep”, Cobenzlgasse 34, 1190 Wien-Grinzing    
+**ab 19.00**  Dinner at the Heurigen 'Zum Martin Seep', Cobenzlgasse 34, 1190 Wien-Grinzing      
 
-#### Tag 2 (4.7.2023)  
-**9.00 - 09.30** _**VI.** **Pilot III**: Fragestellung. Pilot III (Teilaspekte): Text und Musik in den Intavolierungen des D-Mbs Mus.ms. 1512_ (I. Holzer, O. Janjuš)  
-Diskussion - 15’  
+#### Day 2 (4.7.2023)  
+**9.00 - 09.30** _**VI.** **Pilot III**: (partial aspects): Text and Music in the Intavolations of the D-Mbs Mus.ms. 1512_ (I. Holzer, O. Janjuš)  
+Discussion - 15’  
 
-**9.45 - 10.15** _**VII. Externe Vorträge und Diskussionen……**_  
+**9.45 - 10.15** _**VII. External papers and discussions……**_  
 _The Optical Music Recognition in French Lute Tablature Manuscripts (17th and 18th centuries)_ (G. Joachimiak und A. Margraf)   
 
-**10.15 - 10.45** _Tabulaturmanuskripte verstehen: Die Bedeutung der nicht standardisierten Zeichen im späten 15. und frühen 16. Jahrhundert_ (I.Döring)   
+**10.15 - 10.45** _Understanding tablature manuscripts: The meaning of non-standard signs in the late 15th and early 16th centuries_ (I. Döring)   
 
-**10.45 - 11.00** Kaffeepause (bei schönem Wetter im Hof)    
+**10.45 - 11.00** Coffee break       
 
-**11.00 - 13.00** _Projektinterne Arbeitssitzung: Planung der nächsten Schritte & Zusammenfassung_  
+**11.00 - 13.00** _Project internal working session: planning of next steps & summary_  
 
-**ab 14.00** Mittagessen im Garten des Café-Restaurants “Diglas im Schottenstift”  
+**ab 14.00** Lunch in the garden of the Café-Restaurant 'Diglas im Schottenstift'  
 ___
 Das Hauptziel des Treffens ist es, in folgenden Arbeitsbereichen des Projekts voranzukommen:  
 
