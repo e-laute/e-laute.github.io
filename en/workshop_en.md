@@ -5,21 +5,21 @@ lang: en
 ---
 
 ### E-LAUTE, Workshop / Kick-off Meeting, Vienna, 3.7.-4.7. 2023
-#### Venues: Institut of Musicology, University Vienna, Hörsaal 1
+#### Venues: Institut of Musicology, University of Vienna, lecture hall 1
 
 ___
-Das internationale Team des Projekts E-LAUTE veranstaltet vom 3.7. bis 4.7. 2023 am Institut für Musikwissenschaft der Universität Wien (Hörsaal 1) ein öffentliches Arbeitstreffen. Wir, Fachkräfte aus 7 Institutionen in den Bereichen Musikwissenschaft, Aufführungspraxis, Germanistik, Musikinformatik und Web Science, diskutieren Themen der digitalen Aufarbeitung von Tabulaturen des 15. und 16. Jahrhunderts. Disziplinenübergreifend arbeiten wir an editorischen Strategien, MEI-Techniken und dem Encodieren der Deutschen Lautentabulatur, an neuer systematischer und historischer Erfassung des Text- und Musikmaterials sowie analytischen und repräsentativen Perspektiven in Verbindung mit modernen Technologien. 
+The international team of the E-LAUTE project will hold a public workshop meeting from 3 Jul to 4 Jul 2023 at the University of Vienna, Department of Musicology (lecture hall 1). As experts from 7 institutions in the fields of musicology, performance practice, German studies, music informatics and web science, we will discuss topics related to the digital processing of tablatures from the 15th and 16th century. Across disciplines, we are working on editorial strategies, MEI techniques and the encoding of the German lute tablature, on the systematic and historical reworking of textual and musical material, as well as analytical and representational perspectives in connection with modern technologies. 
 
-### DAS PROGRAMM
-#### Tag 1 (3.7.2023)
-**9.00 - 09.30** _**I.** Allgemeine Vorstellung des Projekts und dessen Teile_ (K. Schöning)  
-_Vorstellungsrunde_ (alle Mitglieder des Projekts)    
+### AGENDA  
+#### Day 1 (3.7.2023)
+**9.00 - 09.30** _**I.** General presentation of the project and its parts_ (K. Schöning)  
+_Short round of introductions_ (all members of the project)      
 
-**9.30 - 10.35** _**II.** Technische Grundlagen und originalgetreue Übertragung in “common music notation” (=CMN) und “German lute tablature” (=GLT); aktueller Arbeitsstand, Probleme - Lösungen, Perspektiven_   
-Teil **CMN**  
-Material des Projekts (K. Schöning)
-“MEI-Friend” (D.Weigl)  
-Übertragung in CMN und Bearbeitung der Dateien in MEI-Friend (D. Weigl, H. Burghoff, B. Recheis, K. Schöning)   
+**9.30 - 10.35** _**II.** Technical principles and literal transcription in 'common music notation' (=CMN) and 'German lute tablature' (=GLT); current state of work, issues - solutions, perspectives_   
+Part **CMN**  
+Material of the project  (K. Schöning)
+'MEI-Friend' (D. Weigl)  
+Transfer into CMN and editing the files in ‘MEI-Friend’ (D. Weigl, H. Burghoff, B. Recheis, K. Schöning)   
 Diskussion - 30’  
 
 **10.35 - 10.45** Kaffeepause (bei schönem Wetter im Hof)  
