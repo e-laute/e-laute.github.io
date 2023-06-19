@@ -105,6 +105,6 @@ Our guests and responders:
 **Dr. Irina Döring**, University François-Rabelais in Tours, musicology and performance practice (lute, the 15th century)    
 **Dr. Grzegorz Joachimiak**, University Wrocław, musicology and performance practice (lute, the 17th-18th c.)  
 **DI Arek Margraf**, Poznan Supercomputing and Networking Center/ PSNC (online)  
-**Dr. Stefan Gasch**, mdw Wien, Musikwissenschaft  
+**Dr. Stefan Gasch**, University of Music and Performing Arts Vienna, musicology  
 **Prof. Dr. Birgit Lodes**, Universität Wien, Musikwissenschaft  
-**Prof. Frauke Jürgensen**, mdw Wien   
+**Prof. Frauke Jürgensen**, University of Music and Performing Arts Vienna, musicology   
