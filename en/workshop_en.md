@@ -34,8 +34,8 @@ Discussion - 10’
 
 **12.50 - 13.50** Lunch: in 'Bierheuriger zum Gangl', Alser Str. 4, 1090 Wien    
 
-**14.00 - 15.20** _**IV.** **Pilot I + II**: Text and music in the edition, first tablature characters. Case study on the Königssteiner Liederbuch. Songs in the lute tablatures_  
--	State of research / systematisation of texts, Pilot I (C. Kropik, S. Rosmer, Ch. Steindl)  
+**14.00 - 15.20** _**IV.** **Pilot I + II**: Text and music in the edition, first tablature characters. Case study on the Königssteiner Liederbuch. Songs in the lute tablatures_   
+State of research / systematisation of texts, Pilot I (C. Kropik, S. Rosmer, Ch. Steindl)  
 **Pilot II**: -	Pilot II: early tablature notation, role of the text, performance agenda (M. Lewon)  
 Discussion - 30’  
 
