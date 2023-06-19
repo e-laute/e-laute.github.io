@@ -68,7 +68,24 @@ Diskussion - 20’
 
 **ab 19.00**  Abendessen beim Heurigen “Zum Martin Seep”, Cobenzlgasse 34, 1190 Wien-Grinzing    
 
-#### Tag 2 (4.7.2023)    
+#### Tag 2 (4.7.2023)  
+**9.00 - 09.30** _**VI.** **Pilot III**: Fragestellung. Pilot III (Teilaspekte): Text und Musik in den Intavolierungen des D-Mbs Mus.ms. 1512_ (I. Holzer, O. Janjuš)  
+Diskussion - 15’  
+
+**9.45 - 10.15** _**VII. Externe Vorträge und Diskussionen……**_  
+_The Optical Music Recognition in French Lute Tablature Manuscripts (17th and 18th centuries)_ (G. Joachimiak und A. Margraf)   
+
+**10.15 - 10.45** _Tabulaturmanuskripte verstehen: Die Bedeutung der nicht standardisierten Zeichen im späten 15. und frühen 16. Jahrhundert_ (I.Döring)   
+
+**10.45 - 11.00** Kaffeepause (bei schönem Wetter im Hof)    
+
+**11.00 - 13.00** _Projektinterne Arbeitssitzung: Planung der nächsten Schritte & Zusammenfassung_  
+
+**ab 14.00** Mittagessen im Garten des Café-Restaurants “Diglas im Schottenstift”  
+___
+
+
+
 
 
 
