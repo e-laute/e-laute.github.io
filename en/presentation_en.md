@@ -5,6 +5,7 @@ lang: en
 ---
 
 ### Presentation
+___
 ## E-LAUTE: Electronic Linked Annotated Unified Tablature Edition - The Lute in the German-Speaking Area 1450-1550
 ___
 We are creating an open-access comprehensive and interactive edition of the lute tablatures (special notations for lutes) of the German-speaking area between 1450 and 1550. The corpus (2,000 pages) has not yet been investigated as a whole and is barely accessible to scholars and professional musicians as well as to the broad public, has not been deciphered and has therefore been evaluated only selectively. The reasons for this being the notation (‘German lute tablature’), which is little used today, the sites of the manuscripts scattered throughout Central Europe, and the fact that consistent adequate research methods have not yet been worked up.
