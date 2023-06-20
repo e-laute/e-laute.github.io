@@ -7,6 +7,8 @@ lang: de
 ### Pilot I
 ### Varianz und Retextualisierung in Musik und Text des Liebesliedes
 
+![](/assets/img/Hofieren_Dohna.png)
+
 Die Studie ist ein interdisziplinäres Teilprojekt, in dem Germanistik und Musikwissenschaft an einer Fragestellung eng zusammenarbeiten. Im Zentrum steht das Verhältnis vom Text und Musik, ihre Variantenbildungen und histroische sowie moderne Rezeption dieser Komponente. Denn jede Arbeit an Lied-Intavolierungen führt zu Überlegungen, wie und ob der Text der vokalen Vorlage verstanden, gehört oder mitgedacht wurde? Welcher Text wurde vertont? Wo wurde der Text überliefert oder rezipiert? Was brachte der Text in das Verständnis der intavolierten Musik bei? Inwiefern haben die Lautenisten den Text berücksichtigt? Wie sollte letzendlich das parallele Lesen von Text und Musik und der Dialog der Tabulatur- und der Vokalschirft dem modernenen Rezipienten ermöglicht bzw. gezeigt werden?  
 
 Im Mittelpunkt stehen zunächst die Liebeslieder aus dem _Königssteiner Liederbuch_ (D-B, Ms.germ.qu.
