@@ -12,8 +12,7 @@ ___
 Die Studie ist ein vertiefter interdisziplinärer Ansatz zur Aufführungspraxis und Musikwissenschaft. Die "Erfindung" eines Notationssystems für die Laute wirft einige Fragen auf: Ausgehend von den Prinzipien der "Orgeltabulatur" und aufbauend auf einer etwa hundertjährigen Tradition, übernahm die deutsche Lautentabulatur einen Zeichenvorrat, den sie erweiterte. Anhand von überlieferten Tabulaturen aus dem 15. und frühen 16. wird in dieser Pilotstudie die Entwicklung und der Anpassungsprozess untersucht, der schließlich zu einem Tabulatursystem führte, das allgemein als "Deutsche Lautentabulatur" bezeichnet wird. Wir interessieren uns:  
 i) für die Übernahme von Symbolen und Prinzipien der Orgeltabulatur für die Laute und andere (Streich-)Instrumente;  
 ii) praktische Bedeutung von zusätzlichen Symbolen in Tabulaturen.   
-Die Quellen aus dem 15. Jahrhundert (_Kasseler 'Collum
-Jahrhunderts (_Kasseler 'Collum Lutine'_, Ende des 15. Jahrhunderts, _Regensburger Zeichnung_, ca. 1470, _Wolfenbütteler Lautentabulatur-Fragmente_
+Die Quellen aus dem 15. Jahrhundert (_Kasseler 'Collum Lutine'_, Ende des 15. Jahrhunderts, _Regensburger Zeichnung_, ca. 1470, _Wolfenbütteler Lautentabulatur-Fragmente_
 c. 1460) stellen eine Mischung aus Prinzipien dar, die von "Orgel"- und (späteren) "Lautentabulaturen" des 15.
 Jahrhunderts bekannt sind (Kirnbauer 2001, 2003a; Lewon 2016, 2013&2017). Obwohl die Bund-Notation und die Noten-Buchstaben-
 Notation prinzipiell auf entgegengesetzten Ansätzen beruhen, verrät ihre Kombination und Anwendung auf die Laute
