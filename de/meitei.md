@@ -4,4 +4,5 @@ permalink: /meitei/
 lang: de
 ---
 
-##MEI TEI Deutsch
+### MEI & TEI
+Hier möchten wir kurz unsere Forschungsfragen und -ergebnisse im Bereich MEI und TEI vorstellen.
