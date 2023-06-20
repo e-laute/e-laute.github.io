@@ -7,7 +7,9 @@ lang: en
 ### Pilot I
 ## Variance and Retextualisation in the Music and Text of the Love Song
 
-The Studie is an interdisciplinary sub-project in which German studies and musicology will work closely together on the same question. The focus is on love songs from the Königssteiner Liederbuch (D-B, Ms.germ.qu.
+The studie is an interdisciplinary sub-project in which German studies and musicology will work closely together on the same question. The focus is on the relationship between text and music, the formation of variants and the historical and modern reception of this component. For every work on song intabulations leads to considerations of how and whether the text of the vocal original was understood, heard or thought about? Which text was set to music? Where was the text transmitted or received? What did the text contribute to the understanding of the intabulated music? To what extent did the lutenists take the text into account? How was the parallel reading of text and music and the dialogue of tablature and vocal writing finally to be made possible or shown to the modern recipient?  
+
+The focus is on love songs from the Königssteiner Liederbuch (D-B, Ms.germ.qu.
 719; 1470–1473) as examples of ‘collective production’ and ‘open textual types’ (Kern 2005). Several
 songs from this book were handed down in several variants in the course of the 15th and 16th
 centuries (_Das Schedelsche Liederbuch_ 1459–1467, _Liederbuch der Clara Hätzlerin_ 1470–1471,
