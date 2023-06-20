@@ -7,6 +7,8 @@ lang: en
 ### Pilot II
 ### On the Origin of German Lute Tablature
 ___
+![](/assets/img/Craus_Harfe_col_01.png)
+
 The study is an in-depth interdisciplinary approach
 to performance practice and musicology. The ‘invention’ of a notational system for the lute raises
 certain questions: based on principles of organ tablature, building on a tradition of some hundred
