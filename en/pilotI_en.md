@@ -5,7 +5,7 @@ lang: en
 ---
 
 ### Pilot I
-## Variance and Retextualisation in the Music and Text of the Love Song
+### Variance and Retextualisation in the Music and Text of the Love Song
 
 ![](/assets/img/Hofieren_Dohna.png "Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550 (Bildzitat nach: Walter Salmen Musikleben im 16. Jahrhundert (Musikgeschichte in Bildern III/9), Leipzig 1976, S. 146")
 
