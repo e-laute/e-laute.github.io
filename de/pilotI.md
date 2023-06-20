@@ -18,7 +18,7 @@ Publikationen, wie Kalender oder Stammbücher des 16. Jahrhunderts; Sappler 1970
 und ob die Texte aufeinander "reagieren", wie sich die Variantbildung im Laufe der Zeit verändert hat.
 Wir fragen uns auch, welche sozialen Kontexte lassen sich anhand von semantischen,
 auch metaphorischen, Bezügen im Text und strukturellen Zusammenhängen von Varianten feststellen? Was bedeutet "produktive Rezeption" für das _Königssteiner Liederbuch_ (Kropik 2018)? Wie gehen Musik und Literatur
-im Modus des "text-event" aufeinander (Chartier 2000, 5), da beide untrennbar miteinander verbunden waren? Welche Varianten der Melodien könnten unterlegt sein? Das Lied Nr.
+im Modus des "text-event" aufeinander (Chartier 2000, 5), da beide untrennbar miteinander verbunden waren? Welche Varianten der Melodien konnten unterlegt sein? Das Lied Nr.
 82 wurde beispielswiese durch die Hinweise auf das "Elßlin"-Lied in _Glogauer_ (1480) und _Ambraser
 Liederbuch_ (1582), in den Notendrucken von Öglin 1512 und Forster 1539 und in mehreren Tabulaturen als
 Intavolierungen überliefert. Wir untersuchen, wie die Musik und der Text in späteren Notendrucken und insbesondere in den Intavolierungen (um)interpretiert wurden.
