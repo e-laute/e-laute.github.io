@@ -7,7 +7,9 @@ lang: de
 ### Pilot I
 ### Varianz und Retextualisierung in Musik und Text des Liebesliedes
 
-Die Studie ist ein interdisziplinäres Teilprojekt, in dem Germanistik und Musikwissenschaft eng zusammen an einer Fragestellung arbeiten werden. Im Mittelpunkt stehen die Liebeslieder aus dem _Königssteiner Liederbuch_ (D-B, Ms.germ.qu.
+Die Studie ist ein interdisziplinäres Teilprojekt, in dem Germanistik und Musikwissenschaft an einer Fragestellung eng zusammenarbeiten. Im Zentrum steht das Verhältnis vom Text und Musik, ihre Variantenbildungen und histroische sowie moderne Rezeption dieser Komponente. Denn jede Arbeit an Intavoilierungen führt zu Überlegungen, wie und ob der Text verstanden, gehört oder mitgedacht wurde? Welcher Text wurde vertont? Wo wurde der Text überliefert? Was brachte der Text in das Verständnis der intavolierten Musik bei? Inwiefern haben sich die Lautenisten auf den Text Rücksicht genommen?  
+
+Im Mittelpunkt stehen die Liebeslieder aus dem _Königssteiner Liederbuch_ (D-B, Ms.germ.qu.
 719; 1470-1473) als Beispiele für "collective production" und "open textual types" (Kern 2005). Mehrere
 Lieder aus diesem Buch wurden im Laufe des 15. und 16. Jahrhunderts in mehreren Varianten überliefert (_Das Schedelsche Liederbuch_ 1459-1467, _Liederbuch der Clara Hätzlerin_ 1470-1471,
 _Rostocker Liederbuch_ 1487, _Glogauer Liederbuch_ um 1480, einzelne Flugblätter oder
