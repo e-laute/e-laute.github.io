@@ -25,7 +25,8 @@ notation are in principle based on opposite approaches, their combination and ap
 the lute betrays a flexibility on part of the 15th-century scribes: by redeploying one type of notation
 creatively in order to meet the practical and idiomatic needs of another instrument and in the process
 by applying the abstract concept of (seemingly) absolute pitch levels to the idea of relative pitch
-levels (or fretting positions) on the instrument in question.  
+levels (or fretting positions) on the instrument in question.
+
 This practice spills over into the 16th
 century, when the notational principles of ‘Older German Organ Tablature’ were ‘appliziert’ for the
 harp (D-LEm I.191, c. 1540), and when harpists were also playing from lute tablatures. Also, amateur
