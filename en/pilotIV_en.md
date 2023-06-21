@@ -8,7 +8,7 @@ lang: en
 ### Dialogues about Music
 ___
 
-![](/assets/img/Handy_coll_02.png "David Teniers, The guitar player,
+![](/assets/img/Handy_coll_02.png "Collage von K.Schöning; Bild: David Teniers, The guitar player,
 https://www.art-prints-on-demand.com/?HTML=show/image.htm&imageid=12984561235182363")
 
 This a case study with an interdisciplinary approach of Web science, musicology and performance practice. In the edition it will generally be possible to share all information with recipients via an annotation interface, and to use this to enter into a dialogue with them. Using the example of three closely connected tablatures – the Viennese exemplar of
