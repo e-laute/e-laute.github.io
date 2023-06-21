@@ -8,7 +8,7 @@ lang: de
 ### Hybrid Edition: Denkmäler der Tonkunst in Österreich (DTÖ)
 ___
 
-
+![](/assets/img/DTÖ_coll_01.png)
 
 
 Within the series of the _Denkmäler der Tonkunst in Österreich (DTÖ)_
