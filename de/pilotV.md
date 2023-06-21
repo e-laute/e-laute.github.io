@@ -11,11 +11,19 @@ ___
 ![](/assets/img/DTOe_coll_01.png "Collage von K. Schöning")
 
 Im Rahmen der Reihe der _Denkmäler der Tonkunst in Österreich (DTÖ)_
-wird eine Hybrid-Edition mehrerer Tabulaturen erscheinen. Der gedruckte Band wird aus der
-diplomatischen Transkription der originalen Tabulaturschrift und der Ausgabe in Common Music Notation (=CMN) mit einer kurzen wissenschaftlichen Einleitung und einem kurzen kritischen Bericht bestehen. In den Band werden Querverweise zu den entsprechenden Online-Editionen mittels URLs eingebaut. Geplant ist, dass die Online-Ausgabe die Originale (Faksimile), Transkriptionen der
-Original-Tabulaturen in verschiedene Tabulatur-Notationen, Konkordanzlisten und die Möglichkeit zum
-Konkordanzen aus verschiedenen Quellen zu vergleichen, sowie weitere wissenschaftliche Texte. Der geplante Band
-wird enthalten: A-Wn 18827, A-Wn 18688, PL-WRk 352, A-Wn Cod. 9704, A-Wn Cod. 960, A-Lis 546
+wird eine Hybrid-Edition mehrerer Tabulaturen erscheinen. Der gedruckte Band wird folgende Komponente enthalten:
+i) diplomatische Transkription der originalen Tabulaturschrift;  
+ii) edierte Variante der originalen Tabulaturschrift in Common Music Notation (=CMN);    
+iii) kurze wissenschaftliche Einleitung;    
+iv) kurzer kritischer Bericht.  
+
+In den gedruckten _DTÖ_-Band werden Querverweise zu den entsprechenden Online-Editionen mittels URLs eingebaut. Der Leser kann alos nach Bedarf auf folgende KOmponente der Edition onlien zugreifen:  
+i) originale Faksimile;  
+ii) Transkriptionen der Original-Tabulaturen in verschiedene Tabulatur-Notationen;  
+iii) Konkordanzlisten, inkl. die Möglichkeit mehrere Konkoredanzen simultan anzusehen und zu vergleichen;  
+iv) weitere wissenschaftliche Texte.   
+
+Der geplante ertse Band dieser Art wird enthalten: A-Wn 18827, A-Wn Mus.Hs. 18688, PL-WRk 352, A-Wn Cod. 9704, A-Lis 546
 = ca. 150 Fol. (ca. 300 Seiten, A4). Die Arbeiten werden in Zusammenarbeit mit Prof. Dr. Birgit Lodes
 (Leiterin der Publikationen der _DTÖ_) und mit Beratung durch die Redaktion der _DTÖ_ durchgeführt.
 Mit dieser Studie wird ein neues Format in der _DTÖ_-Reihe eingeführt, das die regelmäßige Ausgabe und
