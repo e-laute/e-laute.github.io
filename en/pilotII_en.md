@@ -7,7 +7,7 @@ lang: en
 ### Pilot II
 ### On the Origin of German Lute Tablature
 ___
-![](/assets/img/Craus_Harfe_col_01.png "A-Wn Mus.Hs. 18688, fol. 26r und D-LEm I.191, Fragemnte aus dem Fundamentum, die Zusammenstellung von K. Schöning")
+![](/assets/img/Craus_Harfe_col_01.png "A-Wn Mus.Hs. 18688, fol. 26r und D-LEm I.191, Fragemnte aus dem Fundamentum, Collage von K. Schöning")
 
 The study is an in-depth interdisciplinary approach
 to performance practice and musicology. The ‘invention’ of a notational system for the lute raises
