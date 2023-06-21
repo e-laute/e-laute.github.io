@@ -8,7 +8,7 @@ lang: en
 ### Tablature Notation as Reflective Images of 16th-Century Culture
 ___
 
-![](/assets/img/Collage_01.png)
+![](/assets/img/Collage_02.png)
 
 This pilot is a music historical study with a certain theoretical approach to notation and its historical semantics from the viewpoint
 of cultural studies. It will investigate how historiographical methods of the 16th century influenced the
