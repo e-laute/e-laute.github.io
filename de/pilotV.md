@@ -11,7 +11,7 @@ ___
 ![](/assets/img/DTOe_coll_01.png "Collage von K. Schöning")
 
 Im Rahmen der Reihe der _Denkmäler der Tonkunst in Österreich (DTÖ)_
-wird eine Hybrid-Edition mehrerer Tabulaturen erscheinen. Der gedruckte Band wird folgende Komponente enthalten:
+wird eine Hybrid-Edition mehrerer Tabulaturen erscheinen. Der gedruckte Band wird folgende Komponente enthalten:  
 i) diplomatische Transkription der originalen Tabulaturschrift;  
 ii) edierte Variante der originalen Tabulaturschrift in Common Music Notation (=CMN);    
 iii) kurze wissenschaftliche Einleitung;    
