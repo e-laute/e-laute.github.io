@@ -23,7 +23,7 @@ ii) Transkriptionen der Original-Tabulaturen in verschiedene Tabulatur-Notatione
 iii) Konkordanzlisten, inkl. die Möglichkeit mehrere Konkoredanzen simultan anzusehen und zu vergleichen;  
 iv) weitere wissenschaftliche Texte.   
 
-Der geplante ertse Band dieser Art wird enthalten: A-Wn 18827, A-Wn Mus.Hs. 18688, PL-WRk 352, A-Wn Cod. 9704, A-Lis 546
+Der geplante ertse Hybrid-Band wird enthalten: A-Wn Mus.Hs. 18827, A-Wn Mus.Hs. 18688, PL-WRk 352, A-Wn Cod. 9704, A-Lis 546
 = ca. 150 Fol. (ca. 300 Seiten, A4). Die Arbeiten werden in Zusammenarbeit mit Prof. Dr. Birgit Lodes
 (Leiterin der Publikationen der _DTÖ_) und mit Beratung durch die Redaktion der _DTÖ_ durchgeführt.
 Mit dieser Studie wird ein neues Format in der _DTÖ_-Reihe eingeführt, das die regelmäßige Ausgabe und
