@@ -18,20 +18,11 @@ Jahrhunderts bekannt sind (Kirnbauer 2001, 2003a; Lewon 2016, 2013&2017). Obwohl
 Notation prinzipiell auf entgegengesetzten Ansätzen beruhen, verrät ihre Kombination und Anwendung auf die Laute
 die Flexibilität der Schreiber des 15. Jahrhunderts: Um den praktischen und idiomatischen Bedürfnissen eines anderen (Saiten-) Instruments gerecht zu werden, wurden beide Notationsarten kreativ umgewidmet. Dabei übertrug sich das abstrakte Konzept der absoluten Tonhöhen auf die Idee der relativen Tonhöhen (oder Bundpositionen).
 
-This practice spills over into the 16th
-century, when the notational principles of ‘Older German Organ Tablature’ were ‘appliziert’ for the
-harp (D-LEm I.191, c. 1540), and when harpists were also playing from lute tablatures. Also, amateur
-players of the Renaissance viola da gamba used German lute tablature in ensemble playing as
-evidenced by Wiltzell and Gerle’s _Musica Teusch_ 1532 (see Kirnbauer 2003c and Lewon 2020). This
-universal character of the German lute tablature will be explored in the context of performance
-practice. Similarly, individual cases of the additions in manuscripts (a famous example is
-_Blindhamer's lute tablature_, Kirnbauer 2003b; PL-WRk 352) will be explored and explained in
-broader contexts. German lute tablature comprises unique features that cannot be found in other
-lute tablature systems and that may have implications for performance practice. These include the
-beaming of small note values ("Leiterlein"), relative position of the notational symbols (which may
-indicate voice leading or simply scribal habits), different ways of representing fret positions on the
-sixth course (which may indicate copying from different exemplars), and additional symbols that
-indicate left- and right-hand fingerings, ornaments, and indications of voice leading. In addition to
-15th century tablatures, this study includes the tablatures PL-Kj 40154, comparative analyses with IPESo,
-Ms. 1144, F-Pn, Rés. Vmd. ms. 27, as well as discussions of the prints of Schlick, Virdung,
-Judenkünig and Gerle.
+Diese Praxis geht in das 16. Jahrhundert über, als die Notationsprinzipien der "Älteren Deutschen Orgeltabulatur" für die Harfe "appliziert" wurden (D-LEm I.191, ca. 1540) und als Harfenisten auch nach Lautentabulaturen spielten. Auch die Amateur-Spieler der Renaissance-Gambe benutzten deutsche Lautentabulaturen im Ensemblespiel, wie Wiltzell und Gerles _Musica Teusch_ 1532 belegen (siehe Kirnbauer 2003c und Lewon 2020). Diesen universellen Charakter der deutschen Lautentabulatur untersuchen wir im Kontext der Aufführungspraxis. Ähnlich werden Zusatzzeichen in Handschriften erfroscht und erläutert (reiche Beispiele dafür gibt
+_Blindhamers Lautentabulatur_, Kirnbauer 2003b). Deutsche Lautentabulatur weist darüber hinaus Eigenheiten auf, die in anderen Lautentabulatursystemen nicht zu finden sind und die sich auf die Aufführungspraxis auswirken können. Dazu gehören
+das Beamen von kleinen Notenwerten ("Leiterlein"), die relative Position der Notationssymbole (die auf die Stimmführung oder einfach auf einige Schreibgewohnheiten hindeuten kann), unterschiedliche Darstellungsweisen von Bundpositionen
+(die auf das Kopieren von verschiedenen Vorbildern hinweisen kann), sowie zusätzliche Symbole, die
+die Fingersätze der linken und rechten Hand, Verzierungen und Hinweise auf die Stimmführung anzeigen oder als Lesehilfe fungieren. Zusätzlich zu den Tabulaturen des 15. Jahrhunderts umfasst diese Studie die Tabulaturen PL-Kj 40154, vergleichende Analysen mit IPESo,
+Ms. 1144, F-Pn, Rés. Vmd. ms. 27, sowie die Discussion der Drucke von Schlick, Virdung,
+Judenkünig und Gerle.   
+Nachdem die TabMEI für die Deutsche Lautentabulatur in unserem Projekt erst geschaffen werden, bietet diese Studie eine Approbation und der nächste Schritt in der praktischen und theoretischen Verarbeitung von Zeichensystem dieser Tabulatur an. 
