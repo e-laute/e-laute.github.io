@@ -23,11 +23,8 @@ ii) Transkriptionen der Original-Tabulaturen in verschiedene Tabulatur-Notatione
 iii) Konkordanzlisten, inkl. die Möglichkeit mehrere Konkoredanzen simultan anzusehen und zu vergleichen;  
 iv) weitere wissenschaftliche Texte.   
 
-Der geplante ertse Hybrid-Band wird enthalten: A-Wn Mus.Hs. 18827, A-Wn Mus.Hs. 18688, PL-WRk 352, A-Wn Cod. 9704, A-Lis 546
-= ca. 150 Fol. (ca. 300 Seiten, A4). Die Arbeiten werden in Zusammenarbeit mit Prof. Dr. Birgit Lodes
-(Leiterin der Publikationen der _DTÖ_) und mit Beratung durch die Redaktion der _DTÖ_ durchgeführt.
-Mit dieser Studie wird ein neues Format in der _DTÖ_-Reihe eingeführt, das die regelmäßige Ausgabe und
-Präsentation unserer Ergebnisse gewährleistet. Sie wird damit ein noch breiteres Zielpublikum erreichen. Wenn dieses Format
-erfolgreich ist, werden wir versuchen, es auf andere Bestände auszudehnen und so die Verbindung zur Reihe "Denkmäler" auszubauen.
-Reihe. Die hier aufgeworfenen Forschungsfragen betreffen die internationale Anschlussfähigkeit ausgewählter "österreichischer
-Quellen' auf allen Ebenen unserer Gesamtedition.
+Der geplante ertse Hybrid-Band wird enthalten: A-Wn Mus.Hs. 18827, A-Wn Mus.Hs. 18688, PL-WRk 352, A-Wn Cod. 9704, A-Lis 546, Hans Judenkünig, _Utilis et compendiaria introductio_, Wien 1523, VD16 J 1031 und _Ain schone kunstliche vnderweisung in disem buechlein/ leychtlich zu begreyffen den rechten gru[n]d zu lernen auff der Lautten vnd Geygen_, Wien 1523, VD16 J 1030
+= ca. 200 Fol. (ca. 300 Seiten, A4). Die Arbeiten werden in Zusammenarbeit mit Prof. Dr. Birgit Lodes
+(Leiterin der Publikationen der _DTÖ_) und mit Beratung durch das Redaktionsgremiums der _DTÖ_ durchgeführt.
+Mit dieser Studie wird ein neues Format in der _DTÖ_-Reihe eingeführt, welches ein noch breiteres Zielpublikum erreichen will. Das generell Ziel ist es, die Idee der Hybrid-Edition mit der Zeit auf andere Bestände auszudehnen und so eine permanente Verbindung zur Reihe "Denkmäler" auszubauen. Somit wollen wir die internationale Anschlussfähigkeit ausgewählter "österreichischer
+Quellen' auf allen Ebenen unserer E-LAUTE aufzuarbeiten.
