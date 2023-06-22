@@ -19,6 +19,10 @@ project:
   de: Das Projekt
   en: The Project
 
+news:
+  de: News 
+  en: News
+
 team:
   de: Team
   en: Team

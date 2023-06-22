@@ -20,26 +20,17 @@
     <div id="">
         <header >
           <div class="header-wrapper">
-            <p>
-              <!-- jekyll-polyglot will process ferh= into href= through the static_href liquid block tag without relativizing the url; useful for making language navigation switchers  -->
-              {% for tongue in site.languages %}
-            <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ tongue }}</a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
-              {% endfor %}
-            </p>
 
-
-            <span id="project-logo">
-              <img src="/assets/img/lute-round_min.png"/>
-            </span>
+            <a href="/">
+              <span id="project-logo">
+                <img src="/assets/img/lute-round_min.png"/>
+              </span>
+            </a>
             <span>
             <h1>{{ site.title }}</h1>
             <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
             </span>
-
           </div>
-          
-
-          
         </header>
         <div class="sticky-top navigation">
           {% include navbar.html %}
@@ -71,7 +62,7 @@
             <li class="logo"><a><img src="../assets/img/LMU.png" alt="Ludwig-Maximilian-Universität München" title="Ludwig-Maximilian-Universität München"></a></li>
             <li class="logo"><a><img src="../assets/img/ONB.png" alt="Österreichische Nationalbibliothek" title="Österreichische Nationalbibliothek"></a></li>
             <li class="logo"><a><img src="../assets/img/Bayreuth.png" alt="Universität Bayreuth" title="Universität Bayreuth"></a></li>
-            <li class="logo wide"><a><img src="../assets/img/Schola_Cantorum.jpg" alt="Schola Cantorum Basiliensis / FHNW Basel" title="Schola Cantorum Basiliensis / FHNW Basel"></a></li>
+            <li class="logo big"><a><img src="../assets/img/Schola_Cantorum.jpg" alt="Schola Cantorum Basiliensis / FHNW Basel" title="Schola Cantorum Basiliensis / FHNW Basel"></a></li>
             <li class="logo wide"><a><img src="../assets/img/BSB-Logo_Claim-deutsch.jpg" alt="Bayrische StaatsBibliothek" title="Bayrische StaatsBibliothek"></a></li>
 
           </ul>
