@@ -38,7 +38,10 @@ lang: en
 
 ###  Advisory Board
 ---
-- [Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Professorial Research Fellow in Computational Musicology, Goldsmiths University of London, Department of Computing  
-- [Prof. Dr. John Griffiths](https://www.lavihuela.com/), AM Oficial de la Orden de Isabel la Católica FAHA, Chair [IMS Study Group _Tablature in Western Music_](https://www.musicology.org/networks/sg/tablature), Director-at-Large, International Musicological Society    
-- [Dr. David Lewis](https://eng.ox.ac.uk/people/david-lewis/), Goldsmiths University of London, Department of Computing   
-- [Prof. Dr. Birgit Lodes](https://musikwissenschaft.univie.ac.at/ueber-uns/team/lodes/), Department of Musicology, University of Vienna
+[Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Professorial Research Fellow in Computational Musicology, Goldsmiths University of London, Department of Computing  
+
+[Prof. Dr. John Griffiths](https://www.lavihuela.com/), AM Oficial de la Orden de Isabel la Católica FAHA, Chair [IMS Study Group _Tablature in Western Music_](https://www.musicology.org/networks/sg/tablature), Director-at-Large, International Musicological Society    
+
+[Dr. David Lewis](https://eng.ox.ac.uk/people/david-lewis/), Goldsmiths University of London, Department of Computing   
+
+[Prof. Dr. Birgit Lodes](https://musikwissenschaft.univie.ac.at/ueber-uns/team/lodes/), Department of Musicology, University of Vienna
