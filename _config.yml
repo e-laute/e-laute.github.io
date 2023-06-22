@@ -23,6 +23,10 @@ news:
   de: News 
   en: News
 
+edition:
+  de: Edition
+  en: Editio
+
 team:
   de: Team
   en: Team
@@ -44,7 +48,7 @@ press:
   en: Press about us
 
 collab:
-  de: Zur kollaborativen Edtion
+  de: Zur kollaborativen Edition
   en: Collaborative edition
 
 sourcing:
