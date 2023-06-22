@@ -3,7 +3,8 @@ title: Team
 permalink: /team/
 lang: en
 ---
-![](/assets/img/Dohna_kutsche.png/ "Pen drawing from the lost Family book (Stammbuch) of Burgrave Achatius zu Dohna, c. 1550, picture citation: Walter Salmen Musikleben im 16. Jahrhundert (Musikgeschichte in Bildern III/9), Leipzig 1976, p. 146")
+<img class="left blend" src="/assets/img/Dohna_kutsche.png" title="Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550, Bildzitat nach: Salmen, Leipzig 1976, S. 146"/>
+
 ### Team 
 ___
 #### Austria
