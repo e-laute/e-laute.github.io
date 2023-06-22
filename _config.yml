@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme 
 title: E-LAUTE
 description: Electronic Linked Annotated Unified Tablature Edition
-
+repository: e-laute/e-laute.github.io
 
 
 languages: ["en", "de"]
