@@ -4,6 +4,7 @@ permalink: /team/
 lang: de
 ---
 <img class="left blend" src="/assets/img/Dohna_kutsche.png"/>
+<div class="acks"> Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550 (Bildzitat nach: Salmen, Leipzig 1976, S. 146</div>
 
 ### Team
 ___
