@@ -10,7 +10,7 @@ lang: de
 [PD Dr. Laurent Pugin](https://rism.digital/organization/contact.html) RISM Digital, Schweiz  
 <img class="left blend" src="/assets/img/RISM.png" title="RISM Digital, Schweiz"/>  
 
-[Prof. Dr. John Griffiths](https://findanexpert.unimelb.edu.au/profile/16194-john-griffiths), AM Oficial de la Orden de Isabel la Católica FAHA, Chair [IMS Study Group _Tablature in Western Music_](https://www.musicology.org/networks/sg/tablature">, Director-at-Large, International Musicological Society
+[Prof. Dr. John Griffiths](https://findanexpert.unimelb.edu.au/profile/16194-john-griffiths), AM Oficial de la Orden de Isabel la Católica FAHA, Chair [IMS Study Group _Tablature in Western Music_](https://www.musicology.org/networks/sg/tablature), Director-at-Large, International Musicological Society
 
 <img class="left blend" src="/assets/img/IMS_3.png"/>
 
