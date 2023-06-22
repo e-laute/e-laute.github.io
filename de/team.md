@@ -4,7 +4,7 @@ permalink: /team/
 lang: de
 ---
 ![](/assets/img/Dohna_kutsche.png "Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550 (Bildzitat nach: Walter Salmen Musikleben im 16. Jahrhundert (Musikgeschichte in Bildern III/9), Leipzig 1976, S. 146")
-
+<img class="left blend" src="/assets/img/Dohna_kutsche.png"/>
 ### Team
 ___
 #### Österreich
