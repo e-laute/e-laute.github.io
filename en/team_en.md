@@ -23,7 +23,7 @@ ___
  **Maximilian Höller**, student assistant, Vienna University of Technology, Information, Software Engineering     
 **N.N.** PhD, Austrian National Library / Vienna University of Technology, Information, Software Engineering     
 **N.N.** PhD, Vienna University of Technology, Information, Software Engineering     
-___
+
 #### Germany
 ---
 [**Prof. Dr. Irene Holzer**](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Germany, Ludwig-Maximilian-University Munich, Musicology    
