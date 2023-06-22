@@ -3,7 +3,7 @@ title: Cooperation Partner, Advisory Board, Funders
 permalink: /partner/
 lang: en
 ---
-![](/assets/img/Foedera.png "© Bayerische Staatsbibliothek](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10206910-6), Andrea Alciato, Emblematum liber, ed. Christianus Wechelus, Paris 1542, S. 20-21. Nach D-Mbs Res. L.eleg. m.35.")
+<img class="left blend" src="/assets/img/Foedera.png" title="© Bayerische Staatsbibliothek](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10206910-6), Andrea Alciato, Emblematum liber, ed. Christianus Wechelus, Paris 1542, S. 20-21. Nach D-Mbs Res. L.eleg. m.35."/>
 
 ###  Cooperation Partner
 ---
