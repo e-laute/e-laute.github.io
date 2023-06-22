@@ -1,3 +1,12 @@
+---
+title: Jobs data
+permalink: /jobs/
+lang: de
+---
+
+
+
+
 ## Ausschreibungen 
 ### Wissenschaftliche Mitarbeiter&middot;innen (w/m/d), Prae-Doc 
 

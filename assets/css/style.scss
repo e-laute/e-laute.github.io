@@ -2,8 +2,37 @@
 ---
 @import "{{ site.theme }}";
 
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.dropdown-menu {
+  background-color: rgb(198, 94, 94) !important;
+}
+
+.dropdown-item {
+  color: white !important;
+}
+
+.navigation {
+  background-color: rgb(198, 94, 94) !important;
+  color: white !important;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link {
+  color: white !important;
+}
+
 body { 
   text-shadow: unset !important;
+}
+
+img.blend{ 
+  mix-blend-mode: multiply;
+  display:inline !important;
 }
 
 header { 
@@ -47,12 +76,12 @@ body {
   text-align: justify;
 }
 
+
 #lang-select { 
   display:flex;
   justify-content:flex-end;
-  a {
-    color:#aaaaaa;
-  }
+  border: 1px solid white;
+  border-radius: 20px;
 }
 
 .logos {
@@ -79,9 +108,8 @@ body {
   mix-blend-mode: multiply;
 }
 
-.logo.wide {
+.logo.wide, .logo.big {
   margin-left: -5rem;
-
 }
 
 .logo.wide img { 
@@ -90,9 +118,17 @@ body {
   margin-left:100px;
 }
 
+.logo.big img { 
+  max-width: 280% !important;
+  width: 280px;
+  margin-left:100px;
+}
+
 hr { 
   /*background: transparent url("../images/hr.png") 0 0 no-repeat;*/
   background: transparent url("../images/hr.png") center/150% no-repeat;
+  background-color: unset !important;
+  opacity: unset !important;
 }
 
 #funder-acks, #logo-acks { 
@@ -119,6 +155,11 @@ hr {
   margin-right: auto;
 }
 
+.inner img.left { 
+  padding:1em;
+  margin:unset;
+}
+
 body { 
   background: #fee !important;
 }
@@ -135,11 +176,22 @@ header {
   color: grey;
 }
 
+.header-wrapper a, .header-wrapper h1 {
+  text-decoration: none; 
+}
+
 #project-logo img {
   height: 100px;
   float:left;
   margin-right:2em;
 }
+
+hr .nice-hr { 
+  height:1px !important;
+  max-height:1px !important;
+}
+
+
 
 
 /* Ensure responsiveness (small screen sizes) */
@@ -149,20 +201,25 @@ header {
 ================================================== */
 
 /* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) { }
+@media only screen and (max-width: 959px) { 
+  
+}
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
-@media only screen and (min-width: 768px) and (max-width: 959px) { }
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+  
+ }
 
 /* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 990px) {
   header {
     padding-top: 10px;
     padding-bottom: 10px;
   }
 
   .header-wrapper { 
-    width:94% !important;
+    width:100% !important;
   }
 
   .header-wrapper h2 { 
@@ -183,14 +240,33 @@ header {
   ul li {
     margin-left: 10px;
     padding-left: 10px;
+    list-style: none !important;
   }
   ol li {
     margin-left: 10px;
   }
+
 }
 
+
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-@media only screen and (min-width: 480px) and (max-width: 767px) { }
+@media only screen and (min-width: 480px) and (max-width: 990px) {
+  
+  #lang-select { 
+    margin-left: 1em;
+  }
+  .navigation {
+    justify-content: left;
+  }
+ }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 479px) { }
+@media only screen and (max-width: 479px) {
+  #lang-select { 
+    margin-left: 1em;
+  }
+  .navigation {
+    justify-content: left;
+  }
+ }
+
