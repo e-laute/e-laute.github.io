@@ -3,8 +3,7 @@ title: Team
 permalink: /team/
 lang: de
 ---
-![](/assets/img/Dohna_kutsche.png)
-<div class="acks"> Federzeichnung aus dem verschollenen <i>Stammbuch des Burggrafen Achatius zu Dohna</i>,um 1550<br>Bildzitat nach: Salmen, Leipzig 1976, S. 146</div>
+![](/assets/img/Dohna_kutsche.png "Federzeichnung aus dem verschollenen <i>Stammbuch des Burggrafen Achatius zu Dohna</i>,um 1550 <br> Bildzitat nach: Salmen, Leipzig 1976, S. 146")
 
 ### Team
 ___
