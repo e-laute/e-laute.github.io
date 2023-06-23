@@ -12,6 +12,10 @@ lang: en
 ___
 The international team of the E-LAUTE project will hold a public workshop meeting from 3 Jul to 4 Jul 2023 at the University of Vienna, Department of Musicology (lecture hall 1). As experts from 7 institutions in the fields of musicology, performance practice, German studies, music informatics and web science, we will discuss topics related to the digital processing of tablatures from the 15th and 16th century. Across disciplines, we are working on editorial strategies, MEI techniques and the encoding of the German lute tablature, on the systematic and historical reworking of textual and musical material, as well as analytical and representational perspectives in connection with modern technologies. 
 
+<img class="inline" src="/assets/img/Craus_03.png" title="A-Wn Mus.Hs. 18688, fol. 26r"/> 
+<img class="inline" src="/assets/img/xml_Bild_01.png"/>
+<img class="inline" src="/assets/img/GLT_Bild_02.png"/>
+
 ### AGENDA  
 #### Day 1 (3.7.2023)
 **9.00 - 09.30** _**I.** General presentation of the project and its parts_ (K. Schöning)  
