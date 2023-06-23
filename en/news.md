@@ -72,8 +72,8 @@ _The Optical Music Recognition in French Lute Tablature Manuscripts (17th and 18
 **11.00 - 13.00** _Project internal working session: planning of next steps & summary_  
 
 **ab 14.00** Lunch in the garden of the Café-Restaurant 'Diglas im Schottenstift'  
-___
-The main objective of the meeting is to move forward in the following work areas of the project:  
+
+The main objective of the meeting is to move forward in the following **work areas of the project**:  
 
 (1) Diplomatic and editorial transcription in CMN, GLT a.o. Tab;  
 (2) MEI-Friend and work with the programme;  
