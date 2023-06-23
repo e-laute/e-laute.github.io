@@ -86,8 +86,8 @@ The main objective of the meeting is to move forward in the following work areas
 (9) Pilot I+II (sub-aspects): Text and music, variance, metre, concordance, first signs of lute tablature in the 15th century;   
 (10) Pilot III (sub-aspects): Text and music in the intabulations of the D-Mbs Mus.ms. 1512;  
 (11) Website www.e-laute-info, conception; infrastructure of the ÖNB host.    
-___
-We will take only a few examples, which we will look at from different viewpoints:    
+
+We will take only **a few examples**, which we will look at from different viewpoints:    
 
 **Examples**:  
 A1 “Elslein, liebes Elslein mein”, fol. 22v, Hans Judenkünig, Ain schone kunstliche vnderweisung, Wien 1523  
@@ -101,9 +101,9 @@ D1: “Chiarenzana”, fol. 7v-8v, A-Wn Mus.Hs.18827, in zwei Varianten (origina
 D2:  “Chiarenzana”, fol. 7v-8v, A-Wn Mus.Hs.18827, in zwei Varianten (edited)  
 E: “Passo e mezzo”, fol. 34r-35r, PL-WRk 352   
 F: “Mein Fleiß und Mueh’”, fol. 17r, D-Mbs_Mus.ms_1512 
-___
-Participants of the workshop are members of the project and our guests.
-___
+
+Participants of the workshop are **members of the project and our guests**.
+
 Our guests and responders:  
 **Prof. Tim Crawford**, Goldsmiths College, University of  London, music informatics (online, in MEI-Part)  
 **Dr. David Lewis**, Goldsmiths College, University of  London, music informatics (online, in MEI-Part)  
