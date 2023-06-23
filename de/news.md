@@ -72,8 +72,9 @@ _The Optical Music Recognition in French Lute Tablature Manuscripts (17th and 18
 **11.00 - 13.00** _Projektinterne Arbeitssitzung: Planung der nächsten Schritte & Zusammenfassung_  
 
 **ab 14.00** Mittagessen im Garten des Café-Restaurants “Diglas im Schottenstift”  
-___
-Das Hauptziel des Treffens ist es, in folgenden Arbeitsbereichen des Projekts voranzukommen:  
+
+
+Das Hauptziel des Treffens ist es, in **folgenden Arbeitsbereichen des Projekts** voranzukommen:  
 
 (1) diplomatische und editorische Übertragung in CMN, GLT u.a. Tab;  
 (2) MEI-Friend und Arbeit mit dem Programm;  
@@ -87,8 +88,8 @@ Das Hauptziel des Treffens ist es, in folgenden Arbeitsbereichen des Projekts vo
 (9) Pilot I+II (Teilaspekte): Text und Musik, Varianz, Metrik, Konkordanz, erste Zeichen der Lautentabulatur im 15. Jh.  
 (10) Pilot III (Teilaspekte): Text und Musik in den Intavolierungen des D-Mbs Mus.ms. 1512  
 (11) Website www.e-laute-info, Konzeption; Infrastruktur des ÖNB-Hosts   
-___
-Für die Anschaulichkeit nehmen wir nur wenige Probebeispiele, die wir von unterschiedlichen Seiten betrachten:    
+
+Für die Anschaulichkeit nehmen wir nur wenige **Probebeispiele**, die wir von unterschiedlichen Seiten betrachten:    
 
 **Beispiele**:  
 A1 “Elslein, liebes Elslein mein”, fol. 22v, aus Hans Judenkünig, Ain schone kunstliche vnderweisung, Wien 1523  
@@ -102,9 +103,9 @@ D1: “Chiarenzana”, fol. 7v-8v, aus A-Wn Mus.Hs.18827, in zwei Varianten (im 
 D2:  “Chiarenzana”, fol. 7v-8v, aus A-Wn Mus.Hs.18827, in zwei Varianten (ediert)  
 E: “Passo e mezzo”, fol. 34r-35r, PL-WRk 352   
 F: “Mein Fleiß und Mueh’”, fol. 17r, D-Mbs_Mus.ms_1512  
-___
-Teilnehmer des Workshops sind Mitglieder des Projekts und unsere Gäste.
-___
+
+Teilnehmer des Workshops sind **Mitglieder des Projekts und unsere Gäste**.
+
 Unsere Gäste und Respondenten:  
 **Prof. Tim Crawford**, Goldsmiths College, University of  London, Musikinformatik (online, im MEI-Teil)  
 **Dr. David Lewis**, Goldsmiths College, University of  London, Musikinformatik (online, im MEI-Teil)  
