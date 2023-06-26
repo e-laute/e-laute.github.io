@@ -196,6 +196,24 @@ hr .nice-hr {
   max-height:1px !important;
 }
 
+.tile {
+  width: 100% !important;
+  height: 10vw !important;
+  object-fit: cover !important;
+  opacity:.8;
+}
+
+.card:not(:hover) img {
+  opacity:0.6;
+}
+
+a .card-title, a .card-text  {
+  color:#eee;
+}
+
+.card:hover .card-title, .card:hover .card-text {
+  color:white;
+}
 
 
 
@@ -250,6 +268,7 @@ hr .nice-hr {
   ol li {
     margin-left: 10px;
   }
+
 
 }
 
