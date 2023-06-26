@@ -35,7 +35,7 @@ Teil **GLT**
 _Diplomatische Übertragung in GLT (“Fronimo”), Kodierung und Perspektiven der TabMEI, Arbeit mit ILT und FLT_ (P. Kieffer, M. Lewon, R. de Valk)   
 Diskussion - 30’ (Leitung D. Weigl)   
 
-**12.00 - 12.40** _**III.** Perspektiven der OMR: erste Probe-Studien mit Ähnlickeitssuchen in den Notendaten_ (A. Rauber, M. Höller)  
+**12.00 - 12.40** _**III.** Perspektiven der OMR: erste Probe-Studien mit Ähnlichkeitssuchen in den Notendaten_ (A. Rauber, M. Höller)  
 Diskussion - 10’   
 
 **12.50 - 13.50** Gemeinsames Mittagessen: in “Bierheuriger zum Gangl”, Alser Str. 4, 1090 Wien  
@@ -83,7 +83,7 @@ Das Hauptziel des Treffens ist es, in **folgenden Arbeitsbereichen des Projekts*
 (5) Speicherung der Daten und Organisation des Projekts;  
 (6) Bearbeitung von Texten (TEI); Zusammenhang von Texten und Musik;  
 (7) Audiodaten, Auswahl, Aufnahme und Anbindung an die Edition;   
-(8) Perspektiven der OMR: erste Probe-Studien mit Ähnlickeitssuchen in den Notendaten;   
+(8) Perspektiven der OMR: erste Probe-Studien mit Ähnlichkeitssuchen in den Notendaten;   
 
 (9) Pilot I+II (Teilaspekte): Text und Musik, Varianz, Metrik, Konkordanz, erste Zeichen der Lautentabulatur im 15. Jh.  
 (10) Pilot III (Teilaspekte): Text und Musik in den Intavolierungen des D-Mbs Mus.ms. 1512  
