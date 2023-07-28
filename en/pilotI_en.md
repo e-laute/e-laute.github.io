@@ -27,6 +27,6 @@ function in the ‘text-event’ mode (Chartier 2000, 5) as both were inseparabl
 examine which variants of the melodies could be underlaid (allowing users of the edition to select
 among the results), because the linkage to text was not determinate (Sappler 1970, 375). Song no.
 82, for example, survives through the references to 'Elßlin' song in _Glogauer_ (1480) and _Ambraser
-Liederbuch_ (1582), music prints by Öglin 1512 and Forster 1539, and in several tablatures as
+Liederbuch_ (1582), music prints by Ott 1534 and Forster 1539, and in several tablatures as
 intabulation. We consider how the music was (re)interpreted in the context of the text in later printed
 music and especially in the intabulations of the edited tablatures.
