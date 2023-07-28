@@ -21,6 +21,6 @@ und ob die Texte aufeinander "reagieren" und wie sich die Variantenbildung im La
 Weiters wird folgenden Fragen nachgegangen: Welche sozialen Kontexte lassen sich anhand von semantischen,
 auch metaphorischen, Bezügen im Text und strukturellen Zusammenhängen von Varianten feststellen? Was bedeutet "produktive Rezeption" für das _Königssteiner Liederbuch_ (Kropik 2018)? Wie gehen die untrennbar miteinander verbundenen Komponenten Musik und Literatur im Modus des "text-event" aufeinander ein (Chartier 2000, 5)? Welche Varianten von Melodien konnten unterlegt sein? Das Lied Nr.
 82 wurde beispielswiese durch die Hinweise auf das "Elßlin"-Lied in _Glogauer_ (1480) und _Ambraser
-Liederbuch_ (1582), in den Notendrucken von Öglin 1512 und Forster 1539 und in mehreren Tabulaturen als
+Liederbuch_ (1582), in den Notendrucken von Ott 1534 und Forster 1539 und in mehreren Tabulaturen als
 Intavolierungen belegt. Wie wurden Musik und Text in späteren Notendrucken und insbesondere in den Intavolierungen (um)interpretiert? Von der Untersuchung erwarten wir weiterführende Ergebnisse sowohl für Musikwissenschaft und Aufführungspraxis, als auch für Germanistik und Musikinformatik. 
 
