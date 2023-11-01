@@ -10,7 +10,7 @@ Basel, "Lute Days" / IMS Study Group “Tablature in Western Music”: (Kateryna
 
 Munich, Colloquium / Upper seminar at the LMU Munich: (David Weigl, Kateryna Schöning) _"E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Editions"_, (25.1.2023).
 
-Bayreuth, Workshop "Spätmittelalterliche Lieder – Möglichkeiten und Grenzen der digitalen Edition" at the University of Bayreuth: (Kateryna Schöning) _"E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Editions – The Lute in the German-Speaking Area 1450–1550"_, (14.-15.2.2023).
+Bayreuth, Workshop "Late Medieval Songs - Possibilities and Limits of the Digital Edition" at the University of Bayreuth: (Kateryna Schöning) _"E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Editions – The Lute in the German-Speaking Area 1450–1550"_, (14.-15.2.2023).
 
 Newcastle upon Tyne (UK), Conference "The Future of Digital Editions": (Reinier de Valk) _"The E-LAUTE project 'The lute in the German-Speaking Area 1450-1550'"_, (28.-30.3.2023).
 
