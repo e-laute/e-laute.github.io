@@ -6,6 +6,20 @@ lang: de
 
 ### Einzelne Präsentationen & Konferenzen
 
-Diese Seite wird gerade erstellt.
 
-Projektpräsentation E-LAUTE, _MedRen_, München, Juli 2023
+Basel, "Lute Days" / IMS Study Group “Tablature in Western Music”: (Kateryna Schöning)_"The new project E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition and some results of the ongoing project about tablatures and humanism – semantics of maxims and music in 16th century lute tablatures"_, (14.09.2022).
+
+München, Kolloquium: Oberseminar an der LMU München: (David Weigl, Kateryna Schöning)_"E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Editions"_, (25.1.2023).
+
+Bayreuth, Workshop an der Universität Bayreuth: "Spätmittelalterliche Lieder – Möglichkeiten und Grenzen der digitalen Edition.":  (Kateryna Schöning) _"E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Editions – Die Laute im deutschsprachigen Raum 1450–1550"_, (14.-15.2.2023).
+
+Newcastle upon Tyne (UK), Conference "The Future of Digital Editions": (Reinier de Valk) _"The E-LAUTE project 'The lute in the German-speaking area 1450-1550'"_, (28.-30.3.2023).
+
+München, "MedRen": (Reinier de Falk, Henning Burghoff, Kateryna Schöning) _"The edition-project “The E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition –  The lute in the German-speaking area 1450–1550”_ (Poster), (24.-28.7.2023), https://medren2023.com.
+
+Paderborn, "Encoding Cultures". Joint MEC and TEI Conference: (Reinier de Valk) _“Ain schone kunstliche underweisung”: Modelling German lute tablature in MEI"_, (4.-8.9.2023).
+
+Barcelona, Institución Milá y Fontanals de Investigación en Humanidades-CSIC, "COST Action 21161 - A new ecosystem of early music studies (EarlyMuse)". WG3 ‘Publications’. Meeting on Monumenta editions in Europe: (Birgit Lodes, Kateryna Schöning) _"About Digital and Hybrid Editions on Example of the 'Denkmäler der Tonkunst in Österreich'"_, (19.-20.9.2023).
+
+Tours, IMS Study Group “Tablature in Western Music”: (Reinier de Valk, David Weigl, Kateryna Schöning) _"Digitally editing German lute tablature for the E-LAUTE project: Workflows and first results"_, (2.-3.11.2023),  https://ricercar-tours.fr/workshop-tablatures-at-tours-2-3-november-2023/ und https://lutesocietyofamerica.org/events/#tabattours.
+
