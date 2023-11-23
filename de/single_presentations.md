@@ -9,6 +9,8 @@ lang: de
 
 ##### **Demnächst**
 
+* Passau, DHd2024 "DH Quo Vadis", (26.02.–01.03.2024).
+
 
 ##### **Archiv**
 
