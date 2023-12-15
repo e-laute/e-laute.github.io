@@ -16,13 +16,13 @@ ___
 [**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Österreichische Nationalbibliothek, host, IT  
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Technische Universität Wien, Information-, Softwareentwicklung    
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich, Musikinformatik  
-[**PhD Paul Kieffer**](https://www.discogs.com/de/artist/3805018-Paul-Kieffer), Universität Wien, Institut für Musikwissenschaft, Laute / Musikwissenschaft  
+[**PhD Paul Kieffer**](https://www.discogs.com/de/artist/3805018-Paul-Kieffer), Universität Wien, Institut für Musikwissenschaft, Laute / Musikwissenschaft
+[**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), ÖNB / Technische Universität Wien, Information-, Softwareentwicklung
 **Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik  
 **BA Barbara Recheis**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft   
- **Eva Schöfer**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft (bis zum 31. 5. 2023)   
- **Maximilian Höller**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung   
- **N.N.** PhD, ÖNB / Technische Universität Wien, Information-, Softwareentwicklung   
- **N.N.** PhD, Technische Universität Wien, Information-, Softwareentwicklung  
+**Eva Schöfer**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft (bis zum 31. 5. 2023)   
+**Maximilian Höller**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung      
+**N.N.** PhD, Technische Universität Wien, Information-, Softwareentwicklung  
 ___
 #### Deutschland
 
