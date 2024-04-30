@@ -16,7 +16,7 @@ ___
 [**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Austrian National Library, host, IT  
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology, Information, Software Engineering      
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Copenhagen/Austria, Music Informatics   
-[**PhD Paul Kieffer**](https://www.discogs.com/de/artist/3805018-Paul-Kieffer), University of Vienna, Department of Musicology, Lute / Musicology    
+**PhD Paul Kieffer**, University of Vienna, Department of Musicology, Lute / Musicology, **until 31 May 2024**.    
 [**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), Austrian National Library / Vienna University of Technology, Information, Software Engineering<br/>
 **Henning Burghoff**, student assistant, University of Vienna, Department of Musicology, Musicology / Music Informatics    
 **BA Barbara Recheis**, student assistant, University of Vienna, Department of Musicology, Musicology     
