@@ -18,20 +18,26 @@
   </head>
   <body>
     <div id="">
-        <header >
-          <div class="header-wrapper">
-
-            <a href="/">
-              <span id="project-logo">
-                <img src="/assets/img/lute-round_min.png"/>
-              </span>
-            </a>
-            <span>
-            <h1>{{ site.title }}</h1>
-            <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <header>
+        <div class="header-wrapper" style="display: flex; align-items: center;">
+          
+          <a href="/">
+            <span id="project-logo">
+              <img src="/assets/img/lute-round_min.png" alt="Project Logo" style="height: 80px;">
             </span>
-          </div>
-        </header>
+          </a>
+      
+          <span style="display: flex; align-items: center; gap: 20px;">
+            <div>
+              <h1>{{ site.title }}</h1>
+              <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+            </div>
+          </span>
+          <img src="/assets/img/Paul_Jenisch_Kutsche.png" alt="Descriptive Image" class="header-image"> <!-- Additional image -->
+
+        </div>
+      </header>
+      
         <div class="sticky-top navigation">
           {% include navbar.html %}
         </div>
