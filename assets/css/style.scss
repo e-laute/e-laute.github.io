@@ -2,11 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-/* hide default title / description text */
-.header-wrapper span {  
-  display:none;
-}
-
 .navbar {
   display: flex;
   justify-content: center;
@@ -203,6 +198,14 @@ header {
 .header-wrapper a, .header-wrapper h1 {
   text-decoration: none; 
 }
+
+/* hide default title / description text */
+.header-wrapper > span { 
+  display: none !important;
+}
+
+
+
 
 #project-logo img {
   height: 100px;
