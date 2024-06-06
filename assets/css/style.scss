@@ -2,11 +2,15 @@
 ---
 @import "{{ site.theme }}";
 
+/* hide default title / description text */
+.header-wrapper span {  
+  display:none;
+}
+
 .navbar {
   display: flex;
   justify-content: center;
   height: 50px;
-  
 }
 
 .dropdown-menu {

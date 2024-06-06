@@ -5,8 +5,6 @@ plugins:
 title: E-LAUTE
 description: "Electronic Linked Annotated<br>Unified Tablature Edition"
 repository: e-laute-test/e-laute-test.github.io
-
-
 languages: ["en", "de"]
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: false
