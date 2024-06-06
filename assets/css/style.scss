@@ -222,14 +222,15 @@ hr .nice-hr {
   background-color: rgba(255, 238, 238, 0.7);
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: flex-start;
   padding: 10px; 
-  height: 3em;
+  height: 4em;
   transition: background-color 0.3s ease; 
+  top: unset !important;
 }
 
-.card-img-overlay:hover { 
-  height: 5em;
+.card:hover .card-img-overlay { 
+  height: 6em;
 }
 
 .card-title {
@@ -240,7 +241,6 @@ hr .nice-hr {
 .card-text {
   display: none;
   color: black; 
-
 }
 
 .card:hover .card-text {
