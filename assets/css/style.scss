@@ -224,8 +224,12 @@ hr .nice-hr {
   flex-direction: column;
   justify-content: flex-end;
   padding: 10px; 
-  height: 100%;
+  height: 3em;
   transition: background-color 0.3s ease; 
+}
+
+.card-img-overlay:hover { 
+  height: 5em;
 }
 
 .card-title {
@@ -242,8 +246,6 @@ hr .nice-hr {
 .card:hover .card-text {
   display: block;
 }
-
-
 
 img {
   max-width: 100%;
@@ -309,7 +311,6 @@ img {
   ol li {
     margin-left: 10px;
   }
-
 
 }
 
