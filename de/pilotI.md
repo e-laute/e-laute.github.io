@@ -7,7 +7,7 @@ lang: de
 ### Pilot I
 ### Varianz und Retextualisierung in Musik und Text des Liebesliedes
 ___
-![](/assets/img/Hofieren_Dohna.png "Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550 (Bildzitat nach: Walter Salmen Musikleben im 16. Jahrhundert (Musikgeschichte in Bildern III/9), Leipzig 1976, S. 146"){:width="100%"}
+![](/assets/img/Hofieren_Dohna.png "Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550 (Bildzitat nach: Walter Salmen Musikleben im 16. Jahrhundert (Musikgeschichte in Bildern III/9), Leipzig 1976, S. 146")
 
 Die Studie ist ein interdisziplinäres Teilprojekt, in dem Germanistik und Musikwissenschaft an einer gemeinsamen  Fragestellung eng zusammenarbeiten. Im Zentrum steht das Verhältnis von Text und Musik, ihre Variantenbildungen und historische sowie moderne Rezeption dieser Komponenten. Jede Arbeit an Lied-Intavolierungen führt zu folgenden Überlegungen: Wie wurde der Text der vokalen Vorlage in der instrumentalen Version verstanden, gehört oder mitgedacht wurde? Welche semantische oder strukturelle Komponente brachte der Text in die intavolierte Musik ein? Welche Text- und Vokalmusik-Quellen und welche Praktiken waren den Schreibern tatsächlich verfügbar und mit welchen setzten sie sich auseinander? Wie sollte das parallele Lesen von Text und Musik und der Dialog zwischen Tabulatur- und Vokalschrift dem modernenen Rezipienten schließlich ermöglicht bzw. gezeigt werden? 
 

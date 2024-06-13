@@ -8,7 +8,7 @@ lang: en
 ### Hybrid Edition: Denkmäler der Tonkunst in Österreich (DTÖ)
 ___
 
-![](/assets/img/DTOe_coll_01.png "Collage von K. Schöning"){:width="100%"}
+![](/assets/img/DTOe_coll_01.png "Collage von K. Schöning")
 
 
 Within the series of the _Denkmäler der Tonkunst in Österreich (DTÖ)_

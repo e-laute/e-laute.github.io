@@ -7,7 +7,7 @@ lang: en
 ### Pilot I
 ### Variance and Retextualisation in the Music and Text of the Love Song
 ___
-![](/assets/img/Hofieren_Dohna.png "Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550 (Bildzitat nach: Walter Salmen Musikleben im 16. Jahrhundert (Musikgeschichte in Bildern III/9), Leipzig 1976, S. 146"){:width="100%"}
+![](/assets/img/Hofieren_Dohna.png "Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550 (Bildzitat nach: Walter Salmen Musikleben im 16. Jahrhundert (Musikgeschichte in Bildern III/9), Leipzig 1976, S. 146")
 
 The study is an interdisciplinary sub-project in which German studies and musicology work closely together on the same questions. The focus is on the relationship between text and music, their variants and the historical and modern reception of these components. Every work on song intabulations leads to considerations of how and whether the text of the vocal original was understood, heard or thought into the instrumental version? What semantic or structural components did the text bring into the intabulated music? What textual and vocal music sources and practices were actually available to and engaged with by the scribers? Finally, how was the parallel reading of text and music and the dialogue between tablature and vocal writing to be made possible or demonstrated to the modern recipient? 
 

@@ -154,7 +154,3 @@ We are creating an open-access comprehensive and interactive edition of the lute
     </div>
 </p>
 
-
-
-
-![Stammbuch Paul Jenisch Kutsche](/assets/img/Paul_Jenisch_Kutsche.png){:width="100%"}

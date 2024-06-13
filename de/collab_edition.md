@@ -7,5 +7,4 @@ lang: de
 ### Wollen Sie auch (mit)edieren?
 ...oder haben Sie bereits eigene Editionen? [Schreiben Sie uns](/contact), wir sind am Austausch von Erfahrungen und Materialien interessiert!
 
-![](/assets/img/PC_4.png){:width="100%"}
-
+![](/assets/img/PC_4.png)

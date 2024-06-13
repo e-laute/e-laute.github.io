@@ -148,7 +148,6 @@ hr {
 
 .acks {
   font-size: 13px;
-  margin-top:-1.5em;
   margin-bottom:1em;
   text-align:center;
 }
@@ -178,6 +177,7 @@ header {
   background:#933;
   width: 100%; 
   margin: 0 auto;
+  
 }
 
 .header-wrapper { 
@@ -192,7 +192,7 @@ header {
   height: 150%;
   width: auto;  
   object-fit: contain; 
-  margin-left: 130px;
+  margin-left: 13git0px;
 }
 
 .header-wrapper a, .header-wrapper h1 {
@@ -248,6 +248,10 @@ hr .nice-hr {
 .card-text {
   display: none;
   color: black; 
+}
+
+.card {
+  margin: 1rem;
 }
 
 .card:hover .card-text {

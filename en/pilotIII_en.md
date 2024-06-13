@@ -8,7 +8,7 @@ lang: en
 ### Tablature Notation as Reflective Images of 16th-Century Culture
 ___
 
-![](/assets/img/Collage_02.png "Albrecht Dürer _Der Zeichner der Laute_ - https://commons.wikimedia.org/wiki/File:358durer.jpg?uselang=de Collage mit einem Ausschnitt aus D-Z 115.3 von K. Schöning"){:width="100%"}
+![](/assets/img/Collage_02.png "Albrecht Dürer _Der Zeichner der Laute_ - https://commons.wikimedia.org/wiki/File:358durer.jpg?uselang=de Collage mit einem Ausschnitt aus D-Z 115.3 von K. Schöning")
 
 This pilot is a music historical study with a certain theoretical approach to notation and its historical semantics from the viewpoint
 of cultural studies. It will investigate how historiographical methods of the 16th century influenced the
