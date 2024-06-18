@@ -21,9 +21,9 @@ ___
 **Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik  
 **BA Barbara Recheis**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft   
 **Eva Schöfer**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft (bis zum 31. 5. 2023)   
-**Maximilian Höller**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung
-**Julia Jaklin**, stud. Mitarbeiterin, Technische Universität Wien, Information-, Softwareentwicklung
-**Pouya Far**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung 
+**Maximilian Höller**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung   
+**Julia Jaklin**, stud. Mitarbeiterin, Technische Universität Wien, Information-, Softwareentwicklung   
+**Pouya Far**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung    
 ___
 #### Deutschland
 
