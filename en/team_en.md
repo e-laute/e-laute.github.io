@@ -21,7 +21,9 @@ ___
 **Henning Burghoff**, student assistant, University of Vienna, Department of Musicology, Musicology / Music Informatics    
 **BA Barbara Recheis**, student assistant, University of Vienna, Department of Musicology, Musicology     
 **Eva Schöfer**, student assistant, University of Vienna, Department of Musicology, Musicology (until 31 May 2023)   
- **Maximilian Höller**, student assistant, Vienna University of Technology, Information, Software Engineering          
+**Maximilian Höller**, student assistant, Vienna University of Technology, Information, Software Engineering          
+**Julia Jaklin**, student assistant, Vienna University of Technology, Information, Software Engineering       
+**Pouya Far**, student assistant, Vienna University of Technology, Information, Software Engineering       
 **N.N.** PhD, Vienna University of Technology, Information, Software Engineering     
 
 #### Germany
