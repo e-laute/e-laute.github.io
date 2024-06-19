@@ -303,8 +303,6 @@ img {
 
 
 
-
-
 /* Ensure responsiveness (small screen sizes) */
 
 
@@ -327,6 +325,12 @@ img {
   header {
     padding-top: 10px;
     padding-bottom: 10px;
+  }
+
+  .navbar {
+    display: flex;
+    justify-content: center;
+    height: auto;
   }
 
   .header-image {
