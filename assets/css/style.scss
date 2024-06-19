@@ -333,7 +333,14 @@ img {
     display: none;
   }
   
+  .header-images {
+    display: none;
+  }
 
+  #project-logo img{
+    height: 80px !important;
+    margin-left: 10px;
+  }
   .header-wrapper { 
     width:100% !important;
   }
