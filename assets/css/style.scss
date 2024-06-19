@@ -4,7 +4,7 @@
 
 
 #headerCarousel {
-  margin-left: 300px; /* Use margin to avoid dynamic layout issues */
+  margin-left: 300px;
 }
 
 #project-logo {
@@ -16,11 +16,18 @@
   justify-content: center;
   height: 50px;
 }
+.header-images {
+  display: flex;
+  margin-left: 20px; 
+}
 
-.carousel-item img {
-  width: 250px;  /* Adjust width as needed */
-  height: 250px; /* Adjust height as needed */
-  object-fit: cover; /* Ensure the image covers the area without distortion */
+
+
+.header-images img {
+  width: 250px;  
+  height: 250px; 
+  object-fit: cover;
+  opacity: 0.7;
 }
 
 .carousel-fade .carousel-item {
@@ -232,8 +239,9 @@ header {
 
 
 
+
 #project-logo img {
-  height: 100px;
+  height: 90px;
   float:left;
   margin-right:2em;
 }
@@ -248,6 +256,8 @@ hr .nice-hr {
   height: 10vw !important;
   object-fit: cover !important;
   opacity:.8;
+  border-radius: 0px !important;
+
 }
 
 .card-img-overlay {
@@ -259,14 +269,16 @@ hr .nice-hr {
   height: 4em;
   transition: background-color 0.3s ease; 
   top: unset !important;
+  border-radius: 0px !important;
+
 }
 
 .card:hover .card-img-overlay { 
-  height: 6em;
+  height: 7em;
 }
 
 .card-title {
-  margin: 0; /* Removes default margin */
+  margin: 0;
   color: black; 
 }
 
@@ -277,6 +289,8 @@ hr .nice-hr {
 
 .card {
   margin: 1rem;
+  border: none !important;
+  box-shadow: none !important;
 }
 
 .card:hover .card-text {
