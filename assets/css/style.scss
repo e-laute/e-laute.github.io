@@ -387,8 +387,17 @@ img {
     justify-content: left;
   }
 
-    .card-group {
+  .card-group {
+    display: none !important;
+  }
+
+  .header-images {
     display: none;
+  }
+
+  #project-logo img{
+    height: 80px !important;
+    margin-left: 10px;
   }
  }
 
