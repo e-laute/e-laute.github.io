@@ -2,10 +2,35 @@
 ---
 @import "{{ site.theme }}";
 
+
+#headerCarousel {
+  margin-left: 300px; /* Use margin to avoid dynamic layout issues */
+}
+
+#project-logo {
+  flex-shrink: 0;
+}
+
 .navbar {
   display: flex;
   justify-content: center;
   height: 50px;
+}
+
+.carousel-item img {
+  width: 250px;  /* Adjust width as needed */
+  height: 250px; /* Adjust height as needed */
+  object-fit: cover; /* Ensure the image covers the area without distortion */
+}
+
+.carousel-fade .carousel-item {
+  opacity: 0;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+}
+.carousel-fade .carousel-item.active {
+  opacity: 1;
 }
 
 .dropdown-menu {
@@ -181,6 +206,7 @@ header {
 }
 
 .header-wrapper { 
+  display: flex;
   width:1000px;
   height: 150px;
   margin: 0 auto;
@@ -192,7 +218,6 @@ header {
   height: 150%;
   width: auto;  
   object-fit: contain; 
-  margin-left: 13git0px;
 }
 
 .header-wrapper a, .header-wrapper h1 {
