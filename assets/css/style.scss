@@ -305,16 +305,7 @@ img {
 /* #Media Queries
 ================================================== */
 
-/* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) { 
-  
-}
 
-/* Tablet Portrait size to standard 960 (devices and browsers) */
-@media only screen and (min-width: 768px) and (max-width: 959px) {
-
-  
- }
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 990px) {
@@ -379,11 +370,10 @@ img {
   }
   .navigation {
     justify-content: left;
+    height: auto;
   }
   #project-logo img{
-    height: 50px !important;
-    margin-left: 10px;
-    margin-bottom: 40px;
+    display:none;
   }
 
  }
@@ -395,6 +385,7 @@ img {
   }
   .navigation {
     justify-content: left;
+    height: auto;
   }
 
   .card-group {
@@ -404,11 +395,8 @@ img {
   .header-images {
     display: none;
   }
-
   #project-logo img{
-    height: 50px !important;
-    margin-left: 10px;
-    margin-bottom: 40px;
+    display:none;
   }
  }
 
