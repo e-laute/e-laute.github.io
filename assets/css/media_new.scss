@@ -1,0 +1,104 @@
+
+/* Ensure responsiveness (small screen sizes) */
+
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) { 
+  
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+  
+ }
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 990px) {
+  header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .header-image {
+    display: none;
+  }
+  
+  .header-images {
+    display: none;
+  }
+
+  #project-logo img{
+    height: 80px !important;
+    margin-left: 10px;
+  }
+  .header-wrapper { 
+    width:100% !important;
+  }
+
+  .header-wrapper h2 { 
+    font-size: 18px;
+    letter-spacing:0;
+  }
+  
+  #downloads {
+    margin-bottom: 25px;
+  }
+  #download-zip, #download-tar-gz {
+    display: none;
+  }
+  .inner {
+    width: 94% !important;
+    margin: 0 auto;
+  }
+  ul li {
+    margin-left: 10px;
+    padding-left: 10px;
+    list-style: none !important;
+  }
+  ol li {
+    margin-left: 10px;
+  }
+
+}
+
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 990px) {
+  
+  #lang-select { 
+    margin-left: 1em;
+  }
+  .navigation {
+    justify-content: left;
+  }
+
+
+ }
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  #lang-select { 
+    margin-left: 1em;
+  }
+  .navigation {
+    justify-content: left;
+  }
+
+  .card-group {
+    display: none !important;
+  }
+
+  .header-images {
+    display: none;
+  }
+
+  #project-logo img{
+    height: 80px !important;
+    margin-left: 10px;
+  }
+ }
+
