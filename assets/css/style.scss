@@ -7,15 +7,18 @@
   margin-left: 300px;
 }
 
-#project-logo {
-  flex-shrink: 0;
-}
 
 .navbar {
   display: flex;
   justify-content: center;
   height: 50px;
 }
+
+
+header {
+  height: 100px;
+}
+
 .header-images {
   display: flex;
   margin-left: 20px; 
@@ -30,15 +33,7 @@
   opacity: 0.7;
 }
 
-.carousel-fade .carousel-item {
-  opacity: 0;
-  transition-property: opacity;
-  transition-duration: 0.5s;
-  transition-timing-function: ease;
-}
-.carousel-fade .carousel-item.active {
-  opacity: 1;
-}
+
 
 .dropdown-menu {
   background-color: rgb(198, 94, 94) !important;
@@ -241,9 +236,10 @@ header {
 
 
 #project-logo img {
-  height: 90px;
+  height: 70px !important;
   float:left;
   margin-right:2em;
+  margin-bottom: 120px;
 }
 
 hr .nice-hr { 
@@ -261,7 +257,7 @@ hr .nice-hr {
 }
 
 .card-img-overlay {
-  background-color: rgba(255, 238, 238, 0.7);
+  background-color: rgba(255, 238, 238, .95);
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -385,7 +381,11 @@ img {
   .navigation {
     justify-content: left;
   }
-
+  #project-logo img{
+    height: 50px !important;
+    margin-left: 10px;
+    margin-bottom: 40px;
+  }
 
  }
 
@@ -407,8 +407,9 @@ img {
   }
 
   #project-logo img{
-    height: 80px !important;
+    height: 50px !important;
     margin-left: 10px;
+    margin-bottom: 40px;
   }
  }
 
