@@ -39,6 +39,7 @@ ___
   
 - Basel, Schola Cantorum Basiliensis / FHNW Basel & Study Group Tablature in Western Music, International Musicology Society (IMS), 10.9.- 13.9.2025: E-LAUTE Workshop & IMS Tablature Group Conferece (public)     
 ___
+
 #### What are we working on right now:
 - We develop and finalise the infrastructure of the entire project
 ![](/assets/OeNB_workflow_TU_1.png)  
