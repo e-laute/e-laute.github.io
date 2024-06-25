@@ -20,7 +20,8 @@ ___
   - (David Weigl): 'Introduction. Interplay in the Corpora of German Lute Tablature'  
   - (Silas Bischoff): 'German Lute Tablature - Truly a German invention or a souvenir from other music cultures?'
   - (Olja Janjuš): 'See the bigger picture? - Applying computational approaches to tablature data sets'
-___
+
+___  
 ### Recently published or accepted for publication:
 - Kateryna Schöning, Reinier de Valk, David M. Weigl, Ilias Kyriazis, Olja Janjuš, Henning Burghoff und Christoph Steindl, 'A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project', in _Journal of New Music Research_ (accepted april 2024)
 - Werner Goebl, David M Weigl, 'mei-friend: An Interactive Web-based Editor for Digital Music Encodings', in _Journal of Open Source Software_ 9/98 (2024)  
