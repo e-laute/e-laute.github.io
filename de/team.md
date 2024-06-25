@@ -38,7 +38,7 @@ ___
 [**Prof. Dr. Marc Lewon**](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)  
 **PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)
 
----
+___
 ##### Former team members:
 **PhD Paul Kieffer**, Universität Wien, Institut für Musikwissenschaft, Laute (bis zum 31.5.2024)  
 **Mag. Martin Krickl**, Österreichische Nationalbibliothek, host, IT (bis zum 15. 6. 2023)  
