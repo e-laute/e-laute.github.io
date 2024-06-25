@@ -46,7 +46,7 @@ ___
 ___
 #### What are we working on right now:
 - We develop the editorial platform E-LAUTE (host ÖNB):
-![](/assets/img/E-LAUTEdb_2exampl_01.png)
+![](/assets/img/Ed_platform_001.png)
 
 ___
 - We have developed an internal database (E-LAUTEdb) for the material E-LAUTE and in particular for the historical-bibliographical cataloguing of model- and improvisation-based repertoire or fragments.
