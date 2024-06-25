@@ -37,7 +37,11 @@ ___
 - **Basel, Schola Cantorum Basiliensis / FHNW Basel & Study Group Tablature in Western Music, International Musicology Society (IMS), 10.9.- 13.9.2025**: E-LAUTE Workshop & IMS Tablature Group Conferece (public)     
 ___
 ### What are we working on right now:
-- We are developing the infrastructure of the entire project:  
+- We are developing the infrastructure of the entire project:
+![](/assets/img/OeNB_workflow_TU.png)
 
+- We are developing our editing / encoding workflows:
+![](/assets/img/Workflow_edition.png)
+<div class="acks"> Simplified schematic overview of the encoding workflow. Music is entered into Fronimo (tablature) and MuseScore (CMN), converted to MEI, and finalised using mei-friend. Files are stored in git repositories supporting versioning and automation of certain editorial tasks (see Section </div>
 
 
