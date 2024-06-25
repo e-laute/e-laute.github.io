@@ -50,6 +50,7 @@ ___
 - We are editing 1700 pages of tablature music, searching for concordances and preparing synoptic views. Together with TabMEI Group and Laurent Pugin (Verovio) we are preparing the new version of MEI with lute tablatures (MEI 5.1.).
   
 ![](/assets/img/Elslein_MEI-Friend_001.png)
+
 ___
 - We develop the editorial platform E-LAUTE (host ÖNB), which first steps will be published in autumn 2024:
   
