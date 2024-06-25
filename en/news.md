@@ -46,7 +46,7 @@ ___
 ___
 #### What are we working on right now:
 ___
-- We develop the editorial platform E-LAUTE (host ÖNB), which first steps will be published in autumn 2024
+- We develop the editorial platform E-LAUTE (host ÖNB), which first steps will be published in autumn 2024:  
 ![](/assets/img/Ed_platform_001.png)
 
 ___
