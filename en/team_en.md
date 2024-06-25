@@ -29,7 +29,7 @@ ___
 [**Dr. Stefan Rosmer**](https://germanistik.philhist.unibas.ch/de/personen/stefan-rosmer/), University of Bayreuth, German Medieval Studies & University of Basel, German Linguistics and Literature     
  [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-University Munich, Musicology    
 **Francisca Gruber**, student assistant, University of Bayreuth, German Medieval Studies    
- **Elias Schedler**, student assistant, Ludwig-Maximilian-University Munich, Musicology
+ **Elias Schedler**, student assistant, Ludwig-Maximilian-University Munich, Musicology  
  **Andrea Bauer**, student assistant, Ludwig-Maximilian-University Munich, Musicology
 
 ---
