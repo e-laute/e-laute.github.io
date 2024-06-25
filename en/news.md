@@ -8,11 +8,11 @@ lang: en
 ___
 ### We present our work in summer 2024:
 
-- **Stellenbosch, South Africa, 23.6.-28.6.2024**: [The 2024 IAML Congress](https://www.iaml.info/congresses/2024-stellenbosch):
+- **Stellenbosch, South Africa, 23.6.-28.6.2024**: [The 2024 IAML Congress](https://www.iaml.info/congresses/2024-stellenbosch):  
    (Kevin Page, David Lewis, David Weigl): 'Annotating digital music notation: past, present and future approaches'    
 
    
-- **Lissabon, 26.6.-29.6.2024**: [Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/):
+- **Lissabon, 26.6.-29.6.2024**: [Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/):  
     (Ilias Kyriazis): 'The E-LAUTE critical edition as open knowledge platform and semantic network';  
     (Olja Janjuš): 'Computational analysis of German lute tablature: The interplay of data representations and tools';  
     (Reinier de Valk): 'AbsoLutely Tabulous — A toolbox for computational processing and analysis of music in lute tablature'  
