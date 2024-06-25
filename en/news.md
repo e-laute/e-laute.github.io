@@ -34,14 +34,14 @@ ___
 ### Our Workshops:
 - **Munich, Ludwig-Maximilian-University & Bayerische Staatsbibiliothek,18.9.-20.9.2024**: E-LAUTE Workshop (intern; the agenda will be announced soon) 
   
-- **Basel, Schola Cantorum Basiliensis / FHNW Basel & Study Group Tablature in Western Music, International Musicology Society (IMS), 10.9.- 13.9.2025**: E-LAUTE Workshop & IMS Tablature Group Conferece (public)     
+- Basel, Schola Cantorum Basiliensis / FHNW Basel & Study Group Tablature in Western Music, International Musicology Society (IMS), 10.9.- 13.9.2025: E-LAUTE Workshop & IMS Tablature Group Conferece (public)     
 ___
 ### What are we working on right now:
 - We develop and finalise the infrastructure of the entire project
 ![](/assets/OeNB_workflow_TU_1.png)  
 
 - We evelop and finalise our editing / encoding workflows:
-![](/assets/img/Workflow_edition.png)
+![](/assets/img/Workflow_edition_01.png)
 <div class="acks"> Simplified schematic overview of the encoding workflow. Music is entered into Fronimo (tablature) and MuseScore (CMN), converted to MEI, and finalised using mei-friend. Files are stored in git repositories supporting versioning and automation of certain editorial tasks (see Section </div>
 
 
