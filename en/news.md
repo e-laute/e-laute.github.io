@@ -42,9 +42,11 @@ ___
 
 #### What are we working on right now:
 - We develop and finalise the infrastructure of the entire project
+  
 ![](/assets/OeNB_workflow_TU_1.png)  
 
 - We evelop and finalise our editing / encoding workflows:
+  
 ![](/assets/img/Workflow_edition_01.png)
 <div class="acks"> Simplified schematic overview of the encoding workflow. Music is entered into Fronimo (tablature) and MuseScore (CMN), converted to MEI, and finalised using mei-friend. Files are stored in git repositories supporting versioning and automation of certain editorial tasks (see Section </div>
 
