@@ -55,11 +55,11 @@ In the Git working environment (e.g., GitHub or GitLab), MEI files are produced 
 
 - We evelop and finalise our editing / encoding workflows.
 
-Here is a simplified schematic overview of our encoding workflow, the way to MEI files, which we are editing and will soon make available to everyone: we entered music into Fronimo (tablature) and MuseScore (CMN), convert the files to MEI and finalise them using mei-friend to all required files. As the diagram shows, we co-operate with other developers, e.g. Luteconve, and at the same time create our own tools (TabMEI_transcirber) 
+Here is a simplified schematic overview of our encoding workflow, the way to MEI files, which we are editing and will soon make available to everyone: we entered music into Fronimo (tablature) and MuseScore (CMN), convert the files to MEI and finalise them using mei-friend to all required files. As the diagram shows, we co-operate with other developers, e.g. Luteconve, and at the same time create our own tools (TabMEI_transcirber). 
   
 ![](/assets/img/Workflow_edition_01.png)  
-
-
 <div class="acks"></div>
+
+![](/assets/img/Luteconv_01.png)
 
 
