@@ -42,9 +42,10 @@ ___
 - **Munich, Ludwig-Maximilian-University & Bayerische Staatsbibiliothek,18.9.-20.9.2024**: E-LAUTE Workshop (intern; the agenda will be announced soon) 
   
 - Basel, Schola Cantorum Basiliensis / FHNW Basel & Study Group Tablature in Western Music, International Musicology Society (IMS), 10.9.- 13.9.2025: E-LAUTE Workshop & IMS Tablature Group Conferece (public)     
-___
 
+___
 #### What are we working on right now:
+
 - We develop and finalise the infrastructure of the entire project
   
 ![](/assets/OeNB_workflow_TU_1.png)  
