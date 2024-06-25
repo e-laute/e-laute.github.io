@@ -46,13 +46,26 @@ ___
 ___
 #### What are we working on right now:
 
+- We have developed a database (E-LAUTEdb) for the material E-LAUTE and in particular for the historical-bibliographical cataloguing of model- and improvisation-based repertoire or fragments.
+  
+(1) We are working on the source-original and uniform titles / text incipits, independent of the individual manuscripts or prints;
+  
+![](/assets/img/E-LAUTEdb_2exampl_01.png)
+(2) then we incorporate the entries (text, images, music) into each individual manuscript or print under the categories mentioned here, i.a. we do a new indexing of the whole material; 
+  
+![](/assets/img/E-LAUTEdb_001.png)
+(3) and then we work on the indivudual entries (text, images, music) from the individual manuscript or print under the categories mentioned here, i.a. 'Concordances'.  
+
+![](/assets/img/E-LAUTEdb_3exampl_01.png)
+
+___
 - We develop and finalise the infrastructure of the entire project.
   
 In the Git working environment (e.g., GitHub or GitLab), MEI files are produced by the E-Laute-Team using various technologies (Fronimo/Oxygen, AbsolutelyTabulous, mei-friend, etc.). Releases of these files are stored on the research data management system [TU-RDM](https://researchdata.tuwien.at/), which is based on InvenioRDM. The newest versions of these files are also stored on the GAMS infrastructure from ÖNB, where the digital edition is hosted. On the TU-RDM, each released version of a file receives a DOI, allowing for easy access to older versions. This ensures that all code executed with the data in our research environment can be reproduced at a later date and yield the same results. In JupyterHub, template notebooks with stubs to connect to DB Repo, TU-RDM, GAMS, and other resources are provided to facilitate this objective. DB Repo, a repository for databases that supports data evolution, citation, and versioning, is being developed by TU [dbrepo](https://www.ifs.tuwien.ac.at/infrastructures/dbrepo). The data of the bibliographic e-lautedb is mapped to a [GAMS](https://gams.uni-graz.at/context:gams) instance provided by ÖNB. There, a triple store enables the use of linked data to explore connections between original sources (stored in IIIF format in the ÖNB and other libraries), MEI files, audios, and TEIs. 
   
 ![](/assets/OeNB_workflow_TU_1.png)  
 
-
+___
 - We evelop and finalise our editing / encoding workflows.
 
 Here is a simplified schematic overview of our encoding workflow, the way to MEI files, which we are editing and will soon make available to everyone: we entered music into Fronimo (tablature) and MuseScore (CMN), convert the files to MEI and finalise them using mei-friend to all required files. As the diagram shows, we co-operate with other developers, e.g. Luteconve, and at the same time create our own tools (TabMEI_transcirber). 
