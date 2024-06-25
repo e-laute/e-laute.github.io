@@ -55,6 +55,7 @@ ___
 ___
 - We develop the editorial platform E-LAUTE (host ÖNB), which first steps will be published in autumn 2024:
   
+  
 ![](/assets/img/Ed_platform_001.png)
 [](/assets/img/edition_1ex_001.png)
 
