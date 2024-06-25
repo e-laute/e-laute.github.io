@@ -38,6 +38,7 @@ ___
 ___
 ### What are we working on right now:
 - We develop and finalise the infrastructure of the entire project
+![](/assets/OeNB_workflow_TU_1.png)  
 
 - We evelop and finalise our editing / encoding workflows:
 ![](/assets/img/Workflow_edition.png)
