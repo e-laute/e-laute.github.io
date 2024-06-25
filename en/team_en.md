@@ -41,7 +41,7 @@ ___
 ---
 ##### Former team members:
 **PhD Paul Kieffer**, University of Vienna, Department of Musicology, Lute / Musicology, (until 31 May 2024)  
-**BA Barbara Recheis**, student assistant, University of Vienna, Department of Musicology, Musicology (until 1 June 2024)  
+**BA Barbara Recheis**, student assistant, University of Vienna, Department of Musicology, Musicology (until 31 May 2024)  
 **Eva Schöfer**, student assistant, University of Vienna, Department of Musicology, Musicology (until 31 May 2023)   
 **Mag. Martin Krickl**, Austrian National Library, host, IT (until 15 Jun 2023)    
 **Jochen Schnapka**, student assistant, Ludwig-Maximilian-University Munich, Musicology (until 31 March 2024)   
