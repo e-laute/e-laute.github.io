@@ -51,6 +51,7 @@ ___
   
 ![](/assets/img/Elslein_MEI-Friend_001.png)
 
+
 ___
 - We develop the editorial platform E-LAUTE (host ÖNB), which first steps will be published in autumn 2024:
   
