@@ -60,6 +60,7 @@ Here is a simplified schematic overview of our encoding workflow, the way to MEI
 ![](/assets/img/Workflow_edition_01.png)  
 <div class="acks"></div>
 
+
 ![](/assets/img/Luteconv_01.png)
 
 
