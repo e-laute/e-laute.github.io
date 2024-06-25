@@ -39,7 +39,7 @@ ___
  **PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)  
 
 ---
-#### Former team members:
+##### Former team members:
 **PhD Paul Kieffer**, University of Vienna, Department of Musicology, Lute / Musicology, (until 31 May 2024)  
 **BA Barbara Recheis**, student assistant, University of Vienna, Department of Musicology, Musicology (until 1 June 2024)  
 **Eva Schöfer**, student assistant, University of Vienna, Department of Musicology, Musicology (until 31 May 2023)   
