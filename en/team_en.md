@@ -14,7 +14,7 @@ ___
 [**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Austrian National Library, host, IT  
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology, Information, Software Engineering      
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Copenhagen/Austria, Music Informatics  
-**Dr. Irina Döring**, University of Vienna, Department of Musicology, Musicology, Lute   
+[**Dr. Irina Döring**](https://cesr.cnrs.fr/formations/doctorat/irina-döring), University of Vienna, Department of Musicology, Musicology, Lute   
 [**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), Austrian National Library / Vienna University of Technology, Information, Software Engineering<br/>
 **Henning Burghoff**, student assistant, University of Vienna, Department of Musicology, Musicology / Music Informatics           
 **Maximilian Höller**, student assistant, Vienna University of Technology, Information, Software Engineering          
