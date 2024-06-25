@@ -10,16 +10,19 @@ ___
 
 - **Stellenbosch, South Africa, 23.6.-28.6.2024**: [The 2024 IAML Congress](https://www.iaml.info/congresses/2024-stellenbosch):
   - (Kevin Page, David Lewis, David Weigl): 'Annotating digital music notation: past, present and future approaches'  
+
    
 - **Lissabon, 26.6.-29.6.2024**: [Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/):
   - (Ilias Kyriazis): 'The E-LAUTE critical edition as open knowledge platform and semantic network';
   - (Olja Janjuš): 'Computational analysis of German lute tablature: The interplay of data representations and tools';
   - (Reinier de Valk): 'AbsoLutely Tabulous — A toolbox for computational processing and analysis of music in lute tablature'
+
  
 - **Granada, 6.7.-9.7.2024**: [MedRen: Medieval and Renaissance Music Conference](https://www.medren2024.com):
   - (David Weigl): 'Introduction. Interplay in the Corpora of German Lute Tablature'  
   - (Silas Bischoff): 'German Lute Tablature - Truly a German invention or a souvenir from other music cultures?'
   - (Olja Janjuš): 'See the bigger picture? - Applying computational approaches to tablature data sets'
+
 ___
 ### Recently published or accepted for publication:  
 - Kateryna Schöning, Reinier de Valk, David M. Weigl, Ilias Kyriazis, Olja Janjuš, Henning Burghoff und Christoph Steindl, 'A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project', in _Journal of New Music Research_ (accepted april 2024)
@@ -29,7 +32,8 @@ ___
 
 ___
 ### Our Workshops:
-- **Munich, Ludwig-Maximilian-University & Bayerische Staatsbibiliothek, 18.9.-20.9.2024**: E-LAUTE Workshop (intern; the agenda will be announced soon)
+- **Munich, Ludwig-Maximilian-University & Bayerische Staatsbibiliothek, 18.9.-20.9.2024**: E-LAUTE Workshop (intern; the agenda will be announced soon) 
+  
 - **Basel, Schola Cantorum Basiliensis / FHNW Basel & Study Group Tablature in Western Music, International Musicology Society (IMS), 10.9.- 13.9.2025**: E-LAUTE Workshop & IMS Tablature Group Conferece (public)     
 ___
 ### What are we working on right now:
