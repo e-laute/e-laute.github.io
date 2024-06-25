@@ -58,6 +58,6 @@ In the Git working environment (e.g., GitHub or GitLab), MEI files are produced 
 ![](/assets/img/Workflow_edition_01.png)  
 
 
-<div class="acks"> Simplified schematic overview of the encoding workflow. Music is entered into Fronimo (tablature) and MuseScore (CMN), converted to MEI, and finalised using mei-friend. Files are stored in git repositories supporting versioning and automation of certain editorial tasks (see Section </div>
+<div class="acks"> Simplified schematic overview of the encoding workflow. Music is entered into Fronimo (tablature) and MuseScore (CMN), converted to MEI, and finalised using mei-friend. Files are stored in git repositories supporting versioning and automation of certain editorial tasks</div>
 
 
