@@ -53,13 +53,14 @@ ___
   
 (1) We are working on the source-original and uniform titles / text incipits, independent of the individual manuscripts or prints;
   
-![](/assets/img/ELAUTEdb_1_001.png)
+![](/assets/img/ELAUTEdb_1_001.png)    
 (2) then we incorporate the entries (text, images, music) into each individual manuscript or print under the categories mentioned here, i.a. we do a new indexing of the whole material; 
   
-![](/assets/img/E-LAUTEdb_2_001.png)
+![](/assets/img/E-LAUTEdb_2_002.png)  
+
 (3) and then we work on the indivudual entries (text, images, music) from the individual manuscript or print under the categories mentioned here, i.a. 'Concordances'.  
 
-![](/assets/img/E-LAUTEdb_3_001.png)
+![](/assets/img/E-LAUTEdb_3_001.png)  
 
 ___
 - We develop and finalise the infrastructure of the entire project.
