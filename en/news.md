@@ -82,8 +82,8 @@ Here is a simplified schematic overview of our encoding workflow, the way to MEI
 <div class="acks"></div>
 
 
-Luteconv Converter:     
 
+Luteconv Converter:     
 ![](/assets/img/Luteconv_01.png)
 
 AbsoLutely Tabulous:   
