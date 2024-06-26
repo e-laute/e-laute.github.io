@@ -33,7 +33,7 @@ ___
 - Tim Crawford, Reinier de Valk, David Lewis, Marc Lewon, Paul Overell, Kateryna Schöning, David Weigl, '_Ain schone kunstliche underweisung_: Modelling German lute tablature in MEI', 2023/9/12
 
   
-- Andrea Puentes-Blanco, Metoda Kokole, Philippe Vendrix, María Gembero-Ustárroz, Rebecca Herissone, Christian Troelsgård, Klemen Grabnar, Birgit Lodes, Kateryna Schöning, Vilena Vrbanić, 'The monumental edition in the digital age: creating a sustainable future', in _Journal of New Music Research_ (accepted feb. 2023)
+- Andrea Puentes-Blanco, Metoda Kokole, Philippe Vendrix, María Gembero-Ustárroz, Rebecca Herissone, Christian Troelsgård, Klemen Grabnar, Birgit Lodes, Kateryna Schöning, Vilena Vrbanić, 'The monumental edition in the digital age: creating a sustainable future', in _Journal of New Music Research_ (accepted feb. 2024)
 
 ___
 #### Our Workshops:
