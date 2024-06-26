@@ -96,6 +96,14 @@ tablature), in order to provide only pitch information (also automatically chang
 
 ![](/assets/img/iconic_MEI_ich_bin_ihr_001.png)  
 
+
+____
+- We are working on the connection between MEI and TEI:
+   
+![](/assets/img/Newsidler_Blatt_001.png)  
+
+![](/assets/img/MEI_TEI_001.png)
+
 ____
 - We develop and finalise the infrastructure of the entire project.
   
