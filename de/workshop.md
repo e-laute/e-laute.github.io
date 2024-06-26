@@ -3,16 +3,18 @@ title: Workshop 2023
 permalink: /workshop/
 lang: de
 ---
+<img class="left" src="/assets/img/1400_frg.png"/>
+
 
 ### E-LAUTE, Workshop / Kick-off Meeting, Wien, 3.7.-4.7. 2023
 #### Ort: Institut für Musikwissenschaft, Universität Wien, Hörsaal 1
+___
 
-<img class="left blend" src="/assets/img/1400_frg.png"/>
 
 Das internationale Team des Projekts E-LAUTE veranstaltet vom 3. 7. bis 4. 7. 2023 am Institut für Musikwissenschaft der Universität Wien (Hörsaal 1) ein öffentliches Arbeitstreffen. Wir, Fachkräfte aus 7 Institutionen in den Bereichen Musikwissenschaft, Aufführungspraxis, Germanistik, Musikinformatik und Web Science, diskutieren Themen der digitalen Aufarbeitung von Tabulaturen des 15. und 16. Jahrhunderts. Disziplinenübergreifend arbeiten wir an editorischen Strategien, MEI-Techniken und dem Encodieren der Deutschen Lautentabulatur, an neuer systematischer und historischer Erfassung des Text- und Musikmaterials sowie analytischen und repräsentativen Perspektiven in Verbindung mit modernen Technologien. 
 
-### DAS PROGRAMM
-#### Tag 1 (3.7.2023)
+#### DAS PROGRAMM
+##### Tag 1 (3.7.2023)
 **9.00 - 09.30** _**I.** Allgemeine Vorstellung des Projekts und dessen Teile_ (K. Schöning)  
 _Vorstellungsrunde_ (alle Mitglieder des Projekts)    
 
