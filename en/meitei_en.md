@@ -44,4 +44,6 @@ ____
 
 <img class="left blend" src="/assets/img/MEI_TEI_002.png"/>
 
-__
+___
+
+
