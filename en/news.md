@@ -82,7 +82,8 @@ ____
 - Our lute performers ([_Schola Cantorum Basiliensis_](https://www.musik-akademie.ch/schola-cantorum-basiliensis/de/hochschule/studium.html)) create **audio recordings**. This audio part of the E-LAUTE project is increasingly developing into a comprehensive teaching project that will occupy several students of the lute class (Marc Lewon). (Further information will follow.)
 
 ![align="left"](/assets/img/Laute_Fragment_002.JPG)
- 
+
+
 ____
 - We evelop and finalise our **editing / encoding workflows**.
 
