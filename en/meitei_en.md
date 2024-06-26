@@ -6,6 +6,15 @@ lang: EN
 
 ### News: MEI & TEI
 
+**We are editing 1700 pages of tablature music**, searching for concordances and preparing synoptic views. Together with TabMEI Group and Laurent Pugin (Verovio) we are preparing the new version of MEI with lute tablatures (MEI 5.1.).
+  
+An example in mei-friend:  
+<img class="left" src="/assets/img/Elslein_MEI-Friend_001.png"/>
+
+An example on the ÖNB platform:     
+<img class="left" src="/assets/img/Ed_ILT_MEI_001.png"/>  
+
+___
 - We evelop and finalise our **editing / encoding workflows**.
 
 Here is a simplified schematic overview of our encoding workflow, the way to MEI files, which we are editing and will soon make available to everyone: we entered music into Fronimo (tablature) and MuseScore (CMN), convert the files to MEI and finalise them using [_mei-friend_](https://mei-friend.github.io) (Werner Goebl, David M. Weigl) to all required files. As the diagram shows, we co-operate with other developers, e.g. [_Luteconv_](https://luteconv.mdw.ac.at) (Paul Overell, E-LAUTE team), and at the same time create our own tools (_TabMEI_transcriber_; _AbsoLutely Tabulous_) (both Reinier de Valk). 
