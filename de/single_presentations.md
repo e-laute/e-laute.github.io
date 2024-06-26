@@ -7,14 +7,6 @@ lang: de
 ### Einzelne Präsentationen & Konferenzen
 ___
 
-
-###### Demnächst
-
-* Passau, DHd2024 "DH Quo Vadis", (26.2.–1.3.2024).
-
-* München, LMU/BSB, E-LAUTE Workshop (intern), (18.9.-20.9.2024).
-
-
 ###### Archiv
 
 * Tours, IMS Study Group “Tablature in Western Music”: (Reinier de Valk, David Weigl, Kateryna Schöning) _"Digitally editing German lute tablature for the E-LAUTE project: Workflows and first results"_, (2.-3.11.2023),  <https://ricercar-tours.fr/workshop-tablatures-at-tours-2-3-november-2023/> und <https://lutesocietyofamerica.org/events/#tabattours>.
