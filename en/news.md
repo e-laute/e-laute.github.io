@@ -123,4 +123,4 @@ In the Git working environment (e.g., GitHub or GitLab), MEI files are produced 
 
 **ÖNB infrastructure:** The trajectory of a source (and its encoding) from its digitisation to its management and final delivery, consisting of the following components: (i) integration of facsimiles via IIIF; (ii) working git repository for all data; (iii) GAMS repository for published data; (iv) transformation to target formats (e.g., HTML, PDF) using XSLT
 
-<img class="left" src="/assets/img/OeNB Workflow_2024_001.png"/>  
+<img class="left blend" src="/assets/img/OeNB_Workflow_001.png"/>  
