@@ -57,7 +57,7 @@ An example in mei-friend:
 ![](/assets/img/Elslein_MEI-Friend_001.png)
 
 An example on the ÖNB platform:     
-![](/assets/img/Ed_platform_MEI_001.png)  
+![](/assets/img/Ed_ILT_MEI_001.png)  
 
 ____
 - We have developed an internal database (E-LAUTEdb) for the material E-LAUTE and in particular for the historical-bibliographical cataloguing of model- and improvisation-based repertoire or fragments.
