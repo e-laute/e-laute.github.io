@@ -16,5 +16,5 @@ Als Wissenschaftler*innen arbeiten wir auf unserer Plattform außerdem an fünf 
 
 Das Projekt E-LAUTE vereinigt internationale und interdisziplinäre Kräfte, um auf Desiderate bei der Erfassung dieses Kulturgutes hinzuarbeiten. Es wird durch das internationale Programm WEAVE in Kooperation von Wissenschaftsfonds (FWF, Lead Agency, I 6019-G), der Deutschen Forschungsgemeinschaft (DFG) und dem Schweizerischen Nationalfonds (SNF) gefördert.  
 
-![](/assets/img/Paul_Jenisch_Kutsche_001.png)
+<img class="left" src="/assets/img/Paul_Jenisch_Kutsche_001.png"/>
 <div class="acks"> Stammbuch Paul Jenisch (später Joseph Jenisch), ©Württembergische Landesbibliothek, Cod.hist.qt.298, fol. 180v</div>
