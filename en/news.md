@@ -76,7 +76,7 @@ ____
 ____
 - We evelop and finalise our editing / encoding workflows.
 
-Here is a simplified schematic overview of our encoding workflow, the way to MEI files, which we are editing and will soon make available to everyone: we entered music into Fronimo (tablature) and MuseScore (CMN), convert the files to MEI and finalise them using [_mei-friend_](https://mei-friend.github.io) (Werner Goebl, David M. Weigl) to all required files. As the diagram shows, we co-operate with other developers, e.g. [_Luteconv_](https://luteconv.mdw.ac.at) (Paul Overell, E-LAUTE team), and at the same time create our own tools (_TabMEI_transcriber_; _AbsoLutely Tabulous_) (both Reinier de Valk). 
+Here is a simplified schematic overview of our encoding workflow, the way to MEI files, which we are editing and will soon make available to everyone: we entered music into Fronimo (tablature) and MuseScore (common music notation, =CMN), convert the files to MEI and finalise them using [_mei-friend_](https://mei-friend.github.io) (Werner Goebl, David M. Weigl) to all required files. As the diagram shows, we co-operate with other developers, e.g. [_Luteconv_](https://luteconv.mdw.ac.at) (Paul Overell, E-LAUTE team), and at the same time create our own tools (_TabMEI_transcriber_; _AbsoLutely Tabulous_) (both Reinier de Valk). 
   
 ![](/assets/img/Workflow_edition_01.png)      
 
@@ -89,7 +89,12 @@ AbsoLutely Tabulous:
 
 ![](/assets/img/AbsoLutely_001.png)
 
+____
+- We discuss and finalise the joint _Editorial Conventions_ for the literal transcription and the edition of the German, French and Italian lute tablature.  
+Furthermore, we create literal transcriptions in a project-specific reduced variant of CMN that is in accordance with the tablature notation, consisting of one or two staves containing only stemless, black noteheads and rhythm flags (placed above the staff — as in the
+tablature), in order to provide only pitch information (also automatically changeable) and avoid suggestions of duration and voice-leading (i.e., of polyphonic structure).  
 
+![](/assets/img/iconic_MEI_ich_bin_ihr_001.png)  
 ____
 - We develop and finalise the infrastructure of the entire project.
   
