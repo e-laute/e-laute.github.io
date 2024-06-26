@@ -19,5 +19,5 @@ As scholars, we are also working on five pilot studies on our platform that cove
 
 The E-LAUTE project brings together international and interdisciplinary researchers to achieve desiderata in the evaluation of this cultural heritage. It is funded by international programm WEAVE in cooperation of the Austrian Science Fund (FWF, Lead Agency, I 6019-G), the German Research Foundation (DFG) and the Swiss National Science Foundation (SNF).
 
-![Stammbuch Paul Jenisch Kutsche](/assets/img/Paul_Jenisch_Kutsche.png)
+![Stammbuch Paul Jenisch Kutsche](/assets/img/Paul_Jenisch_Kutsche_001.png)
 <div class="acks"> Stammbuch Paul Jenisch (later Joseph Jenisch), ©Württembergische Landesbibliothek, Cod.hist.qt.298, fol. 180v</div>
