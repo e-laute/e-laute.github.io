@@ -112,7 +112,7 @@ ____
    
 <img class="left" src="/assets/img/Newsidler_Blatt_001.png"/>  
 
-<img class="left" src="/assets/img/MEI_TEI_002.png"/>
+<img class="left blend" src="/assets/img/MEI_TEI_002.png"/>
 
 ____
 - We develop and finalise **the infrastructure of the entire project**.
