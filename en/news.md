@@ -95,6 +95,7 @@ Furthermore, we create literal transcriptions in a project-specific reduced vari
 tablature), in order to provide only pitch information (also automatically changeable) and avoid suggestions of duration and voice-leading (i.e., of polyphonic structure).  
 
 ![](/assets/img/iconic_MEI_ich_bin_ihr_001.png)  
+
 ____
 - We develop and finalise the infrastructure of the entire project.
   
