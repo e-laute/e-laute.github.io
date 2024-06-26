@@ -64,7 +64,7 @@ ____
   
 (1) We work on the source-original and uniform titles / text incipits, independent of the individual manuscripts or prints. So we are moving away from the concept of a 'completed unique piece':
   
-<img class="left blend" src="/assets/img/ELAUTEdb_1_002.png"/>    
+<img class="left" src="/assets/img/ELAUTEdb_1_002.png"/>    
 (2) Then we incorporate the entries (text, images, music) into each individual manuscript or print under the categories mentioned here, i.a. we do a new indexing of the whole material. 
   
 <img class="left blend" src="/assets/img/E-LAUTEdb_2_001.png"/>  
