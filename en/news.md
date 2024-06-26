@@ -44,20 +44,20 @@ ___
 
 ___
 #### What are we working on right now:
-
-___
-- We are editing 1700 pages of tablature music, searching for concordances and preparing synoptic views. Together with TabMEI Group and Laurent Pugin (Verovio) we are preparing the new version of MEI with lute tablatures (MEI 5.1.).
-  
-![](/assets/img/Elslein_MEI-Friend_001.png)
-
-
-___
-- We develop the editorial platform E-LAUTE (host ÖNB), which first steps will be published in autumn 2024:
+- We develop the editorial platform E-LAUTE (host Austrian National Library, =ÖNB), which first steps will be published in autumn 2024:
   
   
 ![](/assets/img/Ed_platform_001.png)
 [](/assets/img/edition_1ex_001.png)
 
+___
+- We are editing 1700 pages of tablature music, searching for concordances and preparing synoptic views. Together with TabMEI Group and Laurent Pugin (Verovio) we are preparing the new version of MEI with lute tablatures (MEI 5.1.).
+  
+An example in mei-friend:  
+![](/assets/img/Elslein_MEI-Friend_001.png)
+
+An example on the ÖNB platform:     
+![](/assets/img/Ed_platform_MEI_001.png)
 ___
 - We have developed an internal database (E-LAUTEdb) for the material E-LAUTE and in particular for the historical-bibliographical cataloguing of model- and improvisation-based repertoire or fragments.
   
