@@ -62,7 +62,7 @@ An example on the ÖNB platform:
 ____
 - We have developed an internal **database (E-LAUTEdb)** for the material E-LAUTE and in particular for the historical-bibliographical cataloguing of model- and improvisation-based repertoire or fragments.
   
-(1) We work on the source-original and uniform titles / text incipits, independent of the individual manuscripts or prints. So we are moving away from the concept of a "completed unique piece":
+(1) We work on the source-original and uniform titles / text incipits, independent of the individual manuscripts or prints. So we are moving away from the concept of a 'completed unique piece':
   
 ![](/assets/img/ELAUTEdb_1_002.png)    
 (2) Then we incorporate the entries (text, images, music) into each individual manuscript or print under the categories mentioned here, i.a. we do a new indexing of the whole material. 
