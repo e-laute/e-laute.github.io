@@ -57,7 +57,8 @@ An example in mei-friend:
 ![](/assets/img/Elslein_MEI-Friend_001.png)
 
 An example on the ÖNB platform:     
-![](/assets/img/Ed_platform_MEI_001.png)
+![](/assets/img/Ed_platform_MEI_001.png)  
+
 ___
 - We have developed an internal database (E-LAUTEdb) for the material E-LAUTE and in particular for the historical-bibliographical cataloguing of model- and improvisation-based repertoire or fragments.
   
@@ -81,11 +82,15 @@ Here is a simplified schematic overview of our encoding workflow, the way to MEI
 <div class="acks"></div>
 
 
-Luteconv Converter:   
+Luteconv Converter:     
+
 ![](/assets/img/Luteconv_01.png)
 
-AbsoLutely Tabulous: 
+AbsoLutely Tabulous:   
+
 ![](/assets/img/AbsoLutely_001.png)
+
+
 ___
 - We develop and finalise the infrastructure of the entire project.
   
