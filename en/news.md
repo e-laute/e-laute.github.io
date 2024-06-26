@@ -78,8 +78,7 @@ ____
 
 Here is a simplified schematic overview of our encoding workflow, the way to MEI files, which we are editing and will soon make available to everyone: we entered music into Fronimo (tablature) and MuseScore (CMN), convert the files to MEI and finalise them using [_mei-friend_](https://mei-friend.github.io) (Werner Goebl, David M. Weigl) to all required files. As the diagram shows, we co-operate with other developers, e.g. [_Luteconv_](https://luteconv.mdw.ac.at) (Paul Overell, E-LAUTE team), and at the same time create our own tools (_TabMEI_transcriber_; _AbsoLutely Tabulous_) (both Reinier de Valk). 
   
-![](/assets/img/Workflow_edition_01.png)  
-<div class="acks"></div>  
+![](/assets/img/Workflow_edition_01.png)    
 
 
 
