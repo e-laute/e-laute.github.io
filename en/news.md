@@ -47,17 +47,17 @@ ___
 - We develop the **editorial platform E-LAUTE** (host Austrian National Library, =ÖNB), which first steps will be published in autumn 2024:
   
  
-<img class="left blend" src="/assets/img/Ed_platform_001.png"/>  
-<img class="left blend" src="/assets/img/edition_1ex_001.png"/>
+<img class="left" src="/assets/img/Ed_platform_001.png"/>  
+<img class="left" src="/assets/img/edition_1ex_001.png"/>
 
 ____
 - **We are editing 1700 pages of tablature music**, searching for concordances and preparing synoptic views. Together with TabMEI Group and Laurent Pugin (Verovio) we are preparing the new version of MEI with lute tablatures (MEI 5.1.).
   
 An example in mei-friend:  
-<img class="left blend" src="/assets/img/Elslein_MEI-Friend_001.png"/>
+<img class="left" src="/assets/img/Elslein_MEI-Friend_001.png"/>
 
 An example on the ÖNB platform:     
-<img class="left blend" src="/assets/img/Ed_ILT_MEI_001.png"/>  
+<img class="left" src="/assets/img/Ed_ILT_MEI_001.png"/>  
 
 ____
 - We have developed an internal **database (E-LAUTEdb)** for the material E-LAUTE and in particular for the historical-bibliographical cataloguing of model- and improvisation-based repertoire or fragments.
@@ -67,11 +67,11 @@ ____
 <img class="left" src="/assets/img/ELAUTEdb_1_002.png"/>    
 (2) Then we incorporate the entries (text, images, music) into each individual manuscript or print under the categories mentioned here, i.a. we do a new indexing of the whole material. 
   
-<img class="left blend" src="/assets/img/E-LAUTEdb_2_001.png"/>  
+<img class="left" src="/assets/img/E-LAUTEdb_2_001.png"/>  
 
 (3) And then we work on the indivudual entries (text, images, music) from the individual manuscript or print under the categories mentioned here, i.a. 'Concordances'.  
 
-<img class="left blend" src="/assets/img/E-LAUTEdb_3_001.png"/>  
+<img class="left" src="/assets/img/E-LAUTEdb_3_001.png"/>  
 
 
 ____
@@ -81,7 +81,7 @@ ____
 ____
 - Our lute performers ([_Schola Cantorum Basiliensis_](https://www.musik-akademie.ch/schola-cantorum-basiliensis/de/hochschule/studium.html)) create **audio recordings**. This audio part of the E-LAUTE project is increasingly developing into a comprehensive teaching project that will occupy several students of the lute class (Marc Lewon). (Further information will follow.)
 
-<img class="left blend" src="/assets/img/Laute_Fragment_003.JPG"/>
+<img class="left" src="/assets/img/Laute_Fragment_003.JPG"/>
 
 
 ____
@@ -93,31 +93,31 @@ Here is a simplified schematic overview of our encoding workflow, the way to MEI
 
 
 
-Luteconv Converter:     
-<img class="left blend" src="/assets/img/Luteconv_01.png"/>
+**Luteconv Converter:**     
+<img class="left" src="/assets/img/Luteconv_01.png"/>
 
-AbsoLutely Tabulous:   
+**AbsoLutely Tabulous:**   
 
-<img class="left blend" src="/assets/img/AbsoLutely_001.png"/>
+<img class="left" src="/assets/img/AbsoLutely_001.png"/>
 
 ____
 - We create **literal transcriptions in a project-specific reduced variant of CMN** that is in accordance with the tablature notation, consisting of one or two staves containing only stemless, black noteheads and rhythm flags (placed above the staff — as in the
 tablature), in order to provide only pitch information (also automatically changeable) and avoid suggestions of duration and voice-leading (i.e., of polyphonic structure).  
 
-<img class="left blend" src="/assets/img/iconic_MEI_ich_bin_ihr_001.png"/>  
+<img class="left" src="/assets/img/iconic_MEI_ich_bin_ihr_001.png"/>  
 
 
 ____
 - We are working on the **connection between MEI and TEI**:
    
-<img class="left blend" src="/assets/img/Newsidler_Blatt_001.png"/>  
+<img class="left" src="/assets/img/Newsidler_Blatt_001.png"/>  
 
-<img class="left blend" src="/assets/img/MEI_TEI_002.png"/>
+<img class="left" src="/assets/img/MEI_TEI_002.png"/>
 
 ____
 - We develop and finalise **the infrastructure of the entire project**.
   
 In the Git working environment (e.g., GitHub or GitLab), MEI files are produced by the E-Laute-Team using various technologies (Fronimo/Oxygen, AbsolutelyTabulous, mei-friend, etc.). Releases of these files are stored on the research data management system [TU-RDM](https://researchdata.tuwien.at/), which is based on InvenioRDM. The newest versions of these files are also stored on the GAMS infrastructure from ÖNB, where the digital edition is hosted. On the TU-RDM, each released version of a file receives a DOI, allowing for easy access to older versions. This ensures that all code executed with the data in our research environment can be reproduced at a later date and yield the same results. In JupyterHub, template notebooks with stubs to connect to DB Repo, TU-RDM, GAMS, and other resources are provided to facilitate this objective. DB Repo, a repository for databases that supports data evolution, citation, and versioning, is being developed by TU [dbrepo](https://www.ifs.tuwien.ac.at/infrastructures/dbrepo). The data of the bibliographic e-lautedb is mapped to a [GAMS](https://gams.uni-graz.at/context:gams) instance provided by ÖNB. There, a triple store enables the use of linked data to explore connections between original sources (stored in IIIF format in the ÖNB and other libraries), MEI files, audios, and TEIs. 
   
-<img class="left blend" src="/assets/OeNB_workflow_TU_1.png"/>  
+<img class="left" src="/assets/OeNB_workflow_TU_1.png"/>  
 
