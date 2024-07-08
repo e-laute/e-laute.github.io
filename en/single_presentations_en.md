@@ -4,7 +4,7 @@ permalink: /single-presentation/
 lang: en
 ---
 
-### individuall presentation & conferences 
+### individual presentation & conferences 
 ____
 
 ###### archive
