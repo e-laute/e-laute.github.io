@@ -8,7 +8,7 @@ lang: de
 ### Dialoge über die Musik
 ___
 
-![](/assets/img/Handy_coll_02.png "Collage von K.Schöning; Bild: David Teniers, The guitar player,
+
 https://www.art-prints-on-demand.com/?HTML=show/image.htm&imageid=12984561235182363")
 
 Dies ist eine Fallstudie mit einem interdisziplinären Ansatz von web science, Musikwissenschaft und Aufführungspraxis. In der E-LAUTE Edition wird es generell möglich sein, alle Informationen über ein Annotationsinterface mit den Rezipienten zu teilen und mit ihnen in einen Dialog zu treten. Am Beispiel von drei eng miteinander verbundenen Tabulaturen - dem Wiener Exemplar von

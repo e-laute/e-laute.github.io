@@ -7,7 +7,7 @@ lang: en
 ### Pilot I
 ### Variance and Retextualisation in the Music and Text of the Love Song
 ___
-![](/assets/img/Hofieren_Dohna.png "Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550 (Bildzitat nach: Walter Salmen Musikleben im 16. Jahrhundert (Musikgeschichte in Bildern III/9), Leipzig 1976, S. 146")
+[](/assets/img/Hofieren_Dohna.png "Federzeichnung aus dem verschollenen Stammbuch des Burggrafen Achatius zu Dohna, um 1550 (Bildzitat nach: Walter Salmen Musikleben im 16. Jahrhundert (Musikgeschichte in Bildern III/9), Leipzig 1976, S. 146")
 
 The study is an interdisciplinary sub-project in which German studies and musicology work closely together on the same questions. The focus is on the relationship between text and music, their variants and the historical and modern reception of these components. Every work on song intabulations leads to considerations of how and whether the text of the vocal original was understood, heard or thought into the instrumental version? What semantic or structural components did the text bring into the intabulated music? What textual and vocal music sources and practices were actually available to and engaged with by the scribers? Finally, how was the parallel reading of text and music and the dialogue between tablature and vocal writing to be made possible or demonstrated to the modern recipient? 
 
@@ -27,6 +27,6 @@ function in the ‘text-event’ mode (Chartier 2000, 5) as both were inseparabl
 examine which variants of the melodies could be underlaid (allowing users of the edition to select
 among the results), because the linkage to text was not determinate (Sappler 1970, 375). Song no.
 82, for example, survives through the references to 'Elßlin' song in _Glogauer_ (1480) and _Ambraser
-Liederbuch_ (1582), music prints by Öglin 1512 and Forster 1539, and in several tablatures as
+Liederbuch_ (1582), music prints by Ott 1534 and Forster 1539, and in several tablatures as
 intabulation. We consider how the music was (re)interpreted in the context of the text in later printed
 music and especially in the intabulations of the edited tablatures.

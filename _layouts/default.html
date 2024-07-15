@@ -1,96 +1,69 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384–1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Bootstrap JS and dependencies -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-  
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+  {%- include head.html -%}
 
-{% seo %}
-    {% include head-custom.html %}
-  </head>
   <body>
-    <div id="">
-      <header>
-        <div class="header-wrapper" style="display: flex; align-items: center;">
-          
 
-      
-          <span style="display: flex; align-items: center; gap: 20px;">
-            <div>
-              <h1>{{ site.title }}</h1>
-              <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    {%- include header.html -%}
+
+    {%- include navbar.html -%}
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class=" col col-sm-4">
+            <div class="position-sticky" style="top: 2rem;">
+              {% if page.permalink =='/'%}{% include carousel.html %}
+              {% endif %}
+              {% if page.permalink =='/presentation/'%}<img src="/assets/img/A-Wn_Mus.Hs.18688_fol.26r_ausschn_001.jpg" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/team/'%} <img src="/assets/img/Dohna_kutsche.png" class="d-block w-100" alt="..." >
+              {% endif %}
+              {% if page.permalink =='/partner/'%}<img  src="/assets/img/Foedera.png" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/news/'%}<img  src="/assets/img/Paul_Jenisch_Kutsche_001.png" class="d-block w-100" alt="...">
+              <div class="acks"> Stammbuch Paul Jenisch (later Joseph Jenisch), ©Württembergische Landesbibliothek, Cod.hist.qt.298, fol. 180v</div>
+              {% endif %}
+              {% if page.permalink =='/pilotI/'%}<img  src="/assets/img/Hofieren_Dohna.png" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/pilotII/'%}<img  src="/assets/img/Craus_Harfe_col_01.png" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/pilotIII/'%}<img  src="/assets/img/Pilot_III_001.png" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/pilotIV/'%}<img  src="/assets/img/Handy_coll_02.png" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/pilotV/'%}<img  src="/assets/img/DTOe_coll_01.png" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/meitei/'%}<img  src="/assets/img/MEI_Collage_1.png" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/workshop/'%}<img  src="/assets/img/Laute_Fragment_001.JPG" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/single-presentation/'%}<img  src="/assets/img/Newsidler_Blatt_001.png" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/press/'%}<img  src="/assets/img/Thurner_Text.jpg" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/aspects/'%}<img  src="/assets/img/Collage.png" class="d-block w-100" alt="...">
+              {% endif %}
+              {% if page.permalink =='/collaboration/'%}<img  src="/assets/img/PC_3.png" class="d-block w-100" alt="...">
+              {% endif %}
+
             </div>
-          </span>
-      <!-- Images Side by Side 
-      <div class="header-images">
-        <img src="/assets/img/header_image_1_edited.jpeg" alt="Header Image 1">
-        <img src="/assets/img/header_image_2_edited.jpeg" alt="Header Image 2">
-        <img src="/assets/img/header_image_3_edited.jpeg" alt="Header Image 3">
-      </div>
 
-      -->
+          </div>
+          <div class="col-12 col-sm-8">
+            <div class="wrapper">
+              {{ content }}
+            </div>
+          </div>
         </div>
-      </header>
-      
-        <div class="sticky-top navigation">
-          {% include navbar.html %}
-        </div>
-      <div class="inner">
-        <section id="downloads" class="clearfix">
-          {% if site.show_downloads %}
-          <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
-          <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-          {% endif %}
-	{% if site.github.public %}
-	  {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
-	  {% else %}
-          <a href="{{ site.github.owner_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
-	  {% endif %}
-	{% endif %}
-        </section>
-        <section id="main_content">
-          {{ content }}
-        </section>
 
-        <footer>
-          <hr/>
-          <ul class="logos">
-            <li class="logo"><a><img src="../assets/img/UW.png" alt="Universität Wien" title="Universität Wien"></a></li>
-            <li class="logo"><a><img src="../assets/img/mdw.png" alt="Universität für Musik und darstellende Kunst Wien" title="Universität für Musik und darstellende Kunst Wien"></a></li>
-            <li class="logo"><a><img src="../assets/img/TU.png" alt="TU Wien" title="TU Wien"></a></li>
-            <li class="logo"><a><img src="../assets/img/LMU.png" alt="Ludwig-Maximilian-Universität München" title="Ludwig-Maximilian-Universität München"></a></li>
-            <li class="logo"><a><img src="../assets/img/ONB.png" alt="Österreichische Nationalbibliothek" title="Österreichische Nationalbibliothek"></a></li>
-            <li class="logo"><a><img src="../assets/img/Bayreuth.png" alt="Universität Bayreuth" title="Universität Bayreuth"></a></li>
-            <li class="logo big"><a><img src="../assets/img/Schola_Cantorum.jpg" alt="Schola Cantorum Basiliensis / FHNW Basel" title="Schola Cantorum Basiliensis / FHNW Basel"></a></li>
-            <li class="logo wide"><a><img src="../assets/img/BSB-Logo_Claim-deutsch.jpg" alt="Bayrische StaatsBibliothek" title="Bayrische StaatsBibliothek"></a></li>
-
-          </ul>
-          <hr/>
-          <ul class="logos">
-            <li class="logo"><a><img src="../assets/img/Weave.svg" alt="Weave: Research funding without borders" title="Weave: Research funding without borders"></a></li>
-            <li class="logo"><a><img src="../assets/img/FWF.svg" alt="FWF: Austrian Science Fund" title="FWF: Austrian Science Fund"></a></li>
-            <li class="logo"><a><img src="../assets/img/DFG.svg" alt="DFG: German Research Foundation" title="DFG: German Research Foundation"></a></li>
-            <li class="logo"><a><img src="../assets/img/SNSF.svg" alt="SNSF: Swiss National Science Foundation" title="SNSF: Swiss National Science Foundation"></a></li>
-          </ul>
-          <div id="funder-acks">This research project is funded by Weave (FWF / DFG / SNSF): I 6019</div>
-          <div id="logo-acks">Logo image: <a href="https://ikmk.smb.museum/object?id=18271645">Medaille mit der Porträtdarstellung von Veit Bulling. Süddeutscher Medailleur, 1525, hintere Seite</a> © Münzkabinett der Staatlichen Museen Preußischer Kulturbesitz zu Berlin, Nr. 302.</div>
-        </footer>
       </div>
-    </div>
+    </main>
+
+    {%- include footer.html -%}
+
   </body>
+
 </html>

@@ -5,112 +5,122 @@ lang: en
 ---
 ### NEWS
 
-### E-LAUTE, Workshop / Kick-off Meeting, Vienna, 3.7.-4.7. 2023
-#### Venues: Institut of Musicology, University of Vienna, lecture hall 1
+___
+#### We present our work in summer 2024:
 
-<img class="left blend" src="/assets/img/1400_frg.png"/>
+- **Stellenbosch, South Africa, 23.6.-28.6.2024**: [The 2024 IAML Congress](http://iaml2024.sun.ac.za/):  
+   (David M. Weigl, Olja Januš, Reinier de Valk, Kateryna Schöning): 'Encoding strategies for notations combining text and music'
+   
+- **Lissabon, 26.6.-29.6.2024**: [Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/):  
+    (Ilias Kyriazis): 'The E-LAUTE critical edition as open knowledge platform and semantic network';  
+    (Olja Janjuš): 'Computational analysis of German lute tablature: The interplay of data representations and tools';  
+    (Reinier de Valk): 'AbsoLutely Tabulous — A toolbox for computational processing and analysis of music in lute tablature'  
 
-The international team of the E-LAUTE project will hold a public workshop meeting from 3 Jul to 4 Jul 2023 at the University of Vienna, Department of Musicology (lecture hall 1). As experts from 7 institutions in the fields of musicology, performance practice, German studies, music informatics and web science, we will discuss topics related to the digital processing of tablatures from the 15th and 16th century. Across disciplines, we are working on editorial strategies, MEI techniques and the encoding of the German lute tablature, on the systematic and historical reworking of textual and musical material, as well as analytical and representational perspectives in connection with modern technologies. 
+ 
+- **Granada, 6.7.-9.7.2024**: [MedRen: Medieval and Renaissance Music Conference](https://www.medren2024.com):  
+    (David Weigl): 'Introduction. Interplay in the Corpora of German Lute Tablature'    
+    (Silas Bischoff): 'German Lute Tablature - Truly a German invention or a souvenir from other music cultures?'  
+    (Olja Janjuš): 'See the bigger picture? - Applying computational approaches to tablature data sets'  
 
-<img class="inline" src="/assets/img/Craus_03.png" title="A-Wn Mus.Hs. 18688, fol. 26r"/> 
-<img class="inline" src="/assets/img/xml_Bild_01.png"/>
-<img class="inline" src="/assets/img/GLT_Bild_02.png"/>
+___
+#### Recently published or accepted for publication:  
+- Kateryna Schöning, Reinier de Valk, David M. Weigl, Ilias Kyriazis, Olja Janjuš, Henning Burghoff und Christoph Steindl, 'A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project', in _Journal of New Music Research_ (accepted april 2024)
 
-### AGENDA  
-#### Day 1 (3.7.2023)
-**9.00 - 09.30** _**I.** General presentation of the project and its parts_ (K. Schöning)  
-_Short round of introductions_ (all members of the project)      
 
-**9.30 - 10.35** _**II.** Technical principles and literal transcription in 'common music notation' (=CMN) and 'German lute tablature' (=GLT); current state of work, issues - solutions, perspectives_   
-Part **CMN**  
-Material of the project  (K. Schöning)
-'MEI-Friend' (D. Weigl)  
-Transfer into CMN and editing the files in ‘MEI-Friend’ (D. Weigl, H. Burghoff, B. Recheis, K. Schöning)   
-Discussion - 30’  
+- Werner Goebl, David M Weigl, 'mei-friend: An Interactive Web-based Editor for Digital Music Encodings', in _Journal of Open Source Software_ 9/98 (2024)
 
-**10.35 - 10.45** Coffee break    
 
-**10.45 - 12.00**  
-Part **GLT**   
-_Literal transcription in GLT, encoding and perspectives of the TabMEI, Working with ILT and FLT_ (P. Kieffer, M. Lewon, R. de Valk)  
-Discussion - 30’ (leader D. Weigl)   
+- Tim Crawford, Reinier de Valk, David Lewis, Marc Lewon, Paul Overell, Kateryna Schöning, David Weigl, '_Ain schone kunstliche underweisung_: Modelling German lute tablature in MEI', 2023/9/12
 
-**12.00 - 12.40** _**III.** Perspectives of OMR: first trial studies with similarity searches in music data_ (A. Rauber, M. Höller)  
-Discussion - 10’   
+  
+- Andrea Puentes-Blanco, Metoda Kokole, Philippe Vendrix, María Gembero-Ustárroz, Rebecca Herissone, Christian Troelsgård, Klemen Grabnar, Birgit Lodes, Kateryna Schöning, Vilena Vrbanić, 'The monumental edition in the digital age: creating a sustainable future', in _Journal of New Music Research_ (accepted feb. 2024)
 
-**12.50 - 13.50** Lunch: in 'Bierheuriger zum Gangl', Alser Str. 4, 1090 Wien    
+___
+#### Our Workshops:
 
-**14.00 - 15.20** _**IV.** **Pilot I + II**: Text and music in the edition, first tablature characters. Case study on the Königssteiner Liederbuch. Songs in the lute tablatures_   
-State of research / systematisation of texts, Pilot I (C. Kropik, S. Rosmer, Ch. Steindl)  
-**Pilot II**: -	Pilot II: early tablature notation, role of the text, performance agenda (M. Lewon)  
-Discussion - 30’  
+- **Munich, Ludwig-Maximilian-University & Bayerische Staatsbibiliothek,18.9.-20.9.2024**: E-LAUTE Workshop (intern; the agenda will be announced soon) 
+  
+- Basel, Schola Cantorum Basiliensis / FHNW Basel & Study Group Tablature in Western Music, International Musicology Society (IMS), 10.9.- 13.9.2025: E-LAUTE Workshop & IMS Tablature Group Conferece (public)     
 
-**15.20 - 15.45** _**V.** Systematic, historical and bibliographical gathering of text and music material (logic, structure, database)_  (K.Schöning, Imput)  
-Discussion - 20’  
+___
+#### What are we working on right now:
+- We develop the **editorial platform E-LAUTE** (host Austrian National Library, =ÖNB), which first steps will be published in autumn 2024:
+  
+ 
+<img class="left" src="/assets/img/Ed_platform_001.png"/>  
+<img class="left" src="/assets/img/edition_1ex_001.png"/>
 
-**15.45** walking together to the ÖNB     
+____
+- **We are editing 1700 pages of tablature music**, searching for concordances and preparing synoptic views. Together with TabMEI Group and Laurent Pugin (Verovio) we are preparing the new version of MEI with lute tablatures (MEI 5.1.).
+  
+An example in mei-friend:  
+<img class="left" src="/assets/img/Elslein_MEI-Friend_001.png"/>
 
-**16.00 - 17.00** visit to the music collection of the ÖNB: viewing of handwritten tablatures   
+An example on the ÖNB platform:     
+<img class="left" src="/assets/img/Ed_ILT_MEI_001.png"/>  
 
-**17.00 - 18.00** State Hall of the ÖNB   
+____
+- We have developed an internal **database (E-LAUTEdb)** for the material E-LAUTE and in particular for the historical-bibliographical cataloguing of model- and improvisation-based repertoire or fragments.
+  
+(1) We work on the source-original and uniform titles / text incipits, independent of the individual manuscripts or prints. So we are moving away from the concept of a 'completed unique piece':
+  
+<img class="left" src="/assets/img/ELAUTEdb_1_002.png"/>    
+(2) Then we incorporate the entries (text, images, music) into each individual manuscript or print under the categories mentioned here, i.a. we do a new indexing of the whole material. 
+  
+<img class="left" src="/assets/img/E-LAUTEdb_2_001.png"/>  
 
-**18.00 - 19.00** Common trip to the Heurigen  
+(3) And then we work on the indivudual entries (text, images, music) from the individual manuscript or print under the categories mentioned here, i.a. 'Concordances'.  
 
-**ab 19.00**  Dinner at the Heurigen 'Zum Martin Seep', Cobenzlgasse 34, 1190 Wien-Grinzing      
+<img class="left" src="/assets/img/E-LAUTEdb_3_001.png"/>  
 
-#### Day 2 (4.7.2023)  
-**9.00 - 09.30** _**VI.** **Pilot III**: (partial aspects): Text and Music in the Intavolations of the D-Mbs Mus.ms. 1512_ (I. Holzer, O. Janjuš)  
-Discussion - 15’  
 
-**9.45 - 10.15** _**VII. External papers and discussions……**_  
-_The Optical Music Recognition in French Lute Tablature Manuscripts (17th and 18th centuries)_ (G. Joachimiak und A. Margraf)   
+____
+- We discuss and finalise the joint **_Editorial Conventions_** for the literal and edited transcriptions into all tablature notations and common music notation (=CMN). The documentation will be published on the E-LAUTE edition platform.    
+  
 
-**10.15 - 10.45** _Understanding tablature manuscripts: The meaning of non-standard signs in the late 15th and early 16th centuries_ (I. Döring)   
+____
+- Our lute performers ([_Schola Cantorum Basiliensis_](https://www.musik-akademie.ch/schola-cantorum-basiliensis/de/hochschule/studium.html)) create **audio recordings**. This audio part of the E-LAUTE project is increasingly developing into a comprehensive teaching project that will occupy several students of the lute class (Marc Lewon). (Further information will follow.)
 
-**10.45 - 11.00** Coffee break       
+<img class="left" src="/assets/img/Laute_Fragment_003.JPG"/>
 
-**11.00 - 13.00** _Project internal working session: planning of next steps & summary_  
 
-**ab 14.00** Lunch in the garden of the Café-Restaurant 'Diglas im Schottenstift'  
+____
+- We evelop and finalise our **editing / encoding workflows**.
 
-The main objective of the meeting is to move forward in the following **work areas of the project**:  
+Here is a simplified schematic overview of our encoding workflow, the way to MEI files, which we are editing and will soon make available to everyone: we entered music into Fronimo (tablature) and MuseScore (CMN), convert the files to MEI and finalise them using [_mei-friend_](https://mei-friend.github.io) (Werner Goebl, David M. Weigl) to all required files. As the diagram shows, we co-operate with other developers, e.g. [_Luteconv_](https://luteconv.mdw.ac.at) (Paul Overell, E-LAUTE team), and at the same time create our own tools (_TabMEI_transcriber_; _AbsoLutely Tabulous_) (both Reinier de Valk). 
+  
+<img class="left blend" src="/assets/img/Workflow_edition_01.png"/>      
 
-(1) Diplomatic and editorial transcription in CMN, GLT a.o. Tab;  
-(2) MEI-Friend and work with the programme;  
-(3) Encoding of GLT;  
-(4) Systematic, historical and bibliographical gathering of the textual and musical material (logic, structure, database), with the perspective of future presentation of the material on our editorial platform;  
-(5) Storage of data and organisation of the project; Use of GitLab, GitHub, GoogleDrive; internal storage of "foreign" material, Distribution and exchange of the transcribed or edited material; Uniformity in the naming of data and its storage;    
-(6) Editing of texts (TEI); connection of texts and music;  
-(7) Audio data, selection, recording and connection to the edition;   
-(8) Perspectives of OMR: first trial studies with similarity searches in the music data;  
-(9) Pilot I+II (sub-aspects): Text and music, variance, metre, concordance, first signs of lute tablature in the 15th century;   
-(10) Pilot III (sub-aspects): Text and music in the intabulations of the D-Mbs Mus.ms. 1512;  
-(11) Website www.e-laute-info, conception; infrastructure of the ÖNB host.    
 
-We will take only **a few examples**, which we will look at from different viewpoints:    
 
-**Examples**:  
-A1 “Elslein, liebes Elslein mein”, fol. 22v, Hans Judenkünig, Ain schone kunstliche vnderweisung, Wien 1523  
-A2 “Elslein, liebes Elslein mein”, fol. 7v, A-Wn_Mus.Hs._18688 (Craus-Tabulatur)  
-A3: “Elslein, liebes Elslein mein”, fol. 24v, A-Wn_Mus.Hs._18688 (Craus-Tabulatur)  
-B1: Lied Nr. 134, Königsteiner Liederbuch  
-B2: fol. 170v-171r, Nr. 134=146, Königsteiner Liederbuch  
-C1: “Ich hat mir eyn falcken ußderkorn”/ “Zwischen berg und tieffem tail” fol. 142r-142v, Nr. 82, Königsteiner Liederbuch  
-C2: “Pschissen perg und leckh die tall” [nach H. Isaac, „Zwischen Berg und tiefen Tal“, Tenor und Bass”], fol. 29r, A-Wn_Mus.Hs._18688 (Craus-Tabulatur)  
-D1: “Chiarenzana”, fol. 7v-8v, A-Wn Mus.Hs.18827, in zwei Varianten (original)  
-D2:  “Chiarenzana”, fol. 7v-8v, A-Wn Mus.Hs.18827, in zwei Varianten (edited)  
-E: “Passo e mezzo”, fol. 34r-35r, PL-WRk 352   
-F: “Mein Fleiß und Mueh’”, fol. 17r, D-Mbs_Mus.ms_1512 
+**Luteconv Converter:**     
+<img class="left" src="/assets/img/Luteconv_01.png"/>
 
-Participants of the workshop are **members of the project and our guests**.
+**AbsoLutely Tabulous:**   
 
-Our guests and responders:  
-**Prof. Tim Crawford**, Goldsmiths College, University of  London, music informatics (online, in MEI-Part)  
-**Dr. David Lewis**, Goldsmiths College, University of  London, music informatics (online, in MEI-Part)  
-**Dr. Anna Plaksin**, University of Mainz, music informatics (online, in 'MEI-Friend'-Part)  
-**Dr. Irina Döring**, University François-Rabelais in Tours, musicology and performance practice (lute, the 15th century)    
-**Dr. Grzegorz Joachimiak**, University Wrocław, musicology and performance practice (lute, the 17th-18th c.)  
-**DI Arek Margraf**, Poznan Supercomputing and Networking Center/ PSNC (online)  
-**Dr. Stefan Gasch**, University of Music and Performing Arts Vienna, musicology  
-**Prof. Dr. Birgit Lodes**, Department of Musicology, University of Vienna,musicology   
-**Prof. Frauke Jürgensen**, University of Music and Performing Arts Vienna, musicology  
+<img class="left" src="/assets/img/AbsoLutely_001.png"/>
+
+____
+- We create **literal transcriptions in a project-specific reduced variant of CMN** that is in accordance with the tablature notation, consisting of one or two staves containing only stemless, black noteheads and rhythm flags (placed above the staff — as in the
+tablature), in order to provide only pitch information (also automatically changeable) and avoid suggestions of duration and voice-leading (i.e., of polyphonic structure).  
+
+<img class="left" src="/assets/img/iconic_MEI_ich_bin_ihr_001.png"/>  
+
+
+____
+- We are working on the **connection between MEI and TEI**:
+   
+<img class="left" src="/assets/img/Newsidler_Blatt_001.png"/>  
+
+<img class="left blend" src="/assets/img/MEI_TEI_002.png"/>
+
+____
+- We develop and finalise **the infrastructure of the entire project**.
+  
+In the Git working environment (e.g., GitHub or GitLab), MEI files are produced by the E-Laute-Team using various technologies (Fronimo/Oxygen, AbsolutelyTabulous, mei-friend, etc.). Releases of these files are stored on the research data management system [TU-RDM](https://researchdata.tuwien.at/), which is based on InvenioRDM. The newest versions of these files are also stored on the GAMS infrastructure from ÖNB, where the digital edition is hosted. On the TU-RDM, each released version of a file receives a DOI, allowing for easy access to older versions. This ensures that all code executed with the data in our research environment can be reproduced at a later date and yield the same results. In JupyterHub, template notebooks with stubs to connect to DB Repo, TU-RDM, GAMS, and other resources are provided to facilitate this objective. DB Repo, a repository for databases that supports data evolution, citation, and versioning, is being developed by TU [dbrepo](https://www.ifs.tuwien.ac.at/infrastructures/dbrepo). The data of the bibliographic e-lautedb is mapped to a [GAMS](https://gams.uni-graz.at/context:gams) instance provided by ÖNB. There, a triple store enables the use of linked data to explore connections between original sources (stored in IIIF format in the ÖNB and other libraries), MEI files, audios, and TEIs. 
+  
+<img class="left" src="/assets/OeNB_workflow_TU_1.png"/>  
+
+**ÖNB infrastructure:** The trajectory of a source (and its encoding) from its digitisation to its management and final delivery, consisting of the following components: (i) integration of facsimiles via IIIF; (ii) working git repository for all data; (iii) GAMS repository for published data; (iv) transformation to target formats (e.g., HTML, PDF) using XSLT
+
+<img class="left" src="/assets/img/OeNB_Workflow_001.png"/>  

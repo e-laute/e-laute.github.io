@@ -7,7 +7,7 @@ lang: de
 ### Pilot II
 ### Zur Entstehung der deutschen Lautentabulatur
 ___
-![](/assets/img/Craus_Harfe_col_01.png "A-Wn Mus.Hs. 18688, fol. 26r und D-LEm I.191, Fragemnte aus dem Fundamentum, Collage von K. Schöning")
+
 
 Die Studie ist ein vertiefter interdisziplinärer Ansatz zu Aufführungspraxis und Musikwissenschaft. Die "Erfindung" eines Notationssystems für die Laute wirft einige Fragen auf: Ausgehend von den Prinzipien der "Orgeltabulatur" und aufbauend auf einer etwa hundertjährigen Tradition, übernahm die deutsche Lautentabulatur einen Zeichenvorrat, den sie erweiterte. Anhand von überlieferten Tabulaturen aus dem 15. und frühen 16. Jahrhundert wird in dieser Pilotstudie die Entwicklung und der Anpassungsprozess untersucht, der schließlich zu einem Tabulatursystem führte, das allgemein als "Deutsche Lautentabulatur" bezeichnet wird. Wir interessieren uns:  
 i) für die Übernahme von Symbolen und Prinzipien der Orgeltabulatur für die Laute und andere (Streich-)Instrumente;  
