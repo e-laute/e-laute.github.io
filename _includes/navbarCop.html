@@ -1,0 +1,87 @@
+{% assign lang = site.active_lang %}
+<div class="sticky-top navigation">
+
+<nav class="navbar navbar-expand-lg navbar-dark left">
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01"
+            aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse ml-2 navbar-inner" id="navbarColor01">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-link">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+
+                <li class="nav-link dropdown">
+
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        {{site.project[lang]}}
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="/presentation">{{site.presentation[lang]}}</a>
+                        <a class="dropdown-item" href="/team">{{site.team[lang]}}</a>
+                        <a class="dropdown-item" href="/partner">{{site.partner[lang]}}</a>
+                    </div>
+                </li>
+
+                <li class="nav-link">
+                    <a class="nav-link" href="/news">{{site.news[lang]}}</a>
+                </li>
+                
+                <li class="nav-link">
+                    <a class="nav-link" href="/edition">{{site.edition[lang]}}</a>
+                </li>
+                
+
+                <li class="nav-link dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        {{site.research[lang]}}
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="/pilotI">Pilot I</a>
+                        <a class="dropdown-item" href="/pilotII">Pilot II</a>
+                        <a class="dropdown-item" href="/pilotIII">Pilot III</a>
+                        <a class="dropdown-item" href="/pilotIV">Pilot IV</a>
+                        <a class="dropdown-item" href="/pilotV">Pilot V</a>
+                        <a class="dropdown-item" href="/meitei">MEI & TEI</a>
+                        <a class="dropdown-item" href="/aspects">{{site.aspects[lang]}}</a>
+                    </div>
+                </li>
+
+                <li class="nav-link dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton1" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        {{site.activity[lang]}}
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="/workshop">Workshop E-LAUTE 3.7.-4.7. 2023 Wien</a>
+                        <a class="dropdown-item" href="/single-presentation">{{site.single_presentations[lang]}}</a>
+                        <a class="dropdown-item" href="/press">{{site.press[lang]}}</a>
+                    </div>
+                </li>
+                <li class="nav-link">
+                    <a class="nav-link" href="/collaboration">{{site.collab[lang]}}</a>
+                </li>
+                <!--
+                <li class="nav-link">
+                    <a class="nav-link" href="/jobs">{{site.sourcing[lang]}}</a>
+                </li>-->
+                <li class="nav-link">
+                    <a class="nav-link" href="/contact">{{site.contact[lang]}}</a>
+                </li>
+            </ul>
+
+        </div>
+        <div id="lang-select">
+            {% for tongue in site.languages %}
+            <a class="nav-link" {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ tongue }}</a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
+            {% endfor %}
+        </div>
+
+</nav>
+
+</div>

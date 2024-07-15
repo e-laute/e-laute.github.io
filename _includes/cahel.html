@@ -1,0 +1,106 @@
+{% assign lang = site.active_lang %}
+
+<body>
+<div class="container-fluid" id="cah">
+    <div class="row ">
+        <!--1-->
+        <div class="col-4 col-sm-3 col-md-3 col-lg-2">
+            <div class="cahel-item">
+
+                <a href="/news/">
+                    <img  class="img-thumbnail" src="/assets/img/Paul_Jenisch_Kutsche_002.png" alt="..."  >
+                </a>
+                <a href="/news/">{{site.news[lang]}}</a>
+
+            </div>
+
+        </div>
+        <!--2-->
+        <div class=" col-4 col-sm-3 col-md-3 col-lg-2">
+            <div class="cahel-item">
+                <a href="/edition/">
+                <img src="/assets/img/Edition_OeNB_001.png" class="img-thumbnail" alt="..."  >
+                </a>
+                <a href="/edition/" class="card-link">{{site.edition[lang]}}</a>
+            </div>
+        </div>
+        <!--3-->
+        <div class="col-4 col-sm-3 col-md-3 col-lg-2">
+            <div class="cahel-item ">
+                <a href="/meitei/">
+                <img src="/assets/img/MEI_Collage_1.png" class="img-thumbnail" alt="..." >
+                </a>
+                <a href="/meitei/" class="card-link"> {% if page.lang =='en'%} Our MEI & TEI News {%else%} Unsere MEI & TEI News {% endif %}
+                </a>
+
+
+            </div>
+        </div>
+        <!--4-->
+        <div class="col-4 col-sm-3 col-md-3 col-lg-2">
+            <div class="cahel-item">
+                <a href="/aspects/">
+                <img src="/assets/img/Collage_02.png" class="img-thumbnail" alt="..." >
+                </a>
+                <a href="/aspects/" class="card-link">{% if page.lang =='en'%} Editorial Goals & Conventions {%else%} Editionsrichtlinien & -ziele {% endif %} </a>
+            </div>
+        </div>
+        <!--5-->
+        <div class="col-4 col-sm-3 col-md-3 col-lg-2">
+        <div class="cahel-item">
+            <a href="/pilotI/">
+                <img  class="img-thumbnail" src="/assets/img/Hofieren_Dohna.png" alt="..."  >
+            </a>
+            <a href="/pilotI/" class="card-link">{% if page.lang =='en'%} Music & Text {%else%} Musik & Text  {% endif %}</a>
+
+        </div>
+
+    </div>
+        <!--6-->
+
+        <div class="col-4 col-sm-3 col-md-3 col-lg-2">
+            <div class="cahel-item">
+                <a href="/pilotII/">
+                    <img src="/assets/img/Craus_Harfe_col_01.png" class="img-thumbnail" alt="..." >
+                </a>
+
+                 <a href="/pilotII/" class="card-link">{% if page.lang =='en'%} German Lute Tablature. Idiomatic & Origin
+                     {%else%} Deutsche Lautentabulatur. Idiomatik & Ursprung {% endif %}</a>
+            </div>
+        </div>
+        <!--7-->
+        <div class="col-4 col-sm-3 col-md-3 col-lg-2">
+
+            <div class="cahel-item">
+                <a href="/pilotIII/">
+                    <img src="/assets/img/Pilot_III_001.png" class="img-thumbnail" alt="..." >
+                </a>
+
+                <a href="/pilotIII/" class="card-link">{% if page.lang =='en'%}  Research: Tablature Notation & Diagrammatic
+                    {%else%} Tabulaturnotation & Diagrammatik  {% endif %}</a>
+            </div>
+        </div>
+        <!--8-->
+        <div class="col-4 col-sm-3 col-md-3 col-lg-2">
+            <div class="cahel-item">
+                <a href="/pilotIV/">
+                <img src="/assets/img/Handy_coll_02.png" class="img-thumbnail" alt="..." >
+                </a>
+                <a href="/pilotIV/" class="card-link"> {% if page.lang =='en'%} Dialogues about Music - Annotations
+                    {%else%} Dialogen über die Musik - Annotationen {% endif %}</a>
+
+            </div>
+        </div>
+        <!--9-->
+        <div class="col-4 col-sm-3 col-md-3 col-lg-2">
+            <div class="cahel-item">
+                <a href="/pilotV/">
+                    <img src="/assets/img/DTOe_coll_01.png" class="img-thumbnail" alt="..." >
+                </a>
+                <a href="/pilotV/" class="card-link">Hybrid-Edition  </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
