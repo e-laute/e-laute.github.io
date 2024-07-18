@@ -2,15 +2,14 @@ markdown: kramdown
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme 
-title: E-LAUTE
-description: "Electronic Linked Annotated<br>Unified Tablature Edition"
-repository: e-laute-test/e-laute-test.github.io
+title: 23344
+description: 5555
+repository: e-laute/e-laute.github.io
 
 
 languages: ["en", "de"]
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: false
-
 presentation:
   de: Präsentation
   en: Presentation
@@ -40,8 +39,8 @@ aspects:
   en: Single aspects
 
 single_presentations:
-  de: Einzelne Präsentationen
-  en: Single presentations
+  de: Einzelne Präsentationen / Archiv
+  en: Single presentations / Archive
 
 press:
   de: Presse über uns

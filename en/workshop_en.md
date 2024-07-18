@@ -6,6 +6,8 @@ lang: en
 <img class="left" src="/assets/img/1400_frg.png"/>
 
 
+
+
 ### E-LAUTE, Workshop / Kick-off Meeting, Vienna, 3.7.-4.7. 2023
 #### Venues: Institut of Musicology, University of Vienna, lecture hall 1
 

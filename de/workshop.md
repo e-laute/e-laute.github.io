@@ -6,6 +6,8 @@ lang: de
 <img class="left" src="/assets/img/1400_frg.png"/>
 
 
+
+
 ### E-LAUTE, Workshop / Kick-off Meeting, Wien, 3.7.-4.7. 2023
 #### Ort: Institut für Musikwissenschaft, Universität Wien, Hörsaal 1
 ___

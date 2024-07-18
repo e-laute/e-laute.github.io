@@ -1,5 +1,6 @@
 ---
 title: MEI TEI
+title_cah: Our MEI & TEI News
 permalink: /meitei/
 lang: EN
 ---

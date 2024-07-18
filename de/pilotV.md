@@ -8,7 +8,6 @@ lang: de
 ### Hybrid-Edition: Denkmäler der Tonkunst in Österreich (DTÖ)
 ___
 
-![](/assets/img/DTOe_coll_01.png "Collage von K. Schöning"){:width="100%"}
 
 Im Rahmen der Reihe der _Denkmäler der Tonkunst in Österreich (DTÖ)_
 wird eine Hybrid-Edition mehrerer Tabulaturen erscheinen. Der gedruckte Band wird folgende Komponente enthalten:  
