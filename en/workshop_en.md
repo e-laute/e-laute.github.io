@@ -3,6 +3,8 @@ title: Workshop
 permalink: /workshop/
 lang: en
 ---
+<img class="left" src="/assets/img/1400_frg.png"/>
+
 
 
 

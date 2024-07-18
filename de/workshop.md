@@ -3,6 +3,8 @@ title: Workshop 2023
 permalink: /workshop/
 lang: de
 ---
+<img class="left" src="/assets/img/1400_frg.png"/>
+
 
 
 
