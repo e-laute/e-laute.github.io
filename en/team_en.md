@@ -8,7 +8,7 @@ lang: en
 ### Team 
 ___
 #### Austria
-[**Dr. Kateryna Schöning**](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), Head, PI Austria, University of Vienna, Department of Musicology, Musicology    
+[**PD Dr. Kateryna Schöning**](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), Head, PI Austria, University of Vienna, Department of Musicology, Musicology    
 [**Dr. David M. Weigl**](https://iwk.mdw.ac.at/david-weigl), Data Officer, University of Music and Performing Arts Vienna, Web Science and Music Informatics    
 [**Mag. Max Kaiser**](https://www.linkedin.com/in/maxkaiser/), Austrian National Library, host, IT    
 [**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Austrian National Library, host, IT  
