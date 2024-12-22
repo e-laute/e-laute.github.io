@@ -6,7 +6,7 @@ lang: en
 
 ### Contact
 _Austria_  
-[Dr. Kateryna Schöning](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/) kateryna.schoening@univie.ac.at    
+[PD Dr. Kateryna Schöning](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/) kateryna.schoening@univie.ac.at    
 [Dr. David M. Weigl](https://iwk.mdw.ac.at/david-weigl), weigl@mdw.ac.at   
 [Prof. Dr. Andreas Rauber](https://informatics.tuwien.ac.at/people/andreas-rauber), rauber@ifs.tuwien.ac.at      
 [Mag. Max Kaiser](http://www.maxkaiser.at/), max.kaiser@onb.ac.at   
