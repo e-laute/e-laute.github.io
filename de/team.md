@@ -16,6 +16,7 @@ ___
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich, Musikinformatik  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/formations/doctorat/irina-döring), Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft, Laute    
 [**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), ÖNB / Technische Universität Wien, Information-, Softwareentwicklung<br/>
+**Mag. Martina Bürgermeister, MA**, ÖNB, Forschung und Datenservices
 **Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik      
 **Maximilian Höller**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung   
 **Julia Jaklin**, stud. Mitarbeiterin, Technische Universität Wien, Information-, Softwareentwicklung   
