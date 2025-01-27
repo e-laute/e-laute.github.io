@@ -31,7 +31,7 @@ jobs:
           jekyll_cfg: '_config.yml'  # Default is _config.yml
           jekyll_baseurl: ''         # Default is according to _config.yml
           bundler_ver: '2.4.22'         # Specify supported bundler version
-          ruby_ver: '2.6.0'           # Specify supported ruby version
+          ruby_ver: '3.3.0'           # Specify supported ruby version
           cname: 'e-laute.info'                  # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
