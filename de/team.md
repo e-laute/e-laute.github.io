@@ -10,13 +10,12 @@ ___
 #### Österreich
 [**PD Dr. Kateryna Schöning**](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), Leitung, PI Österreich, Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft  
 [**Dr. David M. Weigl**](https://iwk.mdw.ac.at/david-weigl), Data Officer, Universität für Musik und darstellender Kunst Wien, Web Science und Musikinformatik  
-[**Mag. Max Kaiser**](https://www.linkedin.com/in/maxkaiser/), Österreichische Nationalbibliothek, host, IT      
-[**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Österreichische Nationalbibliothek, host, IT  
+[**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Österreichische Nationalbibliothek, Forschungs und Datenservices, host IT  
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Technische Universität Wien, Information-, Softwareentwicklung    
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich, Musikinformatik  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/formations/doctorat/irina-döring), Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft, Laute    
 [**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), ÖNB / Technische Universität Wien, Information-, Softwareentwicklung<br/>
-**Mag. Martina Bürgermeister, MA**, ÖNB, Forschung und Datenservices      
+**Mag. Martina Bürgermeister, MA**, Österreichische Nationalbibliothek, Forschung und Datenservices      
 **Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik      
 **Maximilian Höller**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung   
 **Julia Jaklin**, stud. Mitarbeiterin, Technische Universität Wien, Information-, Softwareentwicklung   

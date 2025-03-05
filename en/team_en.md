@@ -10,13 +10,12 @@ ___
 #### Austria
 [**PD Dr. Kateryna Schöning**](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), Head, PI Austria, University of Vienna, Department of Musicology, Musicology    
 [**Dr. David M. Weigl**](https://iwk.mdw.ac.at/david-weigl), Data Officer, University of Music and Performing Arts Vienna, Web Science and Music Informatics    
-[**Mag. Max Kaiser**](https://www.linkedin.com/in/maxkaiser/), Austrian National Library, host, IT    
-[**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Austrian National Library, host, IT  
+[**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Austrian National Library, Reserarch and Dataservices, host IT  
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology, Information, Software Engineering      
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Copenhagen/Austria, Music Informatics  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/formations/doctorat/irina-döring), University of Vienna, Department of Musicology, Musicology, Lute   
 [**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), Austrian National Library / Vienna University of Technology, Information, Software Engineering<br/>
-**Mag. Martina Bürgermeister, MA**, ÖNB, Forschung und Datenservices      
+**Mag. Martina Bürgermeister, MA**, Austrian National Library, Research and Datenservices      
 **Henning Burghoff**, student assistant, University of Vienna, Department of Musicology, Musicology / Music Informatics           
 **Maximilian Höller**, student assistant, Vienna University of Technology, Information, Software Engineering          
 **Julia Jaklin**, student assistant, Vienna University of Technology, Information, Software Engineering       
