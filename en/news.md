@@ -44,7 +44,7 @@ ___
 
 ___
 #### What are we working on right now:
-- We develop the **editorial platform E-LAUTE** (host Austrian National Library, =ÖNB), which first steps will be published in 2025:
+- We are developing the **editorial platform E-LAUTE** (host Austrian National Library, =ÖNB), which will be published in its initial phase in 2025:
   
  
 <img class="left" src="/assets/img/Ed_platform_001.png"/>  
