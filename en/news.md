@@ -4,7 +4,6 @@ permalink: /news/
 lang: en 
 ---
 ### NEWS
-**We present our work in September 2025**:
 
 -**Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music
 Thu 11 to Sat 13 September 2025**
@@ -16,7 +15,8 @@ As part of the WEAVE research project E-LAUTE and in collaboration with the Scho
   - Current research on tablature and lute music  
 
 
-In addition to the lectures and discussion rounds, there are also plans for short concerts by the SCB facul-ty and students. Proposals for presentations (20 minutes + 10 minutes for discussion) in the three above-mentioned topics should be sent with title and abstract to forschung.scb.hsm@fhnw.ch by 31 May 2025.
+In addition to the lectures and discussion rounds, there are also plans for short concerts by the SCB facul-ty and students.   
+**Proposals for presentations (20 minutes + 10 minutes for discussion) in the three above-mentioned topics should be sent with title and abstract to [forschung.scb.hsm@fhnw.c](url)h by 31 May 2025.**
 
 
 ___
