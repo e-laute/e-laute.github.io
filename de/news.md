@@ -4,9 +4,22 @@ permalink: /news/
 lang: de
 ---
 ### News
+#### We present our work in September 2025:
+
+-**Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music
+Thu 11 to Sat 13 September 2025**
+### BASEL STUDY DAYS ON LUTE AND TABLATURE 
+
+As part of the WEAVE research project E-LAUTE and in collaboration with the Schola Cantorum Basiliensis FHNW and the IMS Study Group Tablature in Western Music, the ‘Basel Study Days on Lute and Tabla-ture’ will take place from 11 to 13 September 2025. The three days will focus on three topics:
+  - Digital editions of lute music
+  - German lute tablature: usage, content, and context
+  - Current research on tablature and lute music  
+
+
+In addition to the lectures and discussion rounds, there are also plans for short concerts by the SCB facul-ty and students. Proposals for presentations (20 minutes + 10 minutes for discussion) in the three above-mentioned topics should be sent with title and abstract to forschung.scb.hsm@fhnw.ch by 31 May 2025.
 
 ___
-#### We present our work in summer 2024:
+#### We presented our work in summer 2024:
 
 - **Stellenbosch, South Africa, 23.6.-28.6.2024**: [The 2024 IAML Congress](http://iaml2024.sun.ac.za/):  
    (David M. Weigl, Olja Januš, Reinier de Valk, Kateryna Schöning): 'Encoding strategies for notations combining text and music'
