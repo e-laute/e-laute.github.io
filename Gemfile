@@ -37,10 +37,3 @@ gem "webrick", "~> 1.7"
 group :jekyll_plugins do
   gem "jekyll-polyglot", "~> 1.5.1"
 end
-
-source 'https://rubygems.org'
-
-gem 'github-pages', '~> 232'
-gem 'jekyll-commonmark-ghpages', '~> 0.5.1'
-gem 'jekyll-commonmark', '~> 1.4.0'
-gem 'commonmarker', '~> 0.23.11'
