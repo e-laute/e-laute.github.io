@@ -17,7 +17,7 @@ As part of the WEAVE research project E-LAUTE and in collaboration with the Scho
 
 
 In addition to the lectures and discussion rounds, there are also plans for short concerts by the SCB faculty and students.   
-**Proposals for presentations (20 minutes + 10 minutes for discussion) in the three above-mentioned topics should be sent with title and abstract to [forschung.scb.hsm@fhnw.ch](url) by 31 May 2025.**
+**Proposals for presentations (20 minutes + 10 minutes for discussion) in the three above-mentioned topics should be sent with title and abstract to [forschung.scb.hsm@fhnw.ch](url) by 30 June 2025.**
 
 ___
 #### We presented our work in summer 2024:
