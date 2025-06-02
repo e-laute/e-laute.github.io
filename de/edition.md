@@ -5,9 +5,7 @@ lang: de
 ---
 ### E-LAUTE Edition
 ___
-_Hier wird der Zugang zu unserer E-LAUTE digitalen Edition vorbereitet_  
-
-- We develop the editorial platform E-LAUTE (host ÖNB), which first steps will be published in 2025:  
+_**Wir führen gerade die letzen Vorbereitungen durch. Der Zugang zum E-LAUTE-ÖNB Plattform wird am 15.Juli 2025 geöffnet**.  
 <img class="left" src="/assets/img/Ed_platform_001.png"/>
 
 
