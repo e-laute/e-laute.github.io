@@ -6,7 +6,7 @@ lang: en
 
 ### E-LAUTE Edition
 ___
-_Access to our digital edition E-LAUTE being prepared here_
-- We are developing the editorial platform E-LAUTE (host ÖNB), which will be published in its initial phase in 2025:  
+_**Access to the E-LAUTE-ÖNB platform will open on 15 July 2025.**_
+  
 <img class="left" src="/assets/img/Ed_platform_001.png"/>
 
