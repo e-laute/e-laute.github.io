@@ -30,13 +30,13 @@ ________________________________________________
 - **2024:** Werner Goebl, **David M Weigl**, 'mei-friend: An Interactive Web-based Editor for Digital Music Encodings', in: _Journal of Open Source Software_ 9/98 (2024)  
 
 *******
-- **2025_MEC_London:** Lewis, D., **Janjuš, O., De Valk, R., Weigl, D. M.,** Crawford, T., Overell, P. and **Schöning K.**: ''Mein vleis und mue': MEI support for lute tablatures', in: _Music Encoding Conference 2025_ Proceedings.
+- **2025_MEC_London:**  Lewis, D., **Janjuš, O., De Valk, R., Weigl, D. M.,** Crawford, T., Overell, P. and **Schöning K.**: ''Mein vleis und mue': MEI support for lute tablatures', in: _Music Encoding Conference 2025_ Proceedings.
 
-- **2025_DHd_Bielefeld:** Christoph Steindl, Kateryna Schöning, 'E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik', _Digital Humanities im deutschsprachigen Raum_ , Universität Bielefeld 5.3.-6.3.2025
+- **2025_DHd_Bielefeld:**  Christoph Steindl, Kateryna Schöning, 'E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik', _Digital Humanities im deutschsprachigen Raum_ , Universität Bielefeld 5.3.-6.3.2025
   
 - **2025_IAML_Salzburg:** Ilias Kyriazis, 'E-LAUTE: incorporating multifaceted music representations and Semantic Web technologies into the Austrian National Library’s digital edition of lute tablatures', IAML, Salzburg, 6.7.-11.7.2025.
 
-- **2025_ROM:** Stefan Rosmer, 'Deustche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ertsen Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien', _Perspektiven der Liedforschung_ DHI, 29.1.-31.1.2025
+- **2025_ROM:**  Stefan Rosmer, 'Deustche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ertsen Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien', _Perspektiven der Liedforschung_ DHI, 29.1.-31.1.2025
   
 - **2024_ECHOS_CESEM_Lisbon:** R. de Valk, 'AbsoLutely Tabulous – A toolbox for computational processing and analysis of music in lute tablature'. _Conference Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges,_ Lisbon, Portugal (2024). Full paper presented at conference.  
 
