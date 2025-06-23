@@ -5,8 +5,8 @@ lang: en
 ---
 ### NEWS
 
--**Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music
-Thu 11 to Sat 13 September 2025**
+**Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music**
+**Thu 11 to Sat 13 September 2025**
 ### BASEL STUDY DAYS ON LUTE AND TABLATURE 
 
 As part of the WEAVE research project E-LAUTE and in collaboration with the Schola Cantorum Basiliensis FHNW and the IMS Study Group Tablature in Western Music, the ‘Basel Study Days on Lute and Tabla-ture’ will take place from 11 to 13 September 2025. The three days will focus on three topics:
@@ -19,43 +19,53 @@ In addition to the lectures and discussion rounds, there are also plans for shor
 **Proposals for presentations (20 minutes + 10 minutes for discussion) in the three above-mentioned topics should be sent with title and abstract to [forschung.scb.hsm@fhnw.ch](url) by 30 June 2025.**
 
 
-___
-___
-#### We presented our work in summer 2024:
+________________________________________________
+### Publications and presentations 2023-2025:
+- **2025:** Kateryna Schöning, Reinier de Valk, David M. Weigl, Ilias Kyriazis, Olja Janjuš, Henning Burghoff und Christoph Steindl, 'A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project', in: _Journal of New Music Research_(01/08/2025), DOI: 10.1080/09298215.2024.2445593
 
-- **Stellenbosch, South Africa, 23.6.-28.6.2024**: [The 2024 IAML Congress](http://iaml2024.sun.ac.za/):  
-   (David M. Weigl, Olja Januš, Reinier de Valk, Kateryna Schöning): 'Encoding strategies for notations combining text and music'
-   
-- **Lissabon, 26.6.-29.6.2024**: [Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/):  
-    (Ilias Kyriazis): 'The E-LAUTE critical edition as open knowledge platform and semantic network';  
-    (Olja Janjuš): 'Computational analysis of German lute tablature: The interplay of data representations and tools';  
-    (Reinier de Valk): 'AbsoLutely Tabulous — A toolbox for computational processing and analysis of music in lute tablature'  
-
- 
-- **Granada, 6.7.-9.7.2024**: [MedRen: Medieval and Renaissance Music Conference](https://www.medren2024.com):  
-    (David Weigl): 'Introduction. Interplay in the Corpora of German Lute Tablature'    
-    (Silas Bischoff): 'German Lute Tablature - Truly a German invention or a souvenir from other music cultures?'  
-    (Olja Janjuš): 'See the bigger picture? - Applying computational approaches to tablature data sets'  
-
-___
-#### Recently published or accepted for publication:  
-- Kateryna Schöning, Reinier de Valk, David M. Weigl, Ilias Kyriazis, Olja Janjuš, Henning Burghoff und Christoph Steindl, 'A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project', in _Journal of New Music Research_ (accepted april 2024)
-
-
-- Werner Goebl, David M Weigl, 'mei-friend: An Interactive Web-based Editor for Digital Music Encodings', in _Journal of Open Source Software_ 9/98 (2024)
-
-
-- Tim Crawford, Reinier de Valk, David Lewis, Marc Lewon, Paul Overell, Kateryna Schöning, David Weigl, '_Ain schone kunstliche underweisung_: Modelling German lute tablature in MEI', 2023/9/12
-
+- **2025:** Rosmer S., Weigl D. M., 'Editing premodern German song texts within a musicological edition platform: challenges and possibilities', in: _Philologia Hispalensis_(2025). Peer-reviewed and accepted 2025-04-03; forthcoming, issue autumn 2025.
   
-- Andrea Puentes-Blanco, Metoda Kokole, Philippe Vendrix, María Gembero-Ustárroz, Rebecca Herissone, Christian Troelsgård, Klemen Grabnar, Birgit Lodes, Kateryna Schöning, Vilena Vrbanić, 'The monumental edition in the digital age: creating a sustainable future', in _Journal of New Music Research_ (accepted feb. 2024)
+- **2024:** Andrea Puentes-Blanco, Metoda Kokole, Philippe Vendrix, María Gembero-Ustárroz, Rebecca Herissone, Christian Troelsgård, Klemen Grabnar, Birgit Lodes, **Kateryna Schöning**, Vilena Vrbanić, 'The monumental edition in the digital age: creating a sustainable future', in: _Journal of New Music Research_(2024), S. 1–13, online: doi.org/10.1080/09298215.2024.2373998
 
-___
+- **2024:** Werner Goebl, **David M Weigl**, 'mei-friend: An Interactive Web-based Editor for Digital Music Encodings', in: _Journal of Open Source Software_ 9/98 (2024)  
+
+*******
+- **2025_MEC_London:** Lewis, D., **Janjuš, O., De Valk, R., Weigl, D. M.,** Crawford, T., Overell, P. and **Schöning K.**: ''Mein vleis und mue': MEI support for lute tablatures', in: _Music Encoding Conference 2025_ Proceedings.
+
+- **2025_DHd_Bielefeld:** Christoph Steindl, Kateryna Schöning, 'E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik', _Digital Humanities im deutschsprachigen Raum_ , Universität Bielefeld 5.3.-6.3.2025
+  
+- **2025_IAML_Salzburg:** Ilias Kyriazis, 'E-LAUTE: incorporating multifaceted music representations and Semantic Web technologies into the Austrian National Library’s digital edition of lute tablatures', IAML, Salzburg, 6.7.-11.7.2025.
+
+- **2025_ROM:** Stefan Rosmer, 'Deustche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ertsen Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien', _Perspektiven der Liedforschung_ DHI, 29.1.-31.1.2025
+  
+- **2024_ECHOS_CESEM_Lisbon:** R. de Valk, 'AbsoLutely Tabulous – A toolbox for computational processing and analysis of music in lute tablature'. _Conference Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges,_ Lisbon, Portugal (2024). Full paper presented at conference.  
+
+- **2024_IAML_Stellenbosch:** David M. Weigl, Olja Januš, Reinier de Valk, Kateryna Schöning, 'Encoding strategies for notations combining text and music',[The 2024 IAML Congress](http://iaml2024.sun.ac.za/),Stellenbosch, South Africa, 23.6.-28.6.2024  
+
+- **2024_ECHOS_CESEM_Lisbon:** Ilias Kyriazis, 'The E-LAUTE critical edition as open knowledge platform and semantic network',[Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/), Lissabon, 26.6.-29.6.2024  
+  
+- **2024_ECHOS_CESEM_Lisbon:** Olja Janjuš, 'Computational analysis of German lute tablature: The interplay of data representations and tools',[Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/), Lissabon, 26.6.-29.6.2024  
+
+- **2024_MedRen_Granada:** David Weigl, 'Introduction. Interplay in the Corpora of German Lute Tablature', [MedRen: Medieval and Renaissance Music Conference](https://www.medren2024.com), Granada, 6.7.-9.7.2024  
+
+- **2024_MedRen_Granada:** Silas Bischoff,'German Lute Tablature - Truly a German invention or a souvenir from other music cultures?', [MedRen: Medieval and Renaissance Music Conference](https://www.medren2024.com), Granada, 6.7.-9.7.2024
+
+- **2024_MedRen_Granada:** Olja Janjuš, 'See the bigger picture? - Applying computational approaches to tablature data sets', [MedRen: Medieval and Renaissance Music Conference](https://www.medren2024.com), Granada, 6.7.-9.7.2024  
+
+- **2023_MEC/TEI:** **De Valk R., Schöning K., Weigl D. M.**, Lewis D., Crawford T., **Lewon M.,** Overell P. ‘Ain schone kunstliche Underweisung’: Modelling German lute tablature in MEI', in: _Encoding Cultures: Joint MEC and TEI Conference 2023_ Abstracts.  
+
+- **2023_MedRen_München:** Kateryna Schöning,'E-LAUTE', München 24.7-29.7 2023  
+  
+- **2023_Newcastel:** Reinier da Valk, 'The Future of Digital Editions of Music Conference', 28.3.-30.3. 2023
+  
+- **2023_IMS/TabGroup_Tours:** Kateryna Schöning, Reinier de Valk, David Weigl, 'Digitally editing German lute tablature for the E-LAUTE project: Workflows and first results.',Tours, 1.11-3.11 2023  
+  
+________________________________________
 #### Our Workshops:
 
-- **Munich, Ludwig-Maximilian-University & Bayerische Staatsbibiliothek,18.9.-20.9.2024**: E-LAUTE Workshop (intern; the agenda will be announced soon) 
+- **Munich, Ludwig-Maximilian-University & Bayerische Staatsbibiliothek,18.9.-20.9.2024**: E-LAUTE Workshop
   
-- Basel, Schola Cantorum Basiliensis / FHNW Basel & Study Group Tablature in Western Music, International Musicology Society (IMS), 10.9.- 13.9.2025: E-LAUTE Workshop & IMS Tablature Group Conferece (public)     
+- **Basel, Schola Cantorum Basiliensis / FHNW Basel & Study Group Tablature in Western Music, International Musicology Society (IMS)**, 10.9.- 13.9.2025: E-LAUTE Workshop & IMS Tablature Group Conferece (public)     
 
 ___
 #### What are we working on right now:
