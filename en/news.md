@@ -36,7 +36,7 @@ ________________________________________________
   
 - **2025_ IAML_Salzburg:** Ilias Kyriazis, 'E-LAUTE: incorporating multifaceted music representations and Semantic Web technologies into the Austrian National Library’s digital edition of lute tablatures', IAML, Salzburg, 6.7.-11.7.2025.
 
-- **2025_ROM:**  Stefan Rosmer, 'Deustche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ertsen Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien', _Perspektiven der Liedforschung_ DHI, 29.1.-31.1.2025
+- **2025_ ROM:**  Stefan Rosmer, 'Deustche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ertsen Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien', _Perspektiven der Liedforschung_ DHI, 29.1.-31.1.2025
   
 - **2024_ ECHOS_ CESEM_Lisbon:** R. de Valk, 'AbsoLutely Tabulous – A toolbox for computational processing and analysis of music in lute tablature'. _Conference Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges,_ Lisbon, Portugal (2024). Full paper presented at conference.  
 
@@ -52,7 +52,7 @@ ________________________________________________
 
 - **2024_ MedRen_Granada:** Olja Janjuš, 'See the bigger picture? - Applying computational approaches to tablature data sets', [MedRen: Medieval and Renaissance Music Conference](https://www.medren2024.com), Granada, 6.7.-9.7.2024  
 
-- **2023_MEC/TEI:** **De Valk R., Schöning K., Weigl D. M.**, Lewis D., Crawford T., **Lewon M.,** Overell P. ‘Ain schone kunstliche Underweisung’: Modelling German lute tablature in MEI', in: _Encoding Cultures: Joint MEC and TEI Conference 2023_ Abstracts.  
+- **2023_ MEC/TEI:** **De Valk R., Schöning K., Weigl D. M.**, Lewis D., Crawford T., **Lewon M.,** Overell P. ‘Ain schone kunstliche Underweisung’: Modelling German lute tablature in MEI', in: _Encoding Cultures: Joint MEC and TEI Conference 2023_ Abstracts.  
 
 - **2023_ MedRen_München:** Kateryna Schöning,'E-LAUTE', München 24.7-29.7 2023  
   
