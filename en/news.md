@@ -38,13 +38,13 @@ ________________________________________________
 
 - **2025_ROM:**  Stefan Rosmer, 'Deustche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ertsen Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien', _Perspektiven der Liedforschung_ DHI, 29.1.-31.1.2025
   
-- **2024_ECHOS_CESEM_Lisbon:** R. de Valk, 'AbsoLutely Tabulous – A toolbox for computational processing and analysis of music in lute tablature'. _Conference Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges,_ Lisbon, Portugal (2024). Full paper presented at conference.  
+- **2024_ ECHOS_ CESEM_Lisbon:** R. de Valk, 'AbsoLutely Tabulous – A toolbox for computational processing and analysis of music in lute tablature'. _Conference Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges,_ Lisbon, Portugal (2024). Full paper presented at conference.  
 
-- **2024_ IAML_Stellenbosch:** David M. Weigl, Olja Januš, Reinier de Valk, Kateryna Schöning, 'Encoding strategies for notations combining text and music',[The 2024 IAML Congress](http://iaml2024.sun.ac.za/),Stellenbosch, South Africa, 23.6.-28.6.2024  
+- **2024_ IAML_ Stellenbosch:** David M. Weigl, Olja Januš, Reinier de Valk, Kateryna Schöning, 'Encoding strategies for notations combining text and music',[The 2024 IAML Congress](http://iaml2024.sun.ac.za/),Stellenbosch, South Africa, 23.6.-28.6.2024  
 
-- **2024_ECHOS_CESEM_Lisbon:** Ilias Kyriazis, 'The E-LAUTE critical edition as open knowledge platform and semantic network',[Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/), Lissabon, 26.6.-29.6.2024  
+- **2024_ ECHOS_ CESEM_Lisbon:** Ilias Kyriazis, 'The E-LAUTE critical edition as open knowledge platform and semantic network',[Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/), Lissabon, 26.6.-29.6.2024  
   
-- **2024_ECHOS_CESEM_Lisbon:** Olja Janjuš, 'Computational analysis of German lute tablature: The interplay of data representations and tools',[Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/), Lissabon, 26.6.-29.6.2024  
+- **2024_ ECHOS_ CESEM_Lisbon:** Olja Janjuš, 'Computational analysis of German lute tablature: The interplay of data representations and tools',[Digital Technologies Applied to Music Research: Methodologies, Projects and Challenges](https://echoes.fcsh.unl.pt/conference-info/), Lissabon, 26.6.-29.6.2024  
 
 - **2024_ MedRen_Granada:** David Weigl, 'Introduction. Interplay in the Corpora of German Lute Tablature', [MedRen: Medieval and Renaissance Music Conference](https://www.medren2024.com), Granada, 6.7.-9.7.2024  
 
@@ -54,11 +54,11 @@ ________________________________________________
 
 - **2023_MEC/TEI:** **De Valk R., Schöning K., Weigl D. M.**, Lewis D., Crawford T., **Lewon M.,** Overell P. ‘Ain schone kunstliche Underweisung’: Modelling German lute tablature in MEI', in: _Encoding Cultures: Joint MEC and TEI Conference 2023_ Abstracts.  
 
-- **2023_MedRen_München:** Kateryna Schöning,'E-LAUTE', München 24.7-29.7 2023  
+- **2023_ MedRen_München:** Kateryna Schöning,'E-LAUTE', München 24.7-29.7 2023  
   
 - **2023_Newcastel:** Reinier da Valk, 'The Future of Digital Editions of Music Conference', 28.3.-30.3. 2023
   
-- **2023_IMS/TabGroup_Tours:** Kateryna Schöning, Reinier de Valk, David Weigl, 'Digitally editing German lute tablature for the E-LAUTE project: Workflows and first results.',Tours, 1.11-3.11 2023  
+- **2023_ IMS/TabGroup_Tours:** Kateryna Schöning, Reinier de Valk, David Weigl, 'Digitally editing German lute tablature for the E-LAUTE project: Workflows and first results.',Tours, 1.11-3.11 2023  
   
 ________________________________________
 #### Our Workshops:
