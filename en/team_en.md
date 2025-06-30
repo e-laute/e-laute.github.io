@@ -1,4 +1,4 @@
-e---
+---
 title: Team
 permalink: /team/
 lang: en
