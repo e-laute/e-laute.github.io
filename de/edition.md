@@ -5,8 +5,8 @@ lang: de
 ---
 ### E-LAUTE Edition
 ___
-**Wir führen gerade die letzen Vorbereitungen durch. Der Zugang zum E-LAUTE-ÖNB Plattform wird am 15.Juli 2025 geöffnet**.  
-<img class="left" src="/assets/img/Ed_platform_001.png"/>
+**[Access to the E-LAUTE-ÖNB platform](https://edition.onb.ac.at/context:elaute)**  
+
 
 
 
