@@ -4,9 +4,36 @@ permalink: /news/
 lang: de
 ---
 ### News
+27.1.2026  
+#### Wir laden Sie herzlich zum Workshop  
+### "MUSIK – TEXT – KODIERUNG – FORSCHUNG: Neue Strategien zur digitalen Erfassung von Musik und Text vor 1600" ein  
+#### Die Veranstaltung findet am 26. Februar 2026 von 9.30 bis 17.00 Uhr im Festsaal der mdw, Seilerstätte 26, 1010 Wien, statt.
 
+Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl New Edition of the Collected Works (New Senfl Edition)** veranstaltet und präsentiert Ergebnisse der ersten Projektphase zur digitalen Edition der Lautenmusik.  
 
--**Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music
+**Zentrale Themen sind:**
+- E-LAUTE in der Infrastruktur der Österreichischen Nationalbibliothek: Materialbestand und Nutzung  
+- MEI- und TEI-Kodierung im Dialog mit performativer, musikwissenschaftlicher und textbezogener editorischer Praxis  
+- Historische Recherchen im Wandel – Synergien der digitalen Materialerfassung  
+- Neue digitale Tools und Implementierungen – Automatisierung der Workflows  
+- Ökosystem und Nachhaltigkeit der E-LAUTE-Edition  
+- Musik- und Textedition im Zusammenspiel analoger und digitaler Editionen
+  
+**Auf dem Programm steht außerdem eine Präsentation von Live-Musik aus deutschen Lautenquellen des 15. und 16. Jahrhunderts
+(Marc Lewon & Silas Bischoff – Renaissancelauten).**
+
+👉 Das vollständige Workshop-Programm ist ab dem **5. Februar** hier abrufbar.
+Alle Interessierten sind herzlich eingeladen!
+________________________________________________________________________________________  
+### News/Edition E-LAUTE-ÖNB-Plattform
+- Januar 2026: release von [Audioaufnahmen](https://edition.onb.ac.at/fedora/objects/o:lau.audio/methods/sdef:TEI/get) aus verschiedenen Quellen (beta version)
+- Januar 2026: release von [einem Teil der Datenbanksuche](https://edition.onb.ac.at/fedora/objects/o:lau.db-search/methods/sdef:TEI/get) (beta version)
+- Dezember 2025: release von [Hans Judenkünig, _Ain schone kunstliche underweisung_, Wien 1523](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
+- Dezember 2025: release von [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
+  
+________________________________________________________________________________________  
+12.6.2025 
+**Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music
 Thu 11 to Sat 13 September 2025**
 ### BASEL STUDY DAYS ON LUTE AND TABLATURE 
 
