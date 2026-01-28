@@ -4,8 +4,10 @@ permalink: /news/
 lang: en 
 ---
 ### NEWS
+27.1.2026  
 #### We warmly invite you to the workshop  
-## MUSIC – TEXT – ENCODING – RESEARCH: New Strategies for the Digital Representation of Music and Text before 1600”, taking place on 26 February 2026, 9:30 am–5:00 pm, in the Grand Hall (Festsaal) of the mdw, Seilerstätte 26, 1010 Vienna.
+### MUSIC – TEXT – ENCODING – RESEARCH: New Strategies for the Digital Representation of Music and Text before 1600  
+#### taking place on 26 February 2026, 9:30 am–5:00 pm, in the Grand Hall (Festsaal) of the mdw, Seilerstätte 26, 1010 Vienna.
 
 Organised by the **E-LAUTE** project in collaboration with the **Ludwig Senfl New Edition of the Collected Works (New Senfl Edition)**, the workshop presents the results of the first project phase of E-LAUTE and explores innovative approaches to the digital representation, encoding and scholarly editing of music and text before 1600.  
 
@@ -27,6 +29,7 @@ Participation is free, and all interested colleagues are warmly invited to atten
 
 ________________________________________________________________________________________
 
+12.6.2025  
 **Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music**
 **Thu 11 to Sat 13 September 2025**
 ### BASEL STUDY DAYS ON LUTE AND TABLATURE 
