@@ -24,11 +24,13 @@ Organised by the **E-LAUTE** project in collaboration with the **Ludwig Senfl Ne
 👉 The full workshop programme will be available here from **5 February**.
 Participation is free, and all interested colleagues are warmly invited to attend and join the discussion.
 
-
-
-
+________________________________________________________________________________________  
+### News/Edition E-LAUTE-ÖNB-Platform
+#### - January 2026: release of audio recordings from various sources (beta version)
+#### - January 2026: release of part of the database search (beta version)
+#### - December 2025: release of Hans Judenkünig, _Ain schone kunstliche underweisung_, Wien 1523
+#### - December 2025: release of Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]
 ________________________________________________________________________________________
-
 12.6.2025  
 **Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music**
 **Thu 11 to Sat 13 September 2025**
