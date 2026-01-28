@@ -33,9 +33,9 @@ ________________________________________________________________________________
   
 ________________________________________________________________________________________  
 12.6.2025 
-### BASEL STUDY DAYS ON LUTE AND TABLATURE
 **Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music**
 **Thu 11 to Sat 13 September 2025** 
+### BASEL STUDY DAYS ON LUTE AND TABLATURE
 
 As part of the WEAVE research project E-LAUTE and in collaboration with the Schola Cantorum Basiliensis FHNW and the IMS Study Group Tablature in Western Music, the ‘Basel Study Days on Lute and Tabla-ture’ will take place from 11 to 13 September 2025. The three days will focus on three topics:
   - Digital editions of lute music
