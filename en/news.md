@@ -32,7 +32,8 @@ ________________________________________________________________________________
 - December 2025: release of [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
   
 ________________________________________________________________________________________  
-12.6.2025 
+12.6.2025  
+
 **Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music**
 **Thu 11 to Sat 13 September 2025** 
 ### BASEL STUDY DAYS ON LUTE AND TABLATURE
