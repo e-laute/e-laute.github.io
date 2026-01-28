@@ -23,8 +23,9 @@ Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl 
 (Marc Lewon & Silas Bischoff – Renaissancelauten).**
 
 👉 Das vollständige Workshop-Programm ist ab dem **5. Februar** hier abrufbar.
-Alle Interessierten sind herzlich eingeladen!
-________________________________________________________________________________________  
+Alle Interessierten sind herzlich eingeladen!  
+________________________________________________________________________________________    
+
 ### News/Edition E-LAUTE-ÖNB-Plattform
 - Januar 2026: release von [Audioaufnahmen](https://edition.onb.ac.at/fedora/objects/o:lau.audio/methods/sdef:TEI/get) aus verschiedenen Quellen (beta version)
 - Januar 2026: release von [einem Teil der Datenbanksuche](https://edition.onb.ac.at/fedora/objects/o:lau.db-search/methods/sdef:TEI/get) (beta version)
