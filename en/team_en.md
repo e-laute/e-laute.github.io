@@ -25,21 +25,23 @@ ___
 ---
 #### Germany
 [**Prof. Dr. Irene Holzer**](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Germany, Ludwig-Maximilian-University Munich, Musicology    
- [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Germany, University of Bayreuth, German Medieval Studies    
-[**Dr. Stefan Rosmer**](https://germanistik.philhist.unibas.ch/de/personen/stefan-rosmer/), University of Bayreuth, German Medieval Studies & University of Basel, German Linguistics and Literature     
- [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-University Munich, Musicology    
-**Francisca Gruber**, student assistant, University of Bayreuth, German Medieval Studies    
- **Elias Schedler**, student assistant, Ludwig-Maximilian-University Munich, Musicology  
- **Andrea Bauer**, student assistant, Ludwig-Maximilian-University Munich, Musicology
+ [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Germany, University of Bayreuth, German Medieval Studies       
+ [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-University Munich, Musicology  
+ [**MA Viktoria Spadinger**](https://www.mediaevistik.uni-bayreuth.de/de/team/Viktoria-Spadinger/index.php), University of Bayreuth, German Medieval Studies  
+ **Selma Göldner**, University of Bayreuth, German Medieval Studies, student assistant 
 
 ---
 #### Switzerland
  [**Prof. Dr. Martin Kirnbauer**](https://www.fhnw.ch/de/personen/martin-kirnbauer), PI Switzerland, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice     
  [**Prof. Dr. Marc Lewon**](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)  
- **PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)  
+ **PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)   
+ **Andrea Bauer**, student assistant, Musicology  
 
 ---
 ##### Former team members:
+**Elias Schedler**, student assistant, Ludwig-Maximilian-University Munich, Musicology   
+**Francisca Gruber**, student assistant, University of Bayreuth, German Medieval Studies  
+[**Dr. Stefan Rosmer**](https://germanistik.philhist.unibas.ch/de/personen/stefan-rosmer/), University of Bayreuth, German Medieval Studies & University of Basel, German Linguistics and Literature, (until 30.9.2025)  
 **PhD Paul Kieffer**, University of Vienna, Department of Musicology, Lute / Musicology, (until 31 May 2024)  
 **BA Barbara Recheis**, student assistant, University of Vienna, Department of Musicology, Musicology (until 31 May 2024)  
 **Eva Schöfer**, student assistant, University of Vienna, Department of Musicology, Musicology (until 31 May 2023)   
