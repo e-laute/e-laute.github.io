@@ -25,21 +25,23 @@ ___
 ___
 #### Deutschland
 [**Prof. Dr. Irene Holzer**](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Deutschland, Ludwig-Maximilian-Universität München, Musikwissenschaft  
-[**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Deutschland, Universität Bayreuth, Germanistische Mediävistik  
-[**Dr. Stefan Rosmer**](https://www.mediaevistik.uni-bayreuth.de/de/team/Rosmer/index.php), Universität Bayreuth, Germanistische Mediävistik & Universität Basel, Sprach- und Literaturwissenschaft   
+[**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Deutschland, Universität Bayreuth, Germanistische Mediävistik     
 [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-Universität München, Musikwissenschaft     
-**Francisca Gruber**, stud. Mitarbeiterin,  Universität Bayreuth, Germanistische Mediävistik    
-**Elias Schedler**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft    
-**Andrea Bauer**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft
+[**MA Viktoria Spadinger**](https://www.mediaevistik.uni-bayreuth.de/de/team/Viktoria-Spadinger/index.php), Universität Bayreuth, Germanistische Mediävistik    
+ **Selma Göldner**, Universität Bayreuth, Germanistische Mediävistik, stud. Mitarbeiter  
 
 ___
 #### Schweiz
 [**Prof. Dr. Martin Kirnbauer**](https://www.fhnw.ch/de/personen/martin-kirnbauer), PI Schweiz, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis   
 [**Prof. Dr. Marc Lewon**](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)  
-**PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)
+**PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)  
+**Andrea Bauer**, stud. Mitarbeiter, Musikwissenschaft
 
 ___
-##### Former team members:
+##### Former team members:  
+**Francisca Gruber**, stud. Mitarbeiterin,  Universität Bayreuth, Germanistische Mediävistik    
+**Elias Schedler**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft  
+[**Dr. Stefan Rosmer**](https://www.mediaevistik.uni-bayreuth.de/de/team/Rosmer/index.php), Universität Bayreuth, Germanistische Mediävistik & Universität Basel, Sprach- und Literaturwissenschaft  
 **PhD Paul Kieffer**, Universität Wien, Institut für Musikwissenschaft, Laute (bis zum 31.5.2024)  
 **Mag. Martin Krickl**, Österreichische Nationalbibliothek, host, IT (bis zum 15. 6. 2023)  
 **BA Barbara Recheis**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft (bis zum 31. 5. 2024)  
