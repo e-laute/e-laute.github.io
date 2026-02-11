@@ -23,8 +23,7 @@ Organised by the **E-LAUTE** project in collaboration with the **Ludwig Senfl Ne
 Participation is free, and all interested colleagues are warmly invited to attend and join the discussion.
 
 👉 The full workshop programme:
-<img class="left" src="/assets/img/Program_EN_Workshop_Wien26_Seite_1.png"/>
-<img class="left" src="/assets/img/Program_EN_Workshop_Wien26_Seite_2.png"/>
+
 
 ________________________________________________________________________________________  
 ### News/Edition E-LAUTE-ÖNB-Platform
