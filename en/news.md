@@ -20,9 +20,11 @@ Organised by the **E-LAUTE** project in collaboration with the **Ludwig Senfl Ne
 - Music and text editing in the interplay between analogue and digital editions
   
 **The programme includes a presentation of live music from German lute sources of the fifteenth and sixteenth centuries (Marc Lewon & Silas Bischoff – Renaissance lutes).**
-
-👉 The full workshop programme will be available here from **5 February**.
 Participation is free, and all interested colleagues are warmly invited to attend and join the discussion.
+
+👉 The full workshop programme:
+
+<img class="left" src="/assets/img/Program_EN_Workshop_Wien26_Seite_2.png"/>
 
 ________________________________________________________________________________________  
 ### News/Edition E-LAUTE-ÖNB-Platform
