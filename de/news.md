@@ -22,8 +22,15 @@ Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl 
 **Auf dem Programm steht außerdem eine Präsentation von Live-Musik aus deutschen Lautenquellen des 15. und 16. Jahrhunderts
 (Marc Lewon & Silas Bischoff – Renaissancelauten).**
 
-👉 Das vollständige Workshop-Programm ist ab dem **5. Februar** hier abrufbar.
+👉 Das vollständige Workshop-Programm finden Sie hier.
 Alle Interessierten sind herzlich eingeladen!  
+<a href="https://e-laute.info/assets/img/de-workshop-Feb26-1.png" target="_blank">
+<img src="https://e-laute.info/assets/img/de-workshop-Feb26-1.png" style="width:80%"/>
+</a>
+<a href="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" target="_blank">
+<img src="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" style="width:80%"/>
+</a>
+
 ________________________________________________________________________________________    
 
 ### News/Edition E-LAUTE-ÖNB-Plattform
