@@ -23,8 +23,12 @@ Organised by the **E-LAUTE** project in collaboration with the **Ludwig Senfl Ne
 Participation is free, and all interested colleagues are warmly invited to attend and join the discussion.
 
 👉 The full workshop programme:
-
-
+<a href="https://e-laute.info/assets/img/en-workshop-Feb26-1.png" target="_blank">
+<img src="https://e-laute.info/assets/img/en-workshop-Feb26-1.png" style="width:80%"/>
+</a>
+<a href="https://e-laute.info/assets/img/en-workshop-Feb26-2.png" target="_blank">
+<img src="https://e-laute.info/assets/img/en-workshop-Feb26-2.png" style="width:80%"/>
+</a>
 ________________________________________________________________________________________  
 ### News/Edition E-LAUTE-ÖNB-Platform
 - January 2026: release of [audio recordings](https://edition.onb.ac.at/fedora/objects/o:lau.audio/methods/sdef:TEI/get) from various sources (beta version)
