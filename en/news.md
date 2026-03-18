@@ -4,6 +4,17 @@ permalink: /news/
 lang: en 
 ---
 ### NEWS
+________________________________________________________________________________________  
+### News/Edition E-LAUTE-ÖNB-Platform
+- February 2026: release of Jacob Turner, _Lautenbüchlein des Jakob Thurner_, A-Wn Cod. 9704    
+- January 2026: release of [118 audio recordings](https://edition.onb.ac.at/fedora/objects/o:lau.audio/methods/sdef:TEI/get) from various sources (beta version)
+- January 2026: release of [part of the database search](https://edition.onb.ac.at/fedora/objects/o:lau.db-search/methods/sdef:TEI/get) (beta version)
+- December 2025: release of [Hans Judenkünig, _Ain schone kunstliche underweisung_, Wien 1523](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
+- December 2025: release of [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
+  
+________________________________________________________________________________________  
+
+
 27.1.2026  
 #### We warmly invite you to the workshop  
 ### MUSIC – TEXT – ENCODING – RESEARCH: New Strategies for the Digital Representation of Music and Text before 1600  
@@ -28,14 +39,9 @@ Organised by the **E-LAUTE** project in collaboration with the **Ludwig Senfl Ne
 <a href="https://e-laute.info/assets/img/en-workshop-Feb26-2.png" target="_blank">
 <img src="https://e-laute.info/assets/img/en-workshop-Feb26-2.png" style="width:80%"/>
 </a></div>
-________________________________________________________________________________________  
-### News/Edition E-LAUTE-ÖNB-Platform
-- January 2026: release of [audio recordings](https://edition.onb.ac.at/fedora/objects/o:lau.audio/methods/sdef:TEI/get) from various sources (beta version)
-- January 2026: release of [part of the database search](https://edition.onb.ac.at/fedora/objects/o:lau.db-search/methods/sdef:TEI/get) (beta version)
-- December 2025: release of [Hans Judenkünig, _Ain schone kunstliche underweisung_, Wien 1523](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
-- December 2025: release of [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
-  
-________________________________________________________________________________________  
+________________________________________________________________________________________      
+
+
 12.6.2025  
 
 **Schola Cantorum Basiliensis FHNW / E-LAUTE / IMS Study Group Tablature in Western Music**
