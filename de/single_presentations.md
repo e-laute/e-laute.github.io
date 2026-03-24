@@ -15,7 +15,7 @@ ___
 
 * Paderborn, "Encoding Cultures". Joint MEC and TEI Conference: (Reinier de Valk) _“Ain schone kunstliche underweisung”: Modelling German lute tablature in MEI"_, (4.-8.9.2023).
 
-* München, "MedRen": (Reinier de Falk, Henning Burghoff, Kateryna Schöning) _"The edition-project “E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition –  The lute in the German-Speaking Area 1450–1550”_ (Poster), (24.-28.7.2023), <https://medren2023.com>.
+* München, "MedRen": (Reinier de Falk, Henning Burghoff, Kateryna Schöning) _"The edition-project “E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition –  The lute in the German-Speaking Area 1450–1550”_ (Poster), (24.-28.7.2023).
 
 * Newcastle upon Tyne (UK), Conference "The Future of Digital Editions": (Reinier de Valk) _"The E-LAUTE project 'The lute in the German-Speaking Area 1450-1550'"_, (28.-30.3.2023).
 
