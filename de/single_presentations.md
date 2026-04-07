@@ -4,7 +4,7 @@ permalink: /single-presentation/
 lang: de
 ---
 
-### Einzelne Präsentationen & Konferenzen
+### Präsentationen
 ___
 
 ###### Archiv
