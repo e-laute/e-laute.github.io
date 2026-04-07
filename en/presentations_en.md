@@ -1,6 +1,6 @@
 ---
 title: Presentation
-permalink: /single-presentation/
+permalink: /presentations/
 lang: en
 ---
 
