@@ -71,6 +71,9 @@ Das vollstödnige Programm:
 <div><a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png">
 <img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png"/>
 </a>
-<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_en_2.png">
-<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_en_2.png"/>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png"/>
+</a>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png"/>
 </a></div>
