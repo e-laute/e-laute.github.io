@@ -76,4 +76,7 @@ Das vollständige Programm:
 </a>
 <a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png">
 <img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png"/>
+</a>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png"/>
 </a></div>
