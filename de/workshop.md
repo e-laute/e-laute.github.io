@@ -67,13 +67,13 @@ Unsere Gäste und Respondenten:
 **Prof. Frauke Jürgensen**, mdw Wien    
 
 
-Das vollstödnige Programm:
+Das vollständige Programm:
 <div><a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png">
 <img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png"/>
 </a>
 <a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png">
 <img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png"/>
 </a>
-<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png">
-<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png"/>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png"/>
 </a></div>
