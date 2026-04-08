@@ -5,10 +5,9 @@ lang: en
 ---
 <img class="left" src="/assets/img/1400_frg.png"/>
 
-27.1.2026  
-#### We warmly invite you to the workshop  
+
 ### MUSIC – TEXT – ENCODING – RESEARCH: New Strategies for the Digital Representation of Music and Text before 1600  
-#### taking place on 26 February 2026, 9:30 am–5:00 pm, in the Grand Hall (Festsaal) of the mdw, Seilerstätte 26, 1010 Vienna.
+#### 26 February 2026, 9:30 am–5:00 pm, Grand Hall (Festsaal) of the mdw, Seilerstätte 26, 1010 Vienna.
 
 Organised by the **E-LAUTE** project in collaboration with the **Ludwig Senfl New Edition of the Collected Works (New Senfl Edition)**, the workshop presents the results of the first project phase of E-LAUTE and explores innovative approaches to the digital representation, encoding and scholarly editing of music and text before 1600.  
 
@@ -22,7 +21,7 @@ Organised by the **E-LAUTE** project in collaboration with the **Ludwig Senfl Ne
   
 **The programme includes a presentation of live music from German lute sources of the fifteenth and sixteenth centuries (Marc Lewon & Silas Bischoff – Renaissance lutes).**
 
-👉 Participation is free, and all interested colleagues are warmly invited to attend and join the discussion. The full workshop programme:
+The full workshop programme:
 <div><a href="https://e-laute.info/assets/img/en-workshop-Feb26-1.png" target="_blank">
 <img src="https://e-laute.info/assets/img/en-workshop-Feb26-1.png" style="width:80%"/>
 </a>
