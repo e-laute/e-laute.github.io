@@ -5,7 +5,30 @@ lang: de
 ---
 <img class="left" src="/assets/img/1400_frg.png"/>
 
+### "MUSIK – TEXT – KODIERUNG – FORSCHUNG: Neue Strategien zur digitalen Erfassung von Musik und Text vor 1600" ein  
+#### 26. Februar 2026 von 9.30 bis 17.00 Uhr, Festsaal der mdw, Seilerstätte 26, 1010 Wien, statt.
 
+Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl New Edition of the Collected Works (New Senfl Edition)** veranstaltet und präsentiert Ergebnisse der ersten Projektphase zur digitalen Edition der Lautenmusik.  
+
+**Zentrale Themen sind:**
+- E-LAUTE in der Infrastruktur der Österreichischen Nationalbibliothek: Materialbestand und Nutzung  
+- MEI- und TEI-Kodierung im Dialog mit performativer, musikwissenschaftlicher und textbezogener editorischer Praxis  
+- Historische Recherchen im Wandel – Synergien der digitalen Materialerfassung  
+- Neue digitale Tools und Implementierungen – Automatisierung der Workflows  
+- Ökosystem und Nachhaltigkeit der E-LAUTE-Edition  
+- Musik- und Textedition im Zusammenspiel analoger und digitaler Editionen
+  
+**Auf dem Programm steht außerdem eine Präsentation von Live-Musik aus deutschen Lautenquellen des 15. und 16. Jahrhunderts
+(Marc Lewon & Silas Bischoff – Renaissancelauten).**
+
+<div> 
+<a href="https://e-laute.info/assets/img/de-workshop-Feb26-1.png" target="_blank">
+<img src="https://e-laute.info/assets/img/de-workshop-Feb26-1.png" style="width:80%"/>
+</a>
+<a href="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" target="_blank">
+<img src="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" style="width:80%"/>
+</a>
+</div>
 
 
 ### E-LAUTE, Workshop / Kick-off Meeting, Wien, 3.7.-4.7. 2023
