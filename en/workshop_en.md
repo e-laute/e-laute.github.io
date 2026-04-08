@@ -63,7 +63,7 @@ Our guests and responders:
 **Dr. Stefan Gasch**, University of Music and Performing Arts Vienna, musicology  
 **Prof. Dr. Birgit Lodes**, Department of Musicology, University of Vienna,musicology   
 **Prof. Frauke Jürgensen**, University of Music and Performing Arts Vienna, musicology   
----
+
 The full workshop programme:
 <div><a href="">
 <img src=""/>
