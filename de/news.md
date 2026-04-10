@@ -55,3 +55,8 @@ Am Campus der mdw erwartet Sie ein interaktiver Workshop rund um die digitale Ed
 
 📧 **Anmeldung erforderlich bis 19. April 2026:** stojak@mdw.ac.at  
 *(Bitte Name und gewünschte Beginnzeit angeben)*
+
+
+Mehr Information:  
+[Station and der Universität Wien](https://langenachtderforschung.at/station/5643)  
+[mdw-Workshop] (https://langenachtderforschung.at/station/6485)
