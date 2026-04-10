@@ -37,7 +37,7 @@ At our hands-on station in the main building of the University of Vienna, you ca
 
 Experience how music was recorded centuries ago – interactive and hands-on!
 
-----
+___
 
 ### 🟥 mdw – Workshop
 
