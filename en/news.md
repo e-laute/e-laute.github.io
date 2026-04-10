@@ -55,7 +55,7 @@ At the mdw campus, an interactive workshop awaits you, centered on the E-LAUTE d
 **Where?:** mdw – University of Music and Performing Arts Vienna, Anton-von-Webern-Platz 1, 1030 Vienna  
 
 **Registration required by April 19, 2026:** stojak@mdw.ac.at  
-*(Please include your name and preferred start time)*
+*(Please include your name and preferred starting time)*
 
 
 More information:  
