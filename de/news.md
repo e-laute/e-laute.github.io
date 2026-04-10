@@ -31,8 +31,8 @@ An unserer Mitmachstation im Hauptgebäude der Universität Wien können Sie sel
 - Eigene Lautentabulaturen mit kreativen Symbolen gestalten  
 - Faksimiles wertvoller Handschriften und Drucke aus der Österreichischen Nationalbibliothek in die Hand nehmen  
 
-🕔 **Zeit:** 17:00–22:45  
-📍 **Ort:** Hauptgebäude der Universität Wien, Universitätsring 1, 1010 Wien  
+**Wann?:** 23.04.2026, 17:00–22:45  
+📍 **Wo?:** Hauptgebäude der Universität Wien, Universitätsring 1, 1010 Wien  
 
 Erleben Sie, wie Musik vor Jahrhunderten festgehalten wurde – zum Anfassen und Mitmachen!
 
@@ -48,10 +48,11 @@ Am Campus der mdw erwartet Sie ein interaktiver Workshop rund um die digitale Ed
 - Hören Sie diese Werke auf historischen Instrumenten  
 - Entdecken Sie, wie digitale Forschung musikalisches Kulturerbe neu erschließt  
 
-🕡 **Beginnzeiten:** 18:30, 19:30, 20:30, 21:30  
-👥 **Teilnehmerzahl:** jeweils max. 10 Personen  
+**Wann?:** 23.04.2026,
+**Beginnzeiten:** 18:30, 19:30, 20:30, 21:30  
+**Teilnehmerzahl:** jeweils max. 10 Personen  
 
-📍 **Ort:** mdw – Universität für Musik und darstellende Kunst Wien, Anton-von-Webern-Platz 1, 1030 Wien  
+📍 **Wo?:** mdw – Universität für Musik und darstellende Kunst Wien, Anton-von-Webern-Platz 1, 1030 Wien  
 
 📧 **Anmeldung erforderlich bis 19. April 2026:** stojak@mdw.ac.at  
 *(Bitte Name und gewünschte Beginnzeit angeben)*
