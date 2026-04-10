@@ -56,3 +56,8 @@ At the mdw campus, an interactive workshop awaits you, centered on the E-LAUTE d
 
 📧 **Registration required by April 19, 2026:** stojak@mdw.ac.at  
 *(Please include your name and preferred start time)*
+
+
+More information:  
+[University of Vienna station](https://langenachtderforschung.at/station/5643)  
+[mdw workshop](https://langenachtderforschung.at/station/6485)
