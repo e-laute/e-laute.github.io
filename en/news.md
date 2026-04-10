@@ -15,3 +15,8 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________      
 
+## E-LAUTE at the Long Night of Research 2026
+
+Experience music history up close! The E-LAUTE research project invites you to the Long Night of Research 2026 – featuring interactive stations, fascinating insights into historical notation, and unique sonic experiences.
+
+📍 Two locations in Vienna – twice the opportunity to explore, experiment, and be amazed!
