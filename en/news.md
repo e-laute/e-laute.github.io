@@ -32,8 +32,8 @@ At our hands-on station in the main building of the University of Vienna, you ca
 - Create your own lute tablatures using creative symbols  
 - Handle facsimiles of valuable manuscripts and prints from the Austrian National Library  
 
-🕔 **Time:** 17:00–22:45  
-📍 **Location:** Main Building, University of Vienna, Universitätsring 1, 1010 Vienna  
+**When?:** 23.04.2026, 17:00–22:45  
+**Where?:** Main Building, University of Vienna, Universitätsring 1, 1010 Vienna  
 
 Experience how music was recorded centuries ago – interactive and hands-on!
 
@@ -47,12 +47,13 @@ At the mdw campus, an interactive workshop awaits you, centered on the E-LAUTE d
 
 - Learn to read previously hard-to-access music in German lute tablature  
 - Listen to these works performed on historical instruments  
-- Discover how digital research opens up musical cultural heritage  
+- Discover how digital research opens up musical cultural heritage
 
-🕡 **Start times:** 18:30, 19:30, 20:30, 21:30  
-👥 **Participants:** max. 10 per session  
+**When?:** 23.04.2026,
+**Starting times:** 18:30, 19:30, 20:30, 21:30  
+**Participants:** max. 10 per session  
 
-📍 **Location:** mdw – University of Music and Performing Arts Vienna, Anton-von-Webern-Platz 1, 1030 Vienna  
+📍 **Where?:** mdw – University of Music and Performing Arts Vienna, Anton-von-Webern-Platz 1, 1030 Vienna  
 
 📧 **Registration required by April 19, 2026:** stojak@mdw.ac.at  
 *(Please include your name and preferred start time)*
