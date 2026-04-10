@@ -21,7 +21,7 @@ Experience music history up close! The E-LAUTE research project invites you to t
 
 📍 Two locations in Vienna – twice the opportunity to explore, experiment, and be amazed!
 
-## 🟥 University of Vienna – Hands-on Station
+#### 🟥 University of Vienna – Hands-on Station
 
 **Try it yourself: Discover lute tablature**
 
@@ -39,7 +39,7 @@ Experience how music was recorded centuries ago – interactive and hands-on!
 
 ---
 
-## 🟥 mdw – Workshop
+#### 🟥 mdw – Workshop
 
 **Listen, Read, Understand: Rediscover Music**
 
