@@ -15,13 +15,13 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________      
 
-## E-LAUTE at the Long Night of Research 2026
+### E-LAUTE at the Long Night of Research 2026
 
 Experience music history up close! The E-LAUTE research project invites you to the Long Night of Research 2026 – featuring interactive stations, fascinating insights into historical notation, and unique sonic experiences.
 
 📍 Two locations in Vienna – twice the opportunity to explore, experiment, and be amazed!
 
-### 🟥 University of Vienna – Hands-on Station
+## 🟥 University of Vienna – Hands-on Station
 
 **Try it yourself: Discover lute tablature**
 
@@ -39,7 +39,7 @@ Experience how music was recorded centuries ago – interactive and hands-on!
 
 ---
 
-### 🟥 mdw – Workshop
+## 🟥 mdw – Workshop
 
 **Listen, Read, Understand: Rediscover Music**
 
