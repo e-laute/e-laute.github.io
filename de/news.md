@@ -15,3 +15,6 @@ ________________________________________________________________________________
 ________________________________________________________________________________________  
 
 
+E-LAUTE bei der Langen Nacht der Forschung 2026
+Erleben Sie Musikgeschichte hautnah! Das Forschungsprojekt E-LAUTE lädt Sie zur Langen Nacht der Forschung 2026 ein – mit interaktiven Stationen, spannenden Einblicken in historische Notationen und einzigartigen Klangerlebnissen.
+📍 Zwei Standorte in Wien – doppelte Gelegenheit zum Entdecken, Ausprobieren und Staunen!
