@@ -59,4 +59,4 @@ Am Campus der mdw erwartet Sie ein interaktiver Workshop rund um die digitale Ed
 
 Mehr Information:  
 [Station and der Universität Wien](https://langenachtderforschung.at/station/5643)  
-[mdw-Workshop] (https://langenachtderforschung.at/station/6485)
+[mdw-Workshop](https://langenachtderforschung.at/station/6485)
