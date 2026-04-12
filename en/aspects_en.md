@@ -4,8 +4,6 @@ permalink: /aspects/
 lang: en
 ---
 
-### Publications 
-
 ## Publications
 
 ### 2025
