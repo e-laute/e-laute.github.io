@@ -4,9 +4,9 @@ permalink: /aspects/
 lang: en
 ---
 
-## Publications
+### Publications
 
-### 2025
+#### 2025
 
 - Kateryna Schöning, Reinier de Valk, David M. Weigl, Ilias Kyriazis, Olja Janjuš, Henning Burghoff and Christoph Steindl, ‘A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project’, in: *Journal of New Music Research* (01/08/2025), DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593)
 
