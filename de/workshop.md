@@ -71,8 +71,15 @@ Unsere Gäste und Respondenten:
 <a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png" target="_blank">
 <img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png" style="width:80%"/>
 </a>
-<a href="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" target="_blank">
-<img src="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" style="width:80%"/>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png" target="_blank">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png" style="width:80%"/>
 </a>
 </div>
-
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png" target="_blank">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png" style="width:80%"/>
+</a>
+</div>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png" target="_blank">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png" style="width:80%"/>
+</a>
+</div>
