@@ -67,4 +67,12 @@ Unsere Gäste und Respondenten:
 **Prof. Frauke Jürgensen**, mdw Wien    
 
 
+<div> 
+<a href="https://e-laute.info/assets/img/de-workshop-Feb26-1.png" target="_blank">
+<img src="" style="width:80%"/>
+</a>
+<a href="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" target="_blank">
+<img src="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" style="width:80%"/>
+</a>
+</div>
 
