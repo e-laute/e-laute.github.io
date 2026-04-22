@@ -64,3 +64,12 @@ Our guests and responders:
 **Prof. Dr. Birgit Lodes**, Department of Musicology, University of Vienna,musicology   
 **Prof. Frauke Jürgensen**, University of Music and Performing Arts Vienna, musicology   
 
+<div> 
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_en_1.png" target="_blank">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_en_1.png" style="width:50%"/>
+</a>
+
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_en_2.png" target="_blank">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_en_2.png" style="width:50%"/>
+</a>
+</div>
