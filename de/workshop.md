@@ -68,8 +68,8 @@ Unsere Gäste und Respondenten:
 
 
 <div> 
-<a href="https://e-laute.info/assets/img/de-workshop-Feb26-1.png" target="_blank">
-<img src="" style="width:80%"/>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png" target="_blank">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png" style="width:80%"/>
 </a>
 <a href="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" target="_blank">
 <img src="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" style="width:80%"/>
