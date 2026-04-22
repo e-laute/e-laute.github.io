@@ -74,11 +74,11 @@ Unsere Gäste und Respondenten:
 <a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png" target="_blank">
 <img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png" style="width:50%"/>
 </a>
-</div>
+
 <a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png" target="_blank">
 <img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png" style="width:50%"/>
 </a>
-</div>
+
 <a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png" target="_blank">
 <img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png" style="width:50%"/>
 </a>
