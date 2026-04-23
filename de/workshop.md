@@ -10,7 +10,7 @@ lang: de
 
 Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl New Edition of the Collected Works (New Senfl Edition)** veranstaltet und präsentiert Ergebnisse der ersten Projektphase zur digitalen Edition der Lautenmusik.  
 
-**Zentrale Themen sind:**
+**Zentrale Themen waren:**
 - E-LAUTE in der Infrastruktur der Österreichischen Nationalbibliothek: Materialbestand und Nutzung  
 - MEI- und TEI-Kodierung im Dialog mit performativer, musikwissenschaftlicher und textbezogener editorischer Praxis  
 - Historische Recherchen im Wandel – Synergien der digitalen Materialerfassung  
@@ -29,7 +29,8 @@ Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl 
 <img src="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" style="width:80%"/>
 </a>
 </div>
-___
+
+-------------------------------------------------------------------
 
 ### E-LAUTE Workshop & IMS Tablature Group Conference (öffentlich)
 #### Basel, Schola Cantorum Basiliensis / Hochschule für Musik Basel FHNW, 10.–13. September 2025
@@ -38,7 +39,7 @@ Im Rahmen des WEAVE-Forschungsprojekts E-LAUTE und in Zusammenarbeit mit der Sch
 
 Die Veranstaltung im Kleinen Saal der Musik-Akademie Basel verband wissenschaftlichen Austausch mit musikalischer Praxis und bot neben Vorträgen und Diskussionsrunden auch Konzertbeiträge von Dozierenden und Studierenden.
 
-Zentrale Themen waren:
+**Zentrale Themen waren:**
 
 (1) Digitale Editionen von Lautenmusik und deren methodische Weiterentwicklung  
 (2) Deutsche Lautentabulatur: Verwendung, Inhalte und kulturelle Kontexte  
@@ -53,7 +54,7 @@ Die Tagung war öffentlich zugänglich und wurde zusätzlich im Livestream über
 
 [Mehr Informationen und das Programm finden Sie hier](https://www.musik-akademie.ch/de/veranstaltungen/konzert-aufnahmen/symposium-hybride-veranstaltung/study-days-lute-tablature.html)
 
-___
+-------------------------------------------------------------------
 
 ### E-LAUTE Workshop
 #### München, Ludwig-Maximilians-Universität & Bayerische Staatsbibliothek, 18.–20. September 2024
@@ -62,7 +63,7 @@ Der vom E-LAUTE-Projekt organisierte Workshop brachte Projektmitglieder und Koop
 
 An den Standorten der Ludwig-Maximilians-Universität München und der Bayerischen Staatsbibliothek widmete sich der Workshop der Verbindung von Musik, Text und Daten innerhalb der E-LAUTE-Infrastruktur und verknüpfte editorische Praxis mit technologischen Innovationen.
 
-Zentrale Themen waren:
+**Zentrale Themen waren:**
 
 (1) Entwicklung und Nutzung der E-LAUTE-Datenbank (E-LAUTEdb) sowie der Editionsplattform an der Österreichischen Nationalbibliothek  
 (2) Editionspraxis für Text und Musik, einschließlich Richtlinien für Common Music Notation und Tabulaturen  
@@ -76,7 +77,7 @@ Das Programm umfasste zudem interne Präsentationen, Beiträge aus Dissertations
 
 Der Workshop schloss mit Diskussionen zu zukünftigen Kooperationen, der Weiterentwicklung der digitalen Infrastruktur sowie der Planung kommender Aktivitäten.
 
-___
+-------------------------------------------------------------------
 
 ### E-LAUTE, Workshop / Kick-off Meeting, Wien, 3.7.-4.7. 2023
 #### Ort: Institut für Musikwissenschaft, Universität Wien, Hörsaal 1
@@ -84,7 +85,7 @@ ___
 
 Das internationale Team des Projekts E-LAUTE veranstaltet vom 3. 7. bis 4. 7. 2023 am Institut für Musikwissenschaft der Universität Wien (Hörsaal 1) ein öffentliches Arbeitstreffen. Wir, Fachkräfte aus 7 Institutionen in den Bereichen Musikwissenschaft, Aufführungspraxis, Germanistik, Musikinformatik und Web Science, diskutieren Themen der digitalen Aufarbeitung von Tabulaturen des 15. und 16. Jahrhunderts. Disziplinenübergreifend arbeiten wir an editorischen Strategien, MEI-Techniken und dem Encodieren der Deutschen Lautentabulatur, an neuer systematischer und historischer Erfassung des Text- und Musikmaterials sowie analytischen und repräsentativen Perspektiven in Verbindung mit modernen Technologien. 
 ___
-Das Hauptziel des Treffens ist es, in folgenden Arbeitsbereichen des Projekts voranzukommen:  
+**Das Hauptziel des Treffens ist es, in folgenden Arbeitsbereichen des Projekts voranzukommen:**  
 
 (1) diplomatische und editorische Übertragung in CMN, GLT u.a. Tab;  
 (2) MEI-Friend und Arbeit mit dem Programm;  
