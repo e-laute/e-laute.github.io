@@ -7,7 +7,7 @@ lang: de
 ### Präsentationen
 
 2025
-- Lewis, D., Janjuš, O., De Valk, R., Weigl, D. M., Crawford, T., Overell, P. and Schöning, K., ,,Mein vleis und mue’: MEI support for lute tablatures’, Music Encoding Conference (MEC) 2025 Proceedings London, 3.6–5.6.2025, <https://music-encoding.org/conference/2025/>.
+- Lewis, D., Janjuš, O., De Valk, R., Weigl, D. M., Crawford, T., Overell, P. and Schöning, K., „,Mein vleis und mue’: MEI support for lute tablatures", Music Encoding Conference (MEC) 2025 Proceedings London, 3.6–5.6.2025, <https://music-encoding.org/conference/2025/>.
 
 - Christoph Steindl, Kateryna Schöning, ,E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik’, Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, <https://dhd2025.dig-hum.de>.
   
