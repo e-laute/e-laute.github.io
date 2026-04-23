@@ -30,10 +30,34 @@ Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl 
 </a>
 </div>
 
+___
+## E-LAUTE Workshop
+
+**München, Ludwig-Maximilians-Universität & Bayerische Staatsbibliothek**  
+18.–20. September 2024
+
+Der vom E-LAUTE-Projekt organisierte Workshop brachte Projektmitglieder und Kooperationspartner:innen zusammen, um aktuelle Entwicklungen, Arbeitsprozesse und Forschungsperspektiven im Bereich der digitalen Edition deutscher Lautentabulaturen zu diskutieren.
+
+An den Standorten der Ludwig-Maximilians-Universität München und der Bayerischen Staatsbibliothek widmete sich der Workshop der Verbindung von Musik, Text und Daten innerhalb der E-LAUTE-Infrastruktur und verknüpfte editorische Praxis mit technologischen Innovationen.
+
+Zentrale Themen waren:
+
+(1) Entwicklung und Nutzung der E-LAUTE-Datenbank (E-LAUTEdb) sowie der Editionsplattform an der Österreichischen Nationalbibliothek  
+(2) Editionspraxis für Text und Musik, einschließlich Richtlinien für Common Music Notation und Tabulaturen  
+(3) Kodierungsstrategien mit MEI und verwandten Tools (z. B. abtab)  
+(4) Integration von Audio sowie Aufnahmepraxis historischer Lautenmusik  
+(5) Dateninfrastruktur und computergestützte Ansätze, u. a. Alignment, Ähnlichkeitssuche und Datenprovenienz  
+(6) Interdisziplinäre Zusammenarbeit zwischen Musikwissenschaft, Digital Humanities und Aufführungspraxis  
+(7) Organisation, Weiterentwicklung und Nachhaltigkeit des E-LAUTE-Projekts  
+
+Das Programm umfasste zudem interne Präsentationen, Beiträge aus Dissertationsprojekten sowie Arbeitssitzungen in thematischen Gruppen und förderte den Austausch zwischen den verschiedenen Kompetenzbereichen des Projekts. :contentReference[oaicite:0]{index=0}
+
+Der Workshop schloss mit Diskussionen zu zukünftigen Kooperationen, der Weiterentwicklung der digitalen Infrastruktur sowie der Planung kommender Aktivitäten.
+
+___
 
 ### E-LAUTE, Workshop / Kick-off Meeting, Wien, 3.7.-4.7. 2023
 #### Ort: Institut für Musikwissenschaft, Universität Wien, Hörsaal 1
-___
 
 
 Das internationale Team des Projekts E-LAUTE veranstaltet vom 3. 7. bis 4. 7. 2023 am Institut für Musikwissenschaft der Universität Wien (Hörsaal 1) ein öffentliches Arbeitstreffen. Wir, Fachkräfte aus 7 Institutionen in den Bereichen Musikwissenschaft, Aufführungspraxis, Germanistik, Musikinformatik und Web Science, diskutieren Themen der digitalen Aufarbeitung von Tabulaturen des 15. und 16. Jahrhunderts. Disziplinenübergreifend arbeiten wir an editorischen Strategien, MEI-Techniken und dem Encodieren der Deutschen Lautentabulatur, an neuer systematischer und historischer Erfassung des Text- und Musikmaterials sowie analytischen und repräsentativen Perspektiven in Verbindung mit modernen Technologien. 
