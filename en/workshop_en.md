@@ -31,7 +31,26 @@ The full workshop programme:
 
 -------------------------------------------------------------------
 
+### E-LAUTE Workshop
+#### Munich, Ludwig-Maximilians-Universität & Bavarian State Library (Bayerische Staatsbibliothek), 18–20 September 2024
 
+Organised by the E-LAUTE project, the workshop brought together project members and collaborators to discuss current developments, workflows and research perspectives in the digital editing of German lute tablature.
+
+Held across the Ludwig-Maximilians-Universität Munich and the Bavarian State Library, the workshop focused on the integration of music, text and data within the E-LAUTE infrastructure, combining editorial practice with technological innovation.
+
+Key topics included:
+
+(1) Development and use of the E-LAUTE database (E-LAUTEdb) and digital platform at the Austrian National Library  
+(2) Editorial practices for text and music, including Common Music Notation and tablature-specific guidelines  
+(3) Encoding strategies using MEI and related tools (e.g. abtab)  
+(4) Audio integration and recording practices for historical lute music  
+(5) Data infrastructure and computational approaches, including alignment, similarity search and data provenance  
+(6) Interdisciplinary collaboration between musicology, digital humanities and performance practice  
+(7) Organisational development, future planning and sustainability of the E-LAUTE project  
+
+The programme also included internal presentations, PhD project contributions and working group sessions, fostering exchange between different areas of expertise within the project.
+
+The workshop concluded with discussions on future collaborations, the development of the project’s digital ecosystem and planning for upcoming activities.
 
 -------------------------------------------------------------------
 ### E-LAUTE, Workshop / Kick-off Meeting, Vienna, 3.7.-4.7. 2023
