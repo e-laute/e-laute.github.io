@@ -43,6 +43,8 @@ lang: de
 
 - Bischoff S., „German Lute Tablature - Truly a German invention or a souvenir from other music cultures?’, Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
+- Janjuš O., „See the bigger picture? - Applying computational approaches to tablature data sets", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>. 
+
 ---
 
 2023
