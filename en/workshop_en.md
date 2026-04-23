@@ -85,16 +85,16 @@ The international team of the E-LAUTE project will hold a public workshop meetin
 
 **The main objective of the meeting is to move forward in the following work areas of the project:** 
 
-(1) Diplomatic and editorial transcription in CMN, GLT a.o. Tab;  
-(2) MEI-Friend and work with the programme;  
-(3) Encoding of GLT;  
+(1) Diplomatic and editorial transcription in CMN, GLT a.o. Tab  
+(2) MEI-Friend and work with the programme  
+(3) Encoding of GLT
 (4) Systematic, historical and bibliographical gathering of the textual and musical material (logic, structure, database), with the perspective of future presentation of the material on our editorial platform;  
-(5) Storage of data and organisation of the project; Use of GitLab, GitHub, GoogleDrive; internal storage of "foreign" material, Distribution and exchange of the transcribed or edited material; Uniformity in the naming of data and its storage;    
-(6) Editing of texts (TEI); connection of texts and music;  
-(7) Audio data, selection, recording and connection to the edition;   
-(8) Perspectives of OMR: first trial studies with similarity searches in the music data;  
-(9) Pilot I+II (sub-aspects): Text and music, variance, metre, concordance, first signs of lute tablature in the 15th century;   
-(10) Pilot III (sub-aspects): Text and music in the intabulations of the D-Mbs Mus.ms. 1512;  
+(5) Storage of data and organisation of the project; Use of GitLab, GitHub, GoogleDrive; internal storage of "foreign" material, Distribution and exchange of the transcribed or edited material; Uniformity in the naming of data and its storage    
+(6) Editing of texts (TEI); connection of texts and music  
+(7) Audio data, selection, recording and connection to the edition   
+(8) Perspectives of OMR: first trial studies with similarity searches in the music data 
+(9) Pilot I+II (sub-aspects): Text and music, variance, metre, concordance, first signs of lute tablature in the 15th century   
+(10) Pilot III (sub-aspects): Text and music in the intabulations of the D-Mbs Mus.ms. 1512  
 (11) Website www.e-laute-info, conception; infrastructure of the ÖNB host.    
 
 
