@@ -46,7 +46,7 @@ lang: de
 
 --------------------------------------------------------------------------------
 
-**Veröffentlichte Abstracts / kleinere Beiträge**
+#### Veröffentlichte Abstracts / kleinere Beiträge
 
 2025
 - Steindl C., Schöning K., „E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: https://doi.org/10.5281/zenodo.14887461.
