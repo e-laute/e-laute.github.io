@@ -23,6 +23,8 @@ lang: en
 
 - Kropik C. et al., "Abbreviations & IDs Conventions", in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
+- [Publication of music editions via the platform](https://edition.onb.ac.at/context:elaute)
+
 **With contributions by E-LAUTE authors:**
 
 - [David M. Weigl]&#58; Frans Wiering (ed.), *Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy* (Utrecht University, 2025), 73 pp., DOI: [10.5281/zenodo.17543932](https://doi.org/10.5281/zenodo.17543932)
