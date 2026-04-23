@@ -38,7 +38,9 @@ lang: en
 
 - Goebl W, Weigl D. M., "mei-friend: An Interactive Web-based Editor for Digital Music Encodings", in: *Journal of Open Source Software* 9/98 (2024)
 
-- - Weigl D., "Introduction. Interplay in the Corpora of German Lute Tablature", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
+- De Valk R., "AbsoLutely Tabulous – A toolbox for computational processing and analysis of music in lute tablature", Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges (ECHOS / CESEM) Lisbon, 27.6.–29.6.2024. Full paper presented at conference.
+
+- Weigl D., "Introduction. Interplay in the Corpora of German Lute Tablature", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
 - Bischoff S., "German Lute Tablature - Truly a German invention or a souvenir from other music cultures?’, Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
