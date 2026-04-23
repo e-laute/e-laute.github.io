@@ -6,12 +6,12 @@ lang: en
 <img class="left" src="/assets/img/1400_frg.png"/>
 
 
-### MUSIC – TEXT – ENCODING – RESEARCH: New Strategies for the Digital Representation of Music and Text before 1600  
+### MUSIC – TEXT – ENCODING – RESEARCH: New Strategies for the Digital Representation of Music and Text before 1600  (public)
 #### 26 February 2026, 9:30 am–5:00 pm, Grand Hall (Festsaal) of the mdw, Seilerstätte 26, 1010 Vienna.
 
 Organised by the **E-LAUTE** project in collaboration with the **Ludwig Senfl New Edition of the Collected Works (New Senfl Edition)**, the workshop presents the results of the first project phase of E-LAUTE and explores innovative approaches to the digital representation, encoding and scholarly editing of music and text before 1600.  
 
-**Key topics include:**
+**Key topics included:**
 - E-LAUTE within the infrastructure of the Austrian National Library: material inventory and usage  
 - MEI and TEI encoding in dialogue with performative, musicological and text-based editorial practice  
 - Historical research in transition – synergies in digital material capture  
@@ -31,6 +31,30 @@ The full workshop programme:
 
 -------------------------------------------------------------------
 
+### E-LAUTE Workshop & IMS Tablature Group Conference (public)
+#### Basel, Schola Cantorum Basiliensis / Basel University of Music FHNW, 10–13 September 2025
+
+As part of the WEAVE research project E-LAUTE, and in collaboration with the Schola Cantorum Basiliensis (FHNW) and the IMS Study Group *Tablature in Western Music*, the “Study Days on Lute and Tablature” were held in Basel. This public conference brought together international scholars and performers to discuss current developments in the research, editing and performance of lute music and tablatures.
+
+Hosted at the Music Academy Basel, the event combined scholarly exchange with musical practice, featuring presentations, discussions, and concert contributions by faculty members and students.
+
+**Key topics included:**
+
+(1) Digital editions of lute music and their methodological development  
+(2) German lute tablature: usage, contents and cultural contexts  
+(3) Current international research on tablature and lute music  
+(4) New perspectives on sources, repertoires and notational forms of the early modern period  
+(5) Interconnections between musicological research, digital methods and performance practice  
+(6) Exchange and networking within the international research community  
+
+A particular focus was placed on contributions by members of the E-LAUTE team, offering insights into ongoing work on digital editing processes, data infrastructure and innovative research approaches. The programme was complemented by lecture recitals and short concerts, linking historical performance practice with scholarly reflection.
+
+The conference was open to the public and additionally available via livestream, enabling broad international participation.
+
+[More information and the full programme can be found here](https://www.musik-akademie.ch/de/veranstaltungen/konzert-aufnahmen/symposium-hybride-veranstaltung/study-days-lute-tablature.html)
+
+-------------------------------------------------------------------
+
 ### E-LAUTE Workshop
 #### Munich, Ludwig-Maximilians-Universität & Bavarian State Library (Bayerische Staatsbibliothek), 18–20 September 2024
 
@@ -38,7 +62,7 @@ Organised by the E-LAUTE project, the workshop brought together project members 
 
 Held across the Ludwig-Maximilians-Universität Munich and the Bavarian State Library, the workshop focused on the integration of music, text and data within the E-LAUTE infrastructure, combining editorial practice with technological innovation.
 
-Key topics included:
+**Key topics included:**
 
 (1) Development and use of the E-LAUTE database (E-LAUTEdb) and digital platform at the Austrian National Library  
 (2) Editorial practices for text and music, including Common Music Notation and tablature-specific guidelines  
@@ -59,7 +83,7 @@ The workshop concluded with discussions on future collaborations, the developmen
 ___
 The international team of the E-LAUTE project will hold a public workshop meeting from 3 Jul to 4 Jul 2023 at the University of Vienna, Department of Musicology (lecture hall 1). As experts from 7 institutions in the fields of musicology, performance practice, German studies, music informatics and web science, we will discuss topics related to the digital processing of tablatures from the 15th and 16th century. Across disciplines, we are working on editorial strategies, MEI techniques and the encoding of the German lute tablature, on the systematic and historical reworking of textual and musical material, as well as analytical and representational perspectives in connection with modern technologies. 
 ___
-The main objective of the meeting is to move forward in the following work areas of the project:  
+**The main objective of the meeting is to move forward in the following work areas of the project:** 
 
 (1) Diplomatic and editorial transcription in CMN, GLT a.o. Tab;  
 (2) MEI-Friend and work with the programme;  
