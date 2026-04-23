@@ -13,17 +13,17 @@ lang: de
 
 - Steindl C., Schöning K., „E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: https://doi.org/10.5281/zenodo.14887461. 
 
-- Schöning K., Kropik C. et al.‚ „Richtlinien der Datenbank E-LAUTEdb", in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Schöning K., Kropik C. et al.‚ „Richtlinien der Datenbank E-LAUTEdb", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
-- Schöning K., Bischoff S. et al., „E-LAUTE: Editionskonventionen (Tabulaturen, CMN)“, in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Schöning K., Bischoff S. et al., „E-LAUTE: Editionskonventionen (Tabulaturen, CMN)“, in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
-- Kropik C. et al. „E-Laute: Konventionen für die Präsentation deutscher Texte“, in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Kropik C. et al. „E-Laute: Konventionen für die Präsentation deutscher Texte“, in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
-- Kropik C. et al., ,TEI elements used in E-Laute TEI-xml files‘, in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Kropik C. et al., ,TEI elements used in E-Laute TEI-xml files‘, in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
-- Janjuš, O., De Valk, R. et al., „Editorial Guidelines for MEI Editing in the E-LAUTE Project", in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Janjuš, O., De Valk, R. et al., „Editorial Guidelines for MEI Editing in the E-LAUTE Project", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
-- Kropik C. et al., „Abbreviations & IDs Conventions", in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Kropik C. et al., „Abbreviations & IDs Conventions", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
 - [Publikation von Noteneditionen siehe auf Plattform](https://edition.onb.ac.at/context:elaute)
 
