@@ -52,7 +52,9 @@ Ein besonderer Schwerpunkt lag auf den Beiträgen des E-LAUTE-Teams, die Einblic
 Die Tagung war öffentlich zugänglich und wurde zusätzlich im Livestream übertragen, wodurch eine breite internationale Teilnahme ermöglicht wurde.
 
 [Mehr Informationen und das Programm finden Sie hier](https://www.musik-akademie.ch/de/veranstaltungen/konzert-aufnahmen/symposium-hybride-veranstaltung/study-days-lute-tablature.html)
+
 ___
+
 ### E-LAUTE Workshop
 #### München, Ludwig-Maximilians-Universität & Bayerische Staatsbibliothek, 18.–20. September 2024
 
