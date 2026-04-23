@@ -29,7 +29,29 @@ Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl 
 <img src="https://e-laute.info/assets/img/de-workshop-Feb26-2.png" style="width:80%"/>
 </a>
 </div>
+___
 
+### E-LAUTE Workshop & IMS Tablature Group Conference (public)
+#### Basel, Schola Cantorum Basiliensis / Hochschule für Musik Basel FHNW, 10.–13. September 2025
+
+Im Rahmen des WEAVE-Forschungsprojekts E-LAUTE und in Zusammenarbeit mit der Schola Cantorum Basiliensis (FHNW) sowie der IMS Study Group *Tablature in Western Music* fanden in Basel die «Study Days on Lute and Tablature» statt. Die öffentliche Tagung vereinte internationale Forscher:innen und Musiker:innen, um aktuelle Entwicklungen in der Erforschung, Edition und Aufführung von Lautenmusik und Tabulaturen zu diskutieren.
+
+Die Veranstaltung im Kleinen Saal der Musik-Akademie Basel verband wissenschaftlichen Austausch mit musikalischer Praxis und bot neben Vorträgen und Diskussionsrunden auch Konzertbeiträge von Dozierenden und Studierenden.
+
+Zentrale Themen waren:
+
+(1) Digitale Editionen von Lautenmusik und deren methodische Weiterentwicklung  
+(2) Deutsche Lautentabulatur: Verwendung, Inhalte und kulturelle Kontexte  
+(3) Aktuelle Forschung zu Tabulaturen und Lautenmusik im internationalen Kontext  
+(4) Neue Perspektiven auf Quellen, Repertoires und Notationsformen der Frühen Neuzeit  
+(5 Verknüpfung von musikwissenschaftlicher Forschung, digitaler Methodik und Aufführungspraxis  
+(6) Austausch und Vernetzung innerhalb der internationalen Forschungsgemeinschaft  
+
+Ein besonderer Schwerpunkt lag auf den Beiträgen des E-LAUTE-Teams, die Einblicke in aktuelle Arbeitsstände, digitale Editionsprozesse, Dateninfrastruktur sowie neue Forschungsansätze boten. Ergänzt wurde das Programm durch Lecture Recitals und Kurzkonzerte, die historische Aufführungspraxis mit wissenschaftlicher Reflexion verbanden. 
+
+Die Tagung war öffentlich zugänglich und wurde zusätzlich im Livestream übertragen, wodurch eine breite internationale Teilnahme ermöglicht wurde.
+
+[Mehr Informationen und das Programm finden Sie hier](https://www.musik-akademie.ch/de/veranstaltungen/konzert-aufnahmen/symposium-hybride-veranstaltung/study-days-lute-tablature.html)
 ___
 ### E-LAUTE Workshop
 #### München, Ludwig-Maximilians-Universität & Bayerische Staatsbibliothek, 18.–20. September 2024
