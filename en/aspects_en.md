@@ -56,7 +56,7 @@ lang: en
 #### Published abstracts / short contributions
 
 2025
-- Steindl C., Schöning K., "E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: https://doi.org/10.5281/zenodo.14887461.
+- Steindl C., Schöning K., "E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: <https://doi.org/10.5281/zenodo.14887461>.
 
 2024
 - Weigl D., "Introduction. Interplay in the Corpora of German Lute Tablature", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
