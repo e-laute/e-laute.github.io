@@ -31,6 +31,9 @@ The full workshop programme:
 
 -------------------------------------------------------------------
 
+
+
+-------------------------------------------------------------------
 ### E-LAUTE, Workshop / Kick-off Meeting, Vienna, 3.7.-4.7. 2023
 #### Venues: Institut of Musicology, University of Vienna, lecture hall 1
 
