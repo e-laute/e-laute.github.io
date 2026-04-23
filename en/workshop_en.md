@@ -97,7 +97,9 @@ The international team of the E-LAUTE project will hold a public workshop meetin
 (10) Pilot III (sub-aspects): Text and music in the intabulations of the D-Mbs Mus.ms. 1512;  
 (11) Website www.e-laute-info, conception; infrastructure of the ÖNB host.    
 
+
 Participants of the workshop are members of the project and our guests.
+
 
 Our guests and responders:  
 **Prof. Tim Crawford**, Goldsmiths College, University of  London, music informatics (online, in MEI-Part)  
