@@ -7,9 +7,21 @@ lang: de
 ### Publikationen
 
 2025
-- Kateryna Schöning, Reinier de Valk, David M. Weigl, Ilias Kyriazis, Olja Janjuš, Henning Burghoff und Christoph Steindl, ‘A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project’, in: *Journal of New Music Research* (01/08/2025), DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593)
+- Schöning K., de Valk R. et al., „A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project", in: *Journal of New Music Research* (01/08/2025), DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593)
 
-- Rosmer S., Weigl D. M., ‘Editing premodern German song texts within a musicological edition platform: challenges and possibilities’, in: *Philologia Hispalensis* (2025). Peer-reviewed und angenommen am 03.04.2025; erscheint voraussichtlich Herbst 2025.
+- Rosmer S., Weigl D. M., „Editing premodern German song texts within a musicological edition platform: challenges and possibilities", in: *Philologia Hispalensis* (2025). Peer-reviewed und angenommen am 03.04.2025; erscheint voraussichtlich Herbst 2025.
+
+- Schöning K., Kropik C. et al.‚ „Richtlinien der Datenbank E-LAUTEdb", in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+
+- Schöning K., Bischoff S. et al., „E-LAUTE: Editionskonventionen (Tabulaturen, CMN)“, in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+
+- Kropik C. et al. „E-Laute: Konventionen für die Präsentation deutscher Texte“, in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+
+- Kropik C. et al., ,TEI elements used in E-Laute TEI-xml files‘, in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+
+- Janjuš, O., De Valk, R. et al., „Editorial Guidelines for MEI Editing in the E-LAUTE Project", in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+
+- Kropik C. et al., „Abbreviations & IDs Conventions", in: E-LAUTE, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
 **Mit Beiträgen von E-LAUTE-Autor:innen:**
 
