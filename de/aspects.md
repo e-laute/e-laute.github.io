@@ -44,7 +44,8 @@ lang: de
 2023
 - De Valk R., Schöning K., Weigl D. M., Lewis D., Crawford T., Lewon M., Overell P., „,Ain schone kunstliche Underweisung': Modelling German lute tablature in MEI", Encoding Cultures: Joint MEC and TEI Conference 2023 Abstracts (MEC/TEI), 4.9–9.9.2023, <https://teimec2023.uni-paderborn.de>.
 
-Veröffentlichte Abstracts / kleinere Beiträge
+
+**Veröffentlichte Abstracts / kleinere Beiträge**
 
 2025
 - Steindl C., Schöning K., „E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: https://doi.org/10.5281/zenodo.14887461.
