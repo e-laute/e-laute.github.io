@@ -13,7 +13,7 @@ lang: en
   
 - Ilias Kyriazis, ‘E-LAUTE: incorporating multifaceted music representations and Semantic Web technologies into the Austrian National Library’s digital edition of lute tablatures’, International Association of Music Libraries, Archives and Documentation Centers (IAML), Salzburg, 6.7.–11.7.2025, <https://iaml2025.at>.
    
-- Stefan Rosmer, ‘Deutsche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ersten Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien’, Perspektiven der Liedforschung Deutsches Historisches Institut in Rom (DHI), 29.1.–31.1.2025, <https://dhi-roma.it/fileadmin/user_upload/pdf-dateien/Veranstaltungsprogramme/2025/20250129-31_Programm_Liedforschung_DHI.pdf>.
+- Stefan Rosmer, ‘Deutsche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ersten Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien’, Perspectives of Song Research, German Historical Institute in Rome (DHI), 29.1.–31.1.2025, <https://dhi-roma.it/fileadmin/user_upload/pdf-dateien/Veranstaltungsprogramme/2025/20250129-31_Programm_Liedforschung_DHI.pdf>.
 
 ---
 2024
