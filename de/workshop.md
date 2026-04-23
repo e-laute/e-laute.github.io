@@ -5,7 +5,7 @@ lang: de
 ---
 <img class="left" src="/assets/img/1400_frg.png"/>
 
-### "MUSIK – TEXT – KODIERUNG – FORSCHUNG: Neue Strategien zur digitalen Erfassung von Musik und Text vor 1600" ein  
+### "MUSIK – TEXT – KODIERUNG – FORSCHUNG: Neue Strategien zur digitalen Erfassung von Musik und Text vor 1600" ein  (öffentlich)
 #### 26. Februar 2026 von 9.30 bis 17.00 Uhr, Festsaal der mdw, Seilerstätte 26, 1010 Wien, statt.
 
 Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl New Edition of the Collected Works (New Senfl Edition)** veranstaltet und präsentiert Ergebnisse der ersten Projektphase zur digitalen Edition der Lautenmusik.  
