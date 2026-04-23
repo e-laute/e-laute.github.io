@@ -48,7 +48,7 @@ Zentrale Themen waren:
 (6) Interdisziplinäre Zusammenarbeit zwischen Musikwissenschaft, Digital Humanities und Aufführungspraxis  
 (7) Organisation, Weiterentwicklung und Nachhaltigkeit des E-LAUTE-Projekts  
 
-Das Programm umfasste zudem interne Präsentationen, Beiträge aus Dissertationsprojekten sowie Arbeitssitzungen in thematischen Gruppen und förderte den Austausch zwischen den verschiedenen Kompetenzbereichen des Projekts. :contentReference[oaicite:0]{index=0}
+Das Programm umfasste zudem interne Präsentationen, Beiträge aus Dissertationsprojekten sowie Arbeitssitzungen in thematischen Gruppen und förderte den Austausch zwischen den verschiedenen Kompetenzbereichen des Projekts.
 
 Der Workshop schloss mit Diskussionen zu zukünftigen Kooperationen, der Weiterentwicklung der digitalen Infrastruktur sowie der Planung kommender Aktivitäten.
 
