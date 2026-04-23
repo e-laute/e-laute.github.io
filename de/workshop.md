@@ -31,7 +31,7 @@ Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl 
 </div>
 ___
 
-### E-LAUTE Workshop & IMS Tablature Group Conference (public)
+### E-LAUTE Workshop & IMS Tablature Group Conference (öffentlich)
 #### Basel, Schola Cantorum Basiliensis / Hochschule für Musik Basel FHNW, 10.–13. September 2025
 
 Im Rahmen des WEAVE-Forschungsprojekts E-LAUTE und in Zusammenarbeit mit der Schola Cantorum Basiliensis (FHNW) sowie der IMS Study Group *Tablature in Western Music* fanden in Basel die «Study Days on Lute and Tablature» statt. Die öffentliche Tagung vereinte internationale Forscher:innen und Musiker:innen, um aktuelle Entwicklungen in der Erforschung, Edition und Aufführung von Lautenmusik und Tabulaturen zu diskutieren.
