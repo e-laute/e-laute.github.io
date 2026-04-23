@@ -80,9 +80,8 @@ The workshop concluded with discussions on future collaborations, the developmen
 ### E-LAUTE, Workshop / Kick-off Meeting, Vienna, 3.7.-4.7. 2023
 #### Venues: Institut of Musicology, University of Vienna, lecture hall 1
 
-___
 The international team of the E-LAUTE project will hold a public workshop meeting from 3 Jul to 4 Jul 2023 at the University of Vienna, Department of Musicology (lecture hall 1). As experts from 7 institutions in the fields of musicology, performance practice, German studies, music informatics and web science, we will discuss topics related to the digital processing of tablatures from the 15th and 16th century. Across disciplines, we are working on editorial strategies, MEI techniques and the encoding of the German lute tablature, on the systematic and historical reworking of textual and musical material, as well as analytical and representational perspectives in connection with modern technologies. 
-___
+
 **The main objective of the meeting is to move forward in the following work areas of the project:** 
 
 (1) Diplomatic and editorial transcription in CMN, GLT a.o. Tab;  
@@ -96,9 +95,9 @@ ___
 (9) Pilot I+II (sub-aspects): Text and music, variance, metre, concordance, first signs of lute tablature in the 15th century;   
 (10) Pilot III (sub-aspects): Text and music in the intabulations of the D-Mbs Mus.ms. 1512;  
 (11) Website www.e-laute-info, conception; infrastructure of the ÖNB host.    
-___
+
 Participants of the workshop are members of the project and our guests.
-___
+
 Our guests and responders:  
 **Prof. Tim Crawford**, Goldsmiths College, University of  London, music informatics (online, in MEI-Part)  
 **Dr. David Lewis**, Goldsmiths College, University of  London, music informatics (online, in MEI-Part)  
