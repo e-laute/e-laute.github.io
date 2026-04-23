@@ -31,10 +31,8 @@ Der Workshop wird vom **E-LAUTE-Projekt** in Kooperation mit der **Ludwig Senfl 
 </div>
 
 ___
-## E-LAUTE Workshop
-
-**München, Ludwig-Maximilians-Universität & Bayerische Staatsbibliothek**  
-18.–20. September 2024
+### E-LAUTE Workshop
+#### München, Ludwig-Maximilians-Universität & Bayerische Staatsbibliothek, 18.–20. September 2024
 
 Der vom E-LAUTE-Projekt organisierte Workshop brachte Projektmitglieder und Kooperationspartner:innen zusammen, um aktuelle Entwicklungen, Arbeitsprozesse und Forschungsperspektiven im Bereich der digitalen Edition deutscher Lautentabulaturen zu diskutieren.
 
