@@ -17,10 +17,11 @@ lang: de
 - [Weigl D. M.]&#58; Frans Wiering (Hrsg.), *Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy* (Utrecht University, 2025), 73 S.,  
   DOI: [10.5281/zenodo.17543932](https://doi.org/10.5281/zenodo.17543932).
 
+--------------------------------------------------------------------------------
 
 **[Publikation von Noteneditionen siehe auf Plattform](https://edition.onb.ac.at/context:elaute)**
 
-
+--------------------------------------------------------------------------------
 #### Projektinterne Publikationen
 
 - Schöning K., Kropik C. et al.‚ „Richtlinien der Datenbank E-LAUTEdb", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
