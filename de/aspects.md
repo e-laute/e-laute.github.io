@@ -43,6 +43,7 @@ lang: de
 
 2023
 - De Valk R., Schöning K., Weigl D. M., Lewis D., Crawford T., Lewon M., Overell P., „,Ain schone kunstliche Underweisung': Modelling German lute tablature in MEI", Encoding Cultures: Joint MEC and TEI Conference 2023 Abstracts (MEC/TEI), 4.9–9.9.2023, <https://teimec2023.uni-paderborn.de>.
+
 --------------------------------------------------------------------------------
 
 #### Veröffentlichte Abstracts / kleinere Beiträge
