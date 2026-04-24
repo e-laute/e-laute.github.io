@@ -18,7 +18,7 @@ lang: de
   DOI: [10.5281/zenodo.17543932](https://doi.org/10.5281/zenodo.17543932).
 
 
-[Publikation von Noteneditionen siehe auf Plattform](https://edition.onb.ac.at/context:elaute)
+**[Publikation von Noteneditionen siehe auf Plattform](https://edition.onb.ac.at/context:elaute)**
 
 
 #### Projektinterne Publikationen
