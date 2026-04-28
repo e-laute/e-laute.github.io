@@ -9,9 +9,9 @@ lang: en
 2025  
 - Stefan Rosmer, "Deutsche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ersten Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien", Perspectives of Song Research, German Historical Institute in Rome (DHI), 29.1.–31.1.2025, <https://dhi-roma.it/fileadmin/user_upload/pdf-dateien/Veranstaltungsprogramme/2025/20250129-31_Programm_Liedforschung_DHI.pdf>.
 
-- Lewis, D., Janjuš, O., De Valk, R., Weigl, D. M., Crawford, T., Overell, P. and Schöning, K., "‘Mein vleis und mue’: MEI support for lute tablatures", Music Encoding Conference (MEC) 2025 Proceedings London, 3.6–5.6.2025, <https://music-encoding.org/conference/2025/>.
-
 - Christoph Steindl, Kateryna Schöning, "E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), University of Bielefeld, 5.3.–6.3.2025, <https://dhd2025.dig-hum.de>.
+
+- Lewis, D., Janjuš, O., De Valk, R., Weigl, D. M., Crawford, T., Overell, P. and Schöning, K., "‘Mein vleis und mue’: MEI support for lute tablatures", Music Encoding Conference (MEC) 2025 Proceedings London, 3.6–5.6.2025, <https://music-encoding.org/conference/2025/>.
   
 - Ilias Kyriazis, "E-LAUTE: incorporating multifaceted music representations and Semantic Web technologies into the Austrian National Library’s digital edition of lute tablatures", International Association of Music Libraries, Archives and Documentation Centers (IAML), Salzburg, 6.7.–11.7.2025, <https://iaml2025.at>.
 
