@@ -24,7 +24,7 @@ An zwei Standorten in Wien hatten Besucher:innen die Möglichkeit, die Methoden 
 
 **Selbst ausprobieren: Lautentabulaturen entdecken**
 
-Im Hauptgebäude der Universität Wien lud das E-LAUTE-Team an einer Mitmachstation dazu ein, historische Notationspraktiken aktiv zu erkunden. Besucher:innen konnten Notation am Laptop ausprobieren, eigene Lautentabulaturen mit symbolischen Systemen gestalten und Faksimiles von Handschriften und frühen Drucken aus der Österreichischen Nationalbibliothek betrachten.
+Im Hauptgebäude der Universität Wien (Universitätsring 1, 1010 Wien) lud das E-LAUTE-Team an einer Mitmachstation dazu ein, historische Notationspraktiken aktiv zu erkunden. Besucher:innen konnten Notation am Laptop ausprobieren, eigene Lautentabulaturen mit symbolischen Systemen gestalten und Faksimiles von Handschriften und frühen Drucken aus der Österreichischen Nationalbibliothek betrachten.
 
 Ein eigener Bereich für Kinder bot Rätsel und spielerische Aktivitäten, die es auch jüngeren Besucher:innen ermöglichten, sich auf kreative und niedrigschwellige Weise mit musikalischen Symbolen und Notation vertraut zu machen.
 
