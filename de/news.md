@@ -34,7 +34,7 @@ Das interaktive Format ermöglichte es Besucher:innen aller Altersgruppen zu erl
 
 **Hören, Lesen, Verstehen: Musik neu entdecken**
 
-Am Campus der mdw wurden in mehreren Kleingruppen-Workshops Einblicke in die digitale Editionsplattform von E-LAUTE vermittelt. Die Teilnehmenden lernten, Musik in deutscher Lautentabulatur zu lesen, und konnten ausgewählte Werke auf historischen Instrumenten hören.
+Am Campus der mdw (Anton-von-Webern-Platz 1, 1030 Wien) wurden in mehreren Kleingruppen-Workshops Einblicke in die digitale Editionsplattform von E-LAUTE vermittelt. Die Teilnehmenden lernten, Musik in deutscher Lautentabulatur zu lesen, und konnten ausgewählte Werke auf historischen Instrumenten hören.
 
 Die Workshops zeigten, wie digitale Forschungsmethoden bislang schwer zugängliche musikalische Quellen erschließen und sowohl für die Wissenschaft als auch für die Aufführungspraxis zugänglich machen können.
 
