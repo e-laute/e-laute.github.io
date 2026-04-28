@@ -35,7 +35,7 @@ The interactive format allowed visitors of all ages to experience how music was 
 
 **Listen, Read, Understand: Rediscover Music**
 
-At the mdw campus, a series of small-group workshops introduced participants to the E-LAUTE digital edition platform. Visitors learned how to read music in German lute tablature and experienced selected pieces performed on historical instruments.
+At the mdw campus (Anton-von-Webern-Platz 1, 1030 Vienna), a series of small-group workshops introduced participants to the E-LAUTE digital edition platform. Visitors learned how to read music in German lute tablature and experienced selected pieces performed on historical instruments.
 
 The workshops provided insight into how digital research methods can make previously inaccessible musical sources available and meaningful for both scholarship and performance.
 
