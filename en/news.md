@@ -25,7 +25,7 @@ With two locations in Vienna, visitors had the opportunity to explore, experimen
 
 **Try it yourself: Discover lute tablature**
 
-At the main building of the University of Vienna, the E-LAUTE team hosted a hands-on station that invited visitors to actively explore historical notation practices. Participants were able to try out notation on laptops, create their own lute tablatures using symbolic systems, and examine facsimiles of manuscripts and early prints from the Austrian National Library.
+At the main building of the University of Vienna (Universitätsring 1, 1010 Vienna) the E-LAUTE team hosted a hands-on station that invited visitors to actively explore historical notation practices. Participants were able to try out notation on laptops, create their own lute tablatures using symbolic systems, and examine facsimiles of manuscripts and early prints from the Austrian National Library.
 
 A dedicated area for children offered puzzles and playful activities, allowing younger visitors to engage with musical symbols and notation in an accessible and creative way.
 
