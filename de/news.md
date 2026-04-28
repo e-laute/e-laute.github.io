@@ -16,46 +16,29 @@ ________________________________________________________________________________
 
 ### E-LAUTE bei der Langen Nacht der Forschung 2026
 
-Erleben Sie Musikgeschichte hautnah! xperience music history up close! Das Forschungsprojekt E-LAUTE lädt Sie zur Langen Nacht der Forschung 2026 ein – mit interaktiven Stationen, spannenden Einblicken in historische Notationen und einzigartigen Klangerlebnissen.
+Im Rahmen der Langen Nacht der Forschung 2026 präsentierte das Projekt E-LAUTE seine Arbeit einem breiten Publikum und bot interaktive Einblicke in historische Musiknotation und digitale musikwissenschaftliche Forschung.
 
-📍 Zwei Standorte in Wien – doppelte Gelegenheit zum Entdecken, Ausprobieren und Staunen!
+An zwei Standorten in Wien hatten Besucher:innen die Möglichkeit, die Methoden und Materialien des Projekts zu entdecken, selbst auszuprobieren und aktiv mit ihnen zu arbeiten.
 
 #### 🟥 Universität Wien – Mitmachstation
 
 **Selbst ausprobieren: Lautentabulaturen entdecken**
 
-Tauchen Sie ein in die faszinierende Welt der historischen Musiknotation!  
-An unserer Mitmachstation im Hauptgebäude der Universität Wien können Sie selbst aktiv werden:
+Im Hauptgebäude der Universität Wien lud das E-LAUTE-Team an einer Mitmachstation dazu ein, historische Notationspraktiken aktiv zu erkunden. Besucher:innen konnten Notation am Laptop ausprobieren, eigene Lautentabulaturen mit symbolischen Systemen gestalten und Faksimiles von Handschriften und frühen Drucken aus der Österreichischen Nationalbibliothek betrachten.
 
-- Notation direkt am Laptop ausprobieren  
-- Eigene Lautentabulaturen mit kreativen Symbolen gestalten  
-- Faksimiles wertvoller Handschriften und Drucke aus der Österreichischen Nationalbibliothek in die Hand nehmen  
+Ein eigener Bereich für Kinder bot Rätsel und spielerische Aktivitäten, die es auch jüngeren Besucher:innen ermöglichten, sich auf kreative und niedrigschwellige Weise mit musikalischen Symbolen und Notation vertraut zu machen.
 
-**Wann?:** 24.04.2026, 17:00–22:45  
-**Wo?:** Hauptgebäude der Universität Wien, Universitätsring 1, 1010 Wien  
-
-Erleben Sie, wie Musik vor Jahrhunderten festgehalten wurde – zum Anfassen und Mitmachen!
-
-
+Das interaktive Format ermöglichte es Besucher:innen aller Altersgruppen zu erleben, wie Musik in vergangenen Jahrhunderten festgehalten und weitergegeben wurde.
 
 #### 🟥 mdw – Workshop
 
 **Hören, Lesen, Verstehen: Musik neu entdecken**
 
-Am Campus der mdw erwartet Sie ein interaktiver Workshop rund um die digitale Editionsplattform von E-LAUTE:
+Am Campus der mdw wurden in mehreren Kleingruppen-Workshops Einblicke in die digitale Editionsplattform von E-LAUTE vermittelt. Die Teilnehmenden lernten, Musik in deutscher Lautentabulatur zu lesen, und konnten ausgewählte Werke auf historischen Instrumenten hören.
 
-- Lernen Sie, bisher schwer zugängliche Musik in deutscher Lautentabulatur zu lesen  
-- Hören Sie diese Werke auf historischen Instrumenten  
-- Entdecken Sie, wie digitale Forschung musikalisches Kulturerbe neu erschließt  
+Die Workshops zeigten, wie digitale Forschungsmethoden bislang schwer zugängliche musikalische Quellen erschließen und sowohl für die Wissenschaft als auch für die Aufführungspraxis zugänglich machen können.
 
-**Wann?:** 24.04.2026,
-**Beginnzeiten:** 18:30, 19:30, 20:30, 21:30  
-**Teilnehmerzahl:** jeweils max. 10 Personen  
-
-**Wo?:** mdw – Universität für Musik und darstellende Kunst Wien, Anton-von-Webern-Platz 1, 1030 Wien  
-
-**Anmeldung erforderlich bis 19. April 2026:** stojak@mdw.ac.at  
-*(Bitte Name und gewünschte Beginnzeit angeben)*
+Das Format ermöglichte einen intensiven Austausch und eine direkte Auseinandersetzung mit den präsentierten Materialien und Werkzeugen.
 
 
 Mehr Information:  
