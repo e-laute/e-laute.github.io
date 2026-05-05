@@ -11,8 +11,6 @@ lang: en
 
 - Rosmer S., Weigl D. M., "Editing premodern German song texts within a musicological edition platform: challenges and possibilities", in: *Philologia Hispalensis* (2025). Peer-reviewed and accepted on 2025-04-03; forthcoming, autumn 2025 issue.
 
-- Steindl C., Schöning K., "E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: https://doi.org/10.5281/zenodo.14887461.
-
 **With contributions by E-LAUTE authors:**
 
 - [David M. Weigl]&#58; Frans Wiering (ed.), *Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy* (Utrecht University, 2025), 73 pp., DOI: [10.5281/zenodo.17543932](https://doi.org/10.5281/zenodo.17543932)
