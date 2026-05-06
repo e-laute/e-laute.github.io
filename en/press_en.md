@@ -4,7 +4,10 @@ permalink: /press/
 lang: en
 ---
 
-### press, about us
+### Public Science Engagement  
+
+
+### Press
 
 The radio programme on Radio Ö1  on 22 May 2023, at 10.05 a.m.; Duration one hour 34 minutes, i.a. with lute playing by Paul Kieffer and Marc Lewon, and comments by Kateryna Schöning  
 [_Unexplored facts about the lute in a new e-Edition
