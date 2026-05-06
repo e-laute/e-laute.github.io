@@ -14,12 +14,10 @@ ___
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology, Information, Software Engineering      
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Copenhagen/Austria, Music Informatics  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/formations/doctorat/irina-döring), University of Vienna, Department of Musicology, Musicology, Lute   
-[**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), Austrian National Library / Vienna University of Technology, Information, Software Engineering<br/>
+**Dr. Albert Rafetseder**, Austrian National Library, Information-, Information, Software Engineering  
 **Mag. Martina Bürgermeister, MA**, Austrian National Library, Research and Datenservices      
 **Henning Burghoff**, student assistant, University of Vienna, Department of Musicology, Musicology / Music Informatics           
-**Maximilian Höller**, student assistant, Vienna University of Technology, Information, Software Engineering          
-**Julia Jaklin**, student assistant, Vienna University of Technology, Information, Software Engineering       
-**Pouya Far**, student assistant, Vienna University of Technology, Information, Software Engineering  
+**Maximilian Höller**, student assistant, Vienna University of Technology, Information, Software Engineering   
 **Montserrat Zamora**, student assistant, University of Vienna, Department of Musicology, Musicology
 
 ---
@@ -27,14 +25,14 @@ ___
 [**Prof. Dr. Irene Holzer**](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Germany, Ludwig-Maximilian-University Munich, Musicology    
  [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Germany, University of Bayreuth, German Medieval Studies       
  [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-University Munich, Musicology  
- [**MA Viktoria Spadinger**](https://www.mediaevistik.uni-bayreuth.de/de/team/Viktoria-Spadinger/index.php), University of Bayreuth, German Medieval Studies  
+ **PhD Hellmut Braun**, University of Bayreuth, German Medieval Studies    
  **Selma Göldner**, University of Bayreuth, German Medieval Studies, student assistant 
 
 ---
 #### Switzerland
  [**Prof. Dr. Martin Kirnbauer**](https://www.fhnw.ch/de/personen/martin-kirnbauer), PI Switzerland, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice     
  [**Prof. Dr. Marc Lewon**](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)  
- **PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)   
+ **PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musicology and Performance Practice (Lute)  
  **Andrea Bauer**, student assistant, Musicology  
 
 ---
@@ -46,4 +44,9 @@ ___
 **BA Barbara Recheis**, student assistant, University of Vienna, Department of Musicology, Musicology (until 31 May 2024)  
 **Eva Schöfer**, student assistant, University of Vienna, Department of Musicology, Musicology (until 31 May 2023)   
 **Mag. Martin Krickl**, Austrian National Library, host, IT (until 15 Jun 2023)    
-**Jochen Schnapka**, student assistant, Ludwig-Maximilian-University Munich, Musicology (until 31 March 2024)   
+**Jochen Schnapka**, student assistant, Ludwig-Maximilian-University Munich, Musicology (until 31 March 2024) 
+[**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), Austrian National Library / Vienna University of Technology, Information, Software Engineering<br/>  
+**Julia Jaklin**, student assistant, Vienna University of Technology, Information, Software Engineering  
+**Pouya Far**, student assistant, Vienna University of Technology, Information, Software Engineering  
+[**MA Viktoria Spadinger**](https://www.mediaevistik.uni-bayreuth.de/de/team/Viktoria-Spadinger/index.php), University of Bayreuth, German Medieval Studies  
+
