@@ -14,7 +14,7 @@ ___
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Technische Universität Wien, Information-, Softwareentwicklung    
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich, Musikinformatik  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/formations/doctorat/irina-döring), Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft, Laute  <br/>
-[**Dr. Albert Rafetseder**], Österreichische Nationalbibliothek, Information-, Softwareentwicklung 
+**Dr. Albert Rafetseder**, Österreichische Nationalbibliothek, Information-, Softwareentwicklung 
 **Mag. Martina Bürgermeister, MA**, Österreichische Nationalbibliothek, Forschung und Datenservices      
 **Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik      
 **Maximilian Höller**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung    
@@ -25,7 +25,7 @@ ___
 [**Prof. Dr. Irene Holzer**](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Deutschland, Ludwig-Maximilian-Universität München, Musikwissenschaft  
 [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Deutschland, Universität Bayreuth, Germanistische Mediävistik     
 [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-Universität München, Musikwissenschaft  
-[**PhD Hellmut Braun**], Universität Bayreuth, Germanistische Mediävistik
+**PhD Hellmut Braun**, Universität Bayreuth, Germanistische Mediävistik
  **Selma Göldner**, Universität Bayreuth, Germanistische Mediävistik, stud. Mitarbeiter  
 
 ___
