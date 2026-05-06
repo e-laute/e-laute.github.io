@@ -3,7 +3,7 @@ title: Präsentation
 permalink: /presentation/
 lang: de
 ---
-### Präsentation
+### Über das Projekt
 ___
 ## E-LAUTE: Electronic Linked Annotated Unified Tablature Edition - The Lute in the German-Speaking Area 1450-1550
 Wir erstellen eine umfassende elektronische Edition von Lautentabulaturen (spezielle Notationen für Lauten) aus dem deutschsprachigen Raum zwischen 1450 und 1550. Auf Grund der heute nicht mehr verwendeten Notation (“Deutsche Lautentabulatur”), der über ganz Mitteleuropa verstreuten Aufbewahrungsorte der Manuskripte und der Mangel an ausgearbeiteten, einheitlichen Forschungsmethoden, wurde das Corpus (2.000 Seiten) in seiner Gesamtheit bisher nicht erschlossen und entschlüsselt und konnte somit nur punktuell ausgewertet werden. Es blieb daher sowohl für Wissenschaft und professionelle Musiker als auch für den weiteren Kreis von Interessierten kaum zugänglich.  
