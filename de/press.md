@@ -6,6 +6,7 @@ lang: de
 
 ### Public Engagement in der Wissenschaft  
 
+
 #### E-LAUTE bei der Langen Nacht der Forschung 2026
 
 Im Rahmen der Langen Nacht der Forschung 2026 präsentierte das Projekt E-LAUTE seine Arbeit einem breiten Publikum und bot interaktive Einblicke in historische Musiknotation und digitale musikwissenschaftliche Forschung.
