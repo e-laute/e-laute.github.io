@@ -46,11 +46,11 @@ lang: en
 
 - Kropik C. et al. "E-LAUTE: Conventions for the Presentation of German Texts“, in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
-- Kropik C. et al., "TEI elements used in E-Laute TEI-xml files", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Kropik C., Rosmer S. et al., "TEI elements used in E-Laute TEI-xml files", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
 - Janjuš, O., De Valk, R. et al., "Editorial Guidelines for MEI Editing in the E-LAUTE Project", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
-- Kropik C. et al., "Abbreviations & IDs Conventions", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Kropik C., Rosmer S. et al., "Abbreviations & IDs Conventions", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
 --------------------------------------------------------------------------------
 
