@@ -14,7 +14,7 @@ ___
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Technische Universität Wien, Information-, Softwareentwicklung    
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich, Musikinformatik  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/formations/doctorat/irina-döring), Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft, Laute  <br/>
-**Dr. Albert Rafetseder**, Österreichische Nationalbibliothek, Information-, Softwareentwicklung 
+**Dr. Albert Rafetseder**, Österreichische Nationalbibliothek, Information-, Softwareentwicklung  
 **Mag. Martina Bürgermeister, MA**, Österreichische Nationalbibliothek, Forschung und Datenservices      
 **Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik      
 **Maximilian Höller**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung    
