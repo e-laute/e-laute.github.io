@@ -45,8 +45,8 @@ ___
 **Eva Schöfer**, student assistant, University of Vienna, Department of Musicology, Musicology (until 31 May 2023)   
 **Mag. Martin Krickl**, Austrian National Library, host, IT (until 15 Jun 2023)    
 **Jochen Schnapka**, student assistant, Ludwig-Maximilian-University Munich, Musicology (until 31 March 2024) 
-[**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), Austrian National Library / Vienna University of Technology, Information, Software Engineering  
-**Julia Jaklin**, student assistant, Vienna University of Technology, Information, Software Engineering  
-**Pouya Far**, student assistant, Vienna University of Technology, Information, Software Engineering  
-[**MA Viktoria Spadinger**](https://www.mediaevistik.uni-bayreuth.de/de/team/Viktoria-Spadinger/index.php), University of Bayreuth, German Medieval Studies  
+[**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), Austrian National Library / Vienna University of Technology, Information, Software Engineering (until 28 February 2026)  
+**Julia Jaklin**, student assistant, Vienna University of Technology, Information, Software Engineering (until 28 February 2026)  
+**Pouya Far**, student assistant, Vienna University of Technology, Information, Software Engineering (until 28 February 2026)  
+[**MA Viktoria Spadinger**](https://www.mediaevistik.uni-bayreuth.de/de/team/Viktoria-Spadinger/index.php), University of Bayreuth, German Medieval Studies (until 28 February 2026)  
 
