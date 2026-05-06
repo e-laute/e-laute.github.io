@@ -14,7 +14,7 @@ ___
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology, Information, Software Engineering      
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Copenhagen/Austria, Music Informatics  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/formations/doctorat/irina-döring), University of Vienna, Department of Musicology, Musicology, Lute   
-**Dr. Albert Rafetseder**, Austrian National Library, Information-, Information, Software Engineering  
+**Dr. Albert Rafetseder**, Austrian National Library, Information, Software Engineering  
 **Mag. Martina Bürgermeister, MA**, Austrian National Library, Research and Datenservices      
 **Henning Burghoff**, student assistant, University of Vienna, Department of Musicology, Musicology / Music Informatics           
 **Maximilian Höller**, student assistant, Vienna University of Technology, Information, Software Engineering   
