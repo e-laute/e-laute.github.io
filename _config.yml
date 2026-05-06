@@ -11,8 +11,8 @@ languages: ["en", "de"]
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: false
 presentation:
-  de: Präsentation
-  en: Presentation
+  de: Über das Projekt
+  en: About the project
 
 project:
   de: Das Projekt
@@ -43,8 +43,8 @@ single_presentations:
   en: Presentations
 
 press:
-  de: Presse über uns
-  en: Press about us
+  de: Öffentliche Aktivitäten
+  en: Public activities
 
 collab:
   de: Zur kollaborativen Edition
