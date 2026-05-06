@@ -45,8 +45,8 @@ ___
 **BA Barbara Recheis**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft (bis zum 31. 5. 2024)  
 **Eva Schöfer**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft (bis zum 31. 5. 2023)   
 **Jochen Schnapka**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft (bis zum 31.3.2024)  
-[**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), ÖNB / Technische Universität Wien, Information-, Softwareentwicklung (bis zum 28.2.2025)
-**Julia Jaklin**, stud. Mitarbeiterin, Technische Universität Wien, Information-, Softwareentwicklung  (bis zum 28.2.2025)
+[**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), ÖNB / Technische Universität Wien, Information-, Softwareentwicklung (bis zum 28.2.2025)  
+**Julia Jaklin**, stud. Mitarbeiterin, Technische Universität Wien, Information-, Softwareentwicklung  (bis zum 28.2.2025)  
 **Pouya Far**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung  
 [**MA Viktoria Spadinger**](https://www.mediaevistik.uni-bayreuth.de/de/team/Viktoria-Spadinger/index.php), Universität Bayreuth, Germanistische Mediävistik  (bis zum 28.2.2025)
 
