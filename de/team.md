@@ -24,7 +24,7 @@ ___
 #### Deutschland
 [**Prof. Dr. Irene Holzer**](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Deutschland, Ludwig-Maximilian-Universität München, Musikwissenschaft  
 [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Deutschland, Universität Bayreuth, Germanistische Mediävistik     
-[**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-Universität München, Musikwissenschaft
+[**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-Universität München, Musikwissenschaft 
 [**PhD Hellmut Braun**], Universität Bayreuth, Germanistische Mediävistik
  **Selma Göldner**, Universität Bayreuth, Germanistische Mediävistik, stud. Mitarbeiter  
 
