@@ -12,7 +12,7 @@ Im Rahmen der Langen Nacht der Forschung 2026 präsentierte das Projekt E-LAUTE 
 
 An zwei Standorten in Wien hatten Besucher:innen die Möglichkeit, die Methoden und Materialien des Projekts zu entdecken, selbst auszuprobieren und aktiv mit ihnen zu arbeiten.
 
-##### 🟥 Universität Wien – Mitmachstation
+**🟥 Universität Wien – Mitmachstation**
 
 **Selbst ausprobieren: Lautentabulaturen entdecken**
 
@@ -22,7 +22,7 @@ Ein eigener Bereich für Kinder bot Rätsel und spielerische Aktivitäten, die e
 
 Das interaktive Format ermöglichte es Besucher:innen aller Altersgruppen zu erleben, wie Musik in vergangenen Jahrhunderten festgehalten und weitergegeben wurde.
 
-##### 🟥 mdw – Workshop
+**🟥 mdw – Workshop**
 
 **Hören, Lesen, Verstehen: Musik neu entdecken**
 
