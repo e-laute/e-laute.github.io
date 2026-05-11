@@ -25,9 +25,9 @@ Im Rahmen der eigens dem Projekt gewidmeten Session „The E-LAUTE Project“, p
 
 **Reinier De Valk – The state of affairs in 2026**
 
-**Irina Döring – "Reconstructing and Encoding Lost and Unclear Information"**
+**Irina Döring – „Reconstructing and Encoding Lost and Unclear Information"**
 
-**Silas Bischoff – "The "Regensburg diagram" - An Enigmatic Draft for Intabulating Mensural Notation"**
+**Silas Bischoff – „The "Regensburg diagram" - An Enigmatic Draft for Intabulating Mensural Notation"**
 
 [Mehr Information und vorläufiges Programm hier](https://medren2026.uw.edu.pl/programme/)
 
