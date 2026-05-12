@@ -16,7 +16,7 @@ ________________________________________________________________________________
 ### Bevorstehende Präsentationen
 
 #### E-LAUTE at MEC 2026 (Music Encoding Conference) in Japan
-#### Donnerstag, 28. Mai 2026, ca. 13:00 Uhr JST / 06:00 Uhr MESZ, Morito Memorial Hall (森戸記念館) der Tokyo University of Science
+**Donnerstag, 28. Mai 2026, ca. 13:00 Uhr JST / 06:00 Uhr MESZ, Morito Memorial Hall (森戸記念館) der Tokyo University of Science**
 
 David Weigl, Julia Jaklin und Henning Burghoff aus dem E-LAUTE-Projekt präsentieren am zweiten Konferenztag ihren Beitrag „GitHub Actions in Action: Workflow Automation for Digital Music Research and Editions“ im Rahmen der Session „Managing and Cataloguing Music Data“ (12:00–13:30 JST / 05:00–06:30 MESZ).
 
@@ -27,7 +27,7 @@ Abstract (Englisch): Digital scholarly editions increasingly depend on structure
 ---
 
 #### E-LAUTE auf der Medieval and Renaissance Music Conference 2026 in Warschau
-#### Dienstag 7. Juli 2026, 9:30–11:30, altes Gebäude der Universitätsbibliothek (Old University Library Building), Universität Warschau
+**Dienstag 7. Juli 2026, 9:30–11:30, altes Gebäude der Universitätsbibliothek (Old University Library Building), Universität Warschau**
 
 Mitglieder des E-LAUTE-Projekts werden an der Medieval and Renaissance Music Conference (MedRen 2026) teilnehmen, die vom 6. bis 10. Juli 2026 an der Universität Warschau stattfindet.
 Im Rahmen der eigens dem Projekt gewidmeten Session „The E-LAUTE Project“, präsentieren E-LAUTE-Forschende aktuelle Entwicklungen und laufende Arbeiten des Projekts, mit folgenden Beiträgen:
