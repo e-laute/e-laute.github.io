@@ -22,7 +22,7 @@ David Weigl, Julia Jaklin, and Henning Burghoff of the E-LAUTE project will pres
 
 Abstract: Digital scholarly editions increasingly depend on structured encodings and automated workflows to manage large data collections. In the E-LAUTE project, over fifty GitHub repositories with several thousand MEI encodings are maintained. Different project-specific procedures are required for conversion, validation, clean-up, and post-processing of these encodings. To avoid duplicating code across repositories, we introduce a two-tier system using GitHub Actions: a central repository that stores shared automation logic, and multiple caller repositories containing the encodings themselves. The caller repository dispatches task requests and data to the central repository, which processes the relevant MEI files and commits changes back. Integrated with the mei-friend editor, this setup allows users to trigger project-specific scripts directly from their editing environment, supplying filepaths, XML identifiers, and command-specific parameters through a simple GUI. We detail our approach and provide repository templates to support similar automation in other Digital Humanities projects.
 
-[More information and whole programme here](https://music-encoding.org/conference/2026/program/)
+[More information and full programme here](https://music-encoding.org/conference/2026/program/)
 
 ---
 
