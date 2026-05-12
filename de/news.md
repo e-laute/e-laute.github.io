@@ -13,9 +13,20 @@ ________________________________________________________________________________
 - Dezember 2025: release von [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
   
 ________________________________________________________________________________________
+### Bevorstehende Präsentationen unserer Arbeit
 
-### E-LAUTE auf der Medieval and Renaissance Music Conference 2026 in Warschau
+#### E-LAUTE at MEC 2026 (Music Encoding Conference) in Japan
+#### Donnerstag, 28. Mai 2026, ca. 13:00 Uhr JST / 06:00 Uhr MESZ, Morito Memorial Hall (森戸記念館) der Tokyo University of Science
 
+David Weigl, Julia Jaklin und Henning Burghoff aus dem E-LAUTE-Projekt präsentieren am zweiten Konferenztag ihren Beitrag „GitHub Actions in Action: Workflow Automation for Digital Music Research and Editions“ im Rahmen der Session „Managing and Cataloguing Music Data“ (12:00–13:30 JST / 05:00–06:30 MESZ).
+
+Abstract (Englisch): Digital scholarly editions increasingly depend on structured encodings and automated workflows to manage large data collections. In the E-LAUTE project, over fifty GitHub repositories with several thousand MEI encodings are maintained. Different project-specific procedures are required for conversion, validation, clean-up, and post-processing of these encodings. To avoid duplicating code across repositories, we introduce a two-tier system using GitHub Actions: a central repository that stores shared automation logic, and multiple caller repositories containing the encodings themselves. The caller repository dispatches task requests and data to the central repository, which processes the relevant MEI files and commits changes back. Integrated with the mei-friend editor, this setup allows users to trigger project-specific scripts directly from their editing environment, supplying filepaths, XML identifiers, and command-specific parameters through a simple GUI. We detail our approach and provide repository templates to support similar automation in other Digital Humanities projects.
+
+[Mehr Information und vollständiges Programm hier ](https://music-encoding.org/conference/2026/program/)
+
+
+
+#### E-LAUTE auf der Medieval and Renaissance Music Conference 2026 in Warschau
 #### Dienstag 7. Juli 2026, 9:30–11:30, altes Gebäude der Universitätsbibliothek (Old University Library Building), Universität Warschau
 
 Mitglieder des E-LAUTE-Projekts werden an der Medieval and Renaissance Music Conference (MedRen 2026) teilnehmen, die vom 6. bis 10. Juli 2026 an der Universität Warschau stattfindet.
