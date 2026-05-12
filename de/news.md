@@ -24,7 +24,7 @@ Abstract (Englisch): Digital scholarly editions increasingly depend on structure
 
 [Mehr Information und vollständiges Programm hier ](https://music-encoding.org/conference/2026/program/)
 
-
+---
 
 #### E-LAUTE auf der Medieval and Renaissance Music Conference 2026 in Warschau
 #### Dienstag 7. Juli 2026, 9:30–11:30, altes Gebäude der Universitätsbibliothek (Old University Library Building), Universität Warschau
