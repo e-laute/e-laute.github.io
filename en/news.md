@@ -13,7 +13,7 @@ ________________________________________________________________________________
 - December 2025: release of [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
   
 ________________________________________________________________________________________
-### Upcoming presentations of our work
+### Upcoming presentations
 
 #### E-LAUTE at MEC 2026 (Music Encoding Conference) in Japan
 #### Thursday 28th May 2026, ca. 13:00pm JST / 6:00am CEST, Morito Memorial Hall (森戸記念館) of the Tokyo University of Science
@@ -24,7 +24,7 @@ Abstract: Digital scholarly editions increasingly depend on structured encodings
 
 [More information and whole programme here](https://music-encoding.org/conference/2026/program/)
 
-
+---
 
 #### E-LAUTE at the Medieval and Renaissance Music Conference 2026 in Warsaw
 #### Tuesday 7th July 2026, 9:30–11:30, Old University Library Building, University of Warsaw
