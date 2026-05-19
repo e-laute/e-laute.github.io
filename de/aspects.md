@@ -6,6 +6,9 @@ lang: de
 
 ### Publikationen
 
+**2026**
+- 
+
 **2025**
 - Schöning, K., de Valk, R. et al., „A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project", in: *Journal of New Music Research* (01/08/2025), DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593).
 
