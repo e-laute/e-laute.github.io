@@ -6,9 +6,6 @@ lang: de
 
 ### Publikationen
 
-**2026**
-- 
-
 **2025**
 - Schöning, K., de Valk, R. et al., „A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project", in: *Journal of New Music Research* (01/08/2025), DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593).
 
@@ -56,15 +53,15 @@ lang: de
 
 #### Veröffentlichte Abstracts / kleinere Beiträge
 
-2025
+**2025**
 - Steindl, C., Schöning, K., „E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: <https://doi.org/10.5281/zenodo.14887461>.
 
-2024
+**2024**
 - Weigl, D., „Introduction. Interplay in the Corpora of German Lute Tablature", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
 - Bischoff, S., „German Lute Tablature - Truly a German invention or a souvenir from other music cultures?’, Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
 - Janjuš, O., „See the bigger picture? - Applying computational approaches to tablature data sets", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
-2023
+**2023**
 - de Valk, R., Burghoff, H., Schöning, K., „The edition-project ,E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition – The lute in the German-Speaking Area 1450–1550’“ (Poster), Medieval and Renaissance Music Conference (MedRen), München, 24.–28.7.2023, <https://medren2023.com>.
