@@ -11,7 +11,7 @@ lang: de
 
 - Christoph Steindl, Kateryna Schöning, „E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.–6.3.2025, <https://dhd2025.dig-hum.de>.
 
-- David Lewis, Olja Janjuš, Reinier De Valk, David M. Weigl, Tim Crawford, Paul Overell, and Kateryna Schöning, „,Mein vleis und mue’: MEI support for lute tablatures", Music Encoding Conference (MEC) 2025 Proceedings London, 3.–5.6.2025, <https://music-encoding.org/conference/2025/>.
+- David Lewis, Olja Janjuš, Reinier de Valk, David M. Weigl, Tim Crawford, Paul Overell, and Kateryna Schöning, „,Mein vleis und mue’: MEI support for lute tablatures", Music Encoding Conference (MEC) 2025 Proceedings London, 3.–5.6.2025, <https://music-encoding.org/conference/2025/>.
 
 - Ilias Kyriazis, „E-LAUTE: incorporating multifaceted music representations and Semantic Web technologies into the Austrian National Library’s digital edition of lute tablatures", International Association of Music Libraries, Archives and Documentation Centers (IAML), Salzburg, 6.–11.7.2025, <https://iaml2025.at>.
 
@@ -43,7 +43,7 @@ lang: de
 
 - Reinier de Valk, Henning Burghoff, Kateryna Schöning, „The edition-project ,E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition – The lute in the German-Speaking Area 1450–1550’“ (Poster), Medieval and Renaissance Music Conference (MedRen), München, 24.–28.7.2023, <https://medren2023.com>.
 
-- Reinier De Valk, Kateryna Schöning, David M. Weigl, David Lewis, Tim Crawford, Marc Lewon, Paul Overell, „,Ain schone kunstliche Underweisung’: Modelling German lute tablature in MEI", Encoding Cultures: Joint MEC and TEI Conference 2023 Abstracts (MEC/TEI), 4.–9.9.2023, <https://teimec2023.uni-paderborn.de>.
+- Reinier de Valk, Kateryna Schöning, David M. Weigl, David Lewis, Tim Crawford, Marc Lewon, Paul Overell, „,Ain schone kunstliche Underweisung’: Modelling German lute tablature in MEI", Encoding Cultures: Joint MEC and TEI Conference 2023 Abstracts (MEC/TEI), 4.–9.9.2023, <https://teimec2023.uni-paderborn.de>.
 
 - Birgit Lodes, Kateryna Schöning, „About Digital and Hybrid Editions on Example of the ,Denkmäler der Tonkunst in Österreich’“, Institución Milá y Fontanals de Investigación en Humanidades-CSIC, COST Action 21161 – A new ecosystem of early music studies (EarlyMuse), WG3 ‘Publications’, Barcelona, 19.–20.9.2023
 
