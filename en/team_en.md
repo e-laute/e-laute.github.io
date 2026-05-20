@@ -16,7 +16,7 @@ ___
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/membre/doring-irina/), University of Vienna, Department of Musicology, Musicology, Lute   
 **Dr. Albert Rafetseder**, Austrian National Library, Information, Software Engineering  
 **Mag. Martina Bürgermeister, MA**, Austrian National Library, Research and Datenservices   
-**PhD Maximilian Höller**, student assistant, Vienna University of Technology, Information, Software Engineering  
+**PhD Maximilian Höller**, Vienna University of Technology, Information, Software Engineering  
 **Henning Burghoff**, student assistant, University of Vienna, Department of Musicology, Musicology / Music Informatics           
 **Montserrat Zamora**, student assistant, University of Vienna, Department of Musicology, Musicology
 
