@@ -40,7 +40,7 @@ lang: en
 --------------------------------------------------------------------------------
 #### Publications within the project
 
-- Schöning, K., Kropik, C. et al.‚ "E-LAUTEdb: Database conventions", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Schöning, K., Kropik, C. et al.‚ "E-LAUTEdb: Database conventions", in: *E-LAUTE*, 20.7.2025. [Download PDF here](https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/EDITORIAL_CONVENTIONS_TAB_CMN/content)
 
 - Schöning, K., Bischoff, S. et al., "E-LAUTE: Editorial conventions (Tablatures, CMN)“, in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
 
