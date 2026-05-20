@@ -7,14 +7,14 @@ lang: de
 ### Publikationen
 
 **2025**
-- Schöning, K., De Valk, R. et al., „A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project", in: *Journal of New Music Research* (01/08/2025), DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593).
+- Schöning, K., De Valk, R. et al., „A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project", in: *Journal of New Music Research*, 2025, DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593).
 
-- Rosmer, S., Weigl, D. M., „Editing premodern German song texts within a musicological edition platform: challenges and possibilities", in: *Philologia Hispalensis* (2025). Peer-reviewed und angenommen am 03.04.2025; erscheint voraussichtlich Herbst 2025.
+- Rosmer, S., Weigl, D. M., „Editing premodern German song texts within a musicological edition platform: challenges and possibilities", in: *Philologia Hispalensis*, 2025.
 
 
 **Mit Beiträgen von E-LAUTE-Autor:innen:**
 
-- [Weigl, D. M.]&#58; Frans Wiering (Hrsg.), *Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy* (Utrecht University, 2025), 73 S.,  
+- [Weigl, D. M.]&#58; Frans Wiering (Hrsg.), *Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy*, Utrecht University, 2025, 73 S.,  
   DOI: [10.5281/zenodo.17543932](https://doi.org/10.5281/zenodo.17543932).
 
 
