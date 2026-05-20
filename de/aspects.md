@@ -56,6 +56,8 @@ lang: de
 **2025**
 - Steindl, C., Schöning, K., „E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: <https://doi.org/10.5281/zenodo.14887461>.
 
+- Lewis, D., Janjuš, O., De Valk, R., Weigl, D. M., Crawford, T., Overell, P. and Schöning, K., „,Mein vleis und mue’: MEI support for lute tablatures", Music Encoding Conference (MEC) 2025 Proceedings, London, 3.–5.6.2025, https://music-encoding.org/conference/2025/.
+
 **2024**
 - Weigl, D., „Introduction. Interplay in the Corpora of German Lute Tablature", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
@@ -64,4 +66,6 @@ lang: de
 - Janjuš, O., „See the bigger picture? - Applying computational approaches to tablature data sets", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
 **2023**
+- De Valk, R., Schöning, K., Weigl, D. M., Lewis, D., Crawford, T., Lewon, M., Overell, P., „,Ain schone kunstliche Underweisung’: Modelling German lute tablature in MEI", Encoding Cultures: Joint MEC and TEI Conference 2023 Abstracts (MEC/TEI), Paderborn, 4.–9.9.2023, https://teimec2023.uni-paderborn.de.
+
 - De Valk, R., Burghoff, H., Schöning, K., „The edition-project ,E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition – The lute in the German-Speaking Area 1450–1550’“ (Poster), Medieval and Renaissance Music Conference (MedRen), München, 24.–28.7.2023, <https://medren2023.com>.
