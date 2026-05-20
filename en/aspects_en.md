@@ -57,7 +57,8 @@ lang: en
 #### Published abstracts / short contributions
 
 **2025**
-- Steindl, C., Schöning, K., "E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: <https://doi.org/10.5281/zenodo.14887461>.
+- Steindl, C., Schöning, K., "E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: <https://doi.org/10.5281/zenodo.14887461>.  
+
 - Lewis, D., Janjuš, O., De Valk, R., Weigl, D. M., Crawford, T., Overell, P. and Schöning, K., „,Mein vleis und mue’: MEI support for lute tablatures", Music Encoding Conference (MEC) 2025 Proceedings, London, 3.–5.6.2025, https://music-encoding.org/conference/2025/.
 
 **2024**
