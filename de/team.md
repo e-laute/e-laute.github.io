@@ -15,9 +15,9 @@ ___
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich, Musikinformatik  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/membre/doring-irina/), Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft, Laute  <br/>
 **Dr. Albert Rafetseder**, Österreichische Nationalbibliothek, Information-, Softwareentwicklung  
-**Mag. Martina Bürgermeister, MA**, Österreichische Nationalbibliothek, Forschung und Datenservices      
+**Mag. Martina Bürgermeister, MA**, Österreichische Nationalbibliothek, Forschung und Datenservices  
+**PhD Maximilian Höller**, Technische Universität Wien, Information-, Softwareentwicklung    
 **Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik      
-**Maximilian Höller**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung    
 **Montserrat Zamora**, stud. Mitarbeiterin, Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft   
 
 ___
