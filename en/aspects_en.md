@@ -40,17 +40,17 @@ lang: en
 --------------------------------------------------------------------------------
 #### Publications within the project
 
-- Schöning, K., Kropik, C. et al.‚ "E-LAUTEdb: Database conventions", in: *E-LAUTE*, 20.7.2025. [Download as PDF here](https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/EDITORIAL_CONVENTIONS_TAB_CMN/content)
+- Schöning, K., Kropik, C. et al.‚ "E-LAUTEdb: Database conventions", in: *E-LAUTE*, 20.7.2025. [Download as PDF here](https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/DB_CONVENTIONS/content)
 
-- Schöning, K., Bischoff, S. et al., "E-LAUTE: Editorial conventions (Tablatures, CMN)“, in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Schöning, K., Bischoff, S. et al., "E-LAUTE: Editorial conventions (Tablatures, CMN)“, in: *E-LAUTE*, 20.7.2025. [Download as PDF here](https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/EDITORIAL_CONVENTIONS_TAB_CMN/content)
 
-- Kropik, C. et al. "E-LAUTE: Conventions for the Presentation of German Texts“, in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Kropik, C. et al. "E-LAUTE: Conventions for the Presentation of German Texts“, in: *E-LAUTE*, 20.7.2025. [Download as PDF here](https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/TEXT_CONVENTIONS/content)
 
-- Kropik, C., Rosmer, S. et al., "TEI elements used in E-Laute TEI-xml files", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Kropik, C., Rosmer, S. et al., "TEI elements used in E-Laute TEI-xml files", in: *E-LAUTE*, 20.7.2025. [Download as PDF here](https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/TEI_CONVENTIONS/content)
 
-- Janjuš, O., De Valk, R. et al., "Editorial Guidelines for MEI Editing in the E-LAUTE Project", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Janjuš, O., De Valk, R. et al., "Editorial Guidelines for MEI Editing in the E-LAUTE Project", in: *E-LAUTE*, 20.7.2025. [Download as PDF here](https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/MEI_CONVENTIONS/content)
 
-- Kropik, C., Rosmer, S. et al., "Abbreviations & IDs Conventions", in: *E-LAUTE*, https://edition.onb.ac.at/context:elaute, 20.7.2025.
+- Kropik, C., Rosmer, S. et al., "Abbreviations & IDs Conventions", in: *E-LAUTE*, 20.7.2025. [Download as PDF here](https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/ABBREVIATIONS/content)
 
 --------------------------------------------------------------------------------
 
