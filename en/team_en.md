@@ -26,7 +26,7 @@ ___
  [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Germany, University of Bayreuth, German Medieval Studies       
  [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-University Munich, Musicology  
  **PhD Hellmut Braun**, University of Bayreuth, German Medieval Studies    
- **Selma Göldner**, University of Bayreuth, German Medieval Studies, student assistant 
+ **Selma Göldner**, student assistant, University of Bayreuth, German Medieval Studies,  
 
 ---
 #### Switzerland
