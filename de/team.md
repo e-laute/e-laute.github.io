@@ -25,15 +25,15 @@ ___
 [**Prof. Dr. Irene Holzer**](https://www.musikwissenschaft.uni-muenchen.de/personen/professoren/holzer/index.html), PI Deutschland, Ludwig-Maximilian-Universität München, Musikwissenschaft  
 [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Deutschland, Universität Bayreuth, Germanistische Mediävistik     
 [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-Universität München, Musikwissenschaft  
-**PhD Hellmut Braun**, Universität Bayreuth, Germanistische Mediävistik
- **Selma Göldner**, Universität Bayreuth, Germanistische Mediävistik, stud. Mitarbeiter  
+**PhD Hellmut Braun**, Universität Bayreuth, Germanistische Mediävistik  
+**Selma Göldner**, stud. Mitarbeiterin, Universität Bayreuth, Germanistische Mediävistik, 
 
 ___
 #### Schweiz
 [**Prof. Dr. Martin Kirnbauer**](https://www.fhnw.ch/de/personen/martin-kirnbauer), PI Schweiz, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis   
 [**Prof. Dr. Marc Lewon**](https://www.fhnw.ch/de/personen/marc-lewon), Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)  
 **PhD Silas Bischoff**, Schola Cantorum Basiliensis / FHNW Basel, Musikwissenschaft und Aufführungspraxis (Laute)  
-**Andrea Bauer**, stud. Mitarbeiter, Musikwissenschaft
+**Andrea Bauer**, stud. Mitarbeiterin, Musikwissenschaft
 
 ___
 ##### Former team members:  
