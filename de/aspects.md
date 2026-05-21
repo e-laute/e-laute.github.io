@@ -25,11 +25,11 @@ lang: de
 
 - De Valk, R., „AbsoLutely Tabulous – A toolbox for computational processing and analysis of music in lute tablature", Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges (ECHOS / CESEM) Lissabon, 27.6.–29.6.2024. Vollständiger Beitrag auf der Konferenz vorgestellt.
 
-- Weigl, D., "Introduction. Interplay in the Corpora of German Lute Tablature", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
+- Weigl, D., „Introduction. Interplay in the Corpora of German Lute Tablature", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
-- Bischoff, S., "German Lute Tablature - Truly a German invention or a souvenir from other music cultures?’, Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
+- Bischoff, S., „German Lute Tablature - Truly a German invention or a souvenir from other music cultures?’, Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
-- Janjuš, O., "See the bigger picture? - Applying computational approaches to tablature data sets", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
+- Janjuš, O., „See the bigger picture? - Applying computational approaches to tablature data sets", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
 
 
