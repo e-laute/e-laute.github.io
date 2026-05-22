@@ -10,8 +10,8 @@ ___
 #### Austria
 [**PD Dr. Kateryna Schöning**](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), Head, PI Austria, University of Vienna, Department of Musicology, Musicology    
 [**Dr. David M. Weigl**](https://iwk.mdw.ac.at/david-weigl), Data Officer, University of Music and Performing Arts Vienna, Web Science and Music Informatics    
-[**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Austrian National Library, Research and Data Services
-[**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology, Information, Software Engineering      
+[**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Austrian National Library, Research and Data Services  
+[**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Vienna University of Technology, Information, Software Engineering     
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Copenhagen/Austria, Music Informatics  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/membre/doring-irina/), University of Vienna, Department of Musicology, Musicology, Lute   
 **Dr. Albert Rafetseder**, Austrian National Library, Research and Data Services  
