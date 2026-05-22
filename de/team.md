@@ -10,12 +10,12 @@ ___
 #### Österreich
 [**PD Dr. Kateryna Schöning**](https://musikwissenschaft.univie.ac.at/ueber-uns/team/schoening/), Leitung, PI Österreich, Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft  
 [**Dr. David M. Weigl**](https://iwk.mdw.ac.at/david-weigl), Data Officer, Universität für Musik und darstellender Kunst Wien, Web Science und Musikinformatik  
-[**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Österreichische Nationalbibliothek, Forschungs und Datenservices, host IT  
+[**DI Christoph Steindl**](https://www.onb.ac.at/forschung/forschungsblog/artikel/digitale-editionen-an-der-oesterreichischen-nationalbibliothek-eine-infrastruktur), Österreichische Nationalbibliothek, Forschung und Datenservices, host IT  
 [**Prof. Dr. Andreas Rauber**](https://informatics.tuwien.ac.at/people/andreas-rauber), Technische Universität Wien, Information-, Softwareentwicklung    
 [**Dr. Reinier de Valk**](https://scholar.google.com/citations?user=V2Vd9b0AAAAJ), Kopenhagen/Österreich, Musikinformatik  
 [**Dr. Irina Döring**](https://cesr.cnrs.fr/membre/doring-irina/), Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft, Laute  <br/>
-**Dr. Albert Rafetseder**, Österreichische Nationalbibliothek, Information-, Softwareentwicklung  
-**Mag. Martina Bürgermeister, MA**, Österreichische Nationalbibliothek, Forschung und Datenservices  
+**Dr. Albert Rafetseder**, Österreichische Nationalbibliothek, Forschung und Datenservices  
+**Dr. Martina Bürgermeister**, Österreichische Nationalbibliothek, Forschung und Datenservices  
 **PhD Maximilian Höller**, Technische Universität Wien, Information-, Softwareentwicklung    
 **Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik      
 **Montserrat Zamora**, stud. Mitarbeiterin, Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft   
@@ -44,7 +44,7 @@ ___
 **Mag. Martin Krickl**, Österreichische Nationalbibliothek, host, IT (bis zum 15. 6. 2023)  
 **BA Barbara Recheis**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft (bis zum 31. 5. 2024)  
 **Eva Schöfer**, stud. Mitarbeiterin, Universität Wien, Musikwissenschaft (bis zum 31. 5. 2023)   
-**Jochen Schnapka**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft (bis zum 31.3.2024)  
+**Jochen Schnapka**, stud. Mitarbeiter, Ludwig-Maximilian-Universität München, Musikwissenschaft (bis zum 31.3.2024)   
 [**PhD Ilias Kyriazis**](https://www.ikyriazis.com/), ÖNB / Technische Universität Wien, Information-, Softwareentwicklung (bis zum 28.2.2025)  
 **Julia Jaklin**, stud. Mitarbeiterin, Technische Universität Wien, Information-, Softwareentwicklung  (bis zum 17.3.2025)  
 **Pouya Far**, stud. Mitarbeiter, Technische Universität Wien, Information-, Softwareentwicklung (bis zum 28.2.2025)   
