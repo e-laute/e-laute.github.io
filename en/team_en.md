@@ -17,8 +17,8 @@ ___
 **Dr. Albert Rafetseder**, Austrian National Library, Research and Data Services  
 **Dr. Martina Bürgermeister**, Austrian National Library, Research and Data Services  
 **PhD Maximilian Höller**, Vienna University of Technology, Information, Software Engineering  
-**Henning Burghoff**, student assistant, University of Vienna, Department of Musicology, Musicology / Music Informatics           
-**Montserrat Zamora**, student assistant, University of Vienna, Department of Musicology, Musicology
+**BA Henning Burghoff**, student assistant, University of Vienna, Department of Musicology, Musicology / Music Informatics           
+**BA Montserrat Zamora**, student assistant, University of Vienna, Department of Musicology, Musicology
 
 ---
 #### Germany
