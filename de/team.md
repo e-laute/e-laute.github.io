@@ -17,8 +17,8 @@ ___
 **Dr. Albert Rafetseder**, Österreichische Nationalbibliothek, Forschung und Datenservices  
 **Dr. Martina Bürgermeister**, Österreichische Nationalbibliothek, Forschung und Datenservices  
 **PhD Maximilian Höller**, Technische Universität Wien, Information-, Softwareentwicklung    
-**Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik      
-**Montserrat Zamora**, stud. Mitarbeiterin, Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft   
+**BA Henning Burghoff**, stud. Mitarbeiter, Universität Wien, Musikwissenschaft / Musikinformatik      
+**BA Montserrat Zamora**, stud. Mitarbeiterin, Universität Wien, Institut für Musikwissenschaft, Musikwissenschaft   
 
 ___
 #### Deutschland
@@ -26,7 +26,7 @@ ___
 [**Prof. Dr. Cordula Kropik**](https://www.mediaevistik.uni-bayreuth.de/de/team/Kropik-Cordula/index.php), PI Deutschland, Universität Bayreuth, Germanistische Mediävistik     
 [**PhD Olja Janjuš**](https://www.musikwissenschaft.uni-muenchen.de/personen/mitarbeiter/janjus/index.html), Ludwig-Maximilian-Universität München, Musikwissenschaft  
 **PhD Hellmut Braun**, Universität Bayreuth, Germanistische Mediävistik  
-**Selma Göldner**, stud. Mitarbeiterin, Universität Bayreuth, Germanistische Mediävistik, 
+**Selma Göldner**, stud. Mitarbeiterin, Universität Bayreuth, Germanistische Mediävistik  
 
 ___
 #### Schweiz
