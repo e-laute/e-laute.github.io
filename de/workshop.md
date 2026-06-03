@@ -114,19 +114,17 @@ Unsere Gäste und Respondenten:
 **Prof. Frauke Jürgensen**, mdw Wien    
 
 
-<div> 
-<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png" target="_blank">
-<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png" style="width:50%"/>
+<div style="display:flex; flex-wrap:wrap;">
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png" target="_blank" style="flex:0 0 50%; box-sizing:border-box; padding:5px;">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_1.png" style="width:100%"/>
 </a>
-<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png" target="_blank">
-<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png" style="width:50%"/>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png" target="_blank" style="flex:0 0 50%; box-sizing:border-box; padding:5px;">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_2.png" style="width:100%"/>
 </a>
-
-<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png" target="_blank">
-<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png" style="width:50%"/>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png" target="_blank" style="flex:0 0 50%; box-sizing:border-box; padding:5px;">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_3.png" style="width:100%"/>
 </a>
-
-<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png" target="_blank">
-<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png" style="width:50%"/>
+<a href="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png" target="_blank" style="flex:0 0 50%; box-sizing:border-box; padding:5px;">
+<img src="https://e-laute.info/assets/img/Kick-off_3–4.7.23_programm_de_4.png" style="width:100%"/>
 </a>
 </div>
