@@ -17,6 +17,8 @@ lang: en
 
 - Marc Lewon, "Don’t be afraid... of German Lute Tablature", Round table contribution, American Musicological Society (AMS) Annual Meeting, Minneapolis, 6–9.11.2025. Short contribution on the use of historical notation in teaching, with reference to the E-LAUTE project.
 
+- Kateryna Schöning, Ilias Kyriazis, „E-LAUTE: An Electronic Linked Annotated Unified Tablature Edition", Digital Critical Editions in Music, 10.12.2025, <https://zti.hu/en/119-zti-esemenyek/2025/1406-digital-critical-editions-in-music-4-online-workshop-2>.
+
 ---
 **2024**
 - David M. Weigl, Olja Janjuš, Reinier de Valk, Kateryna Schöning, "Encoding strategies for notations combining text and music", International Association of Music Libraries, Archives and Documentation Centers (IAML), Stellenbosch, South Africa, 23.–28.6.2024, <https://iaml2024.sun.ac.za>.
