@@ -29,10 +29,6 @@ lang: en
 
 - Janjuš, O., "See the bigger picture? - Applying computational approaches to tablature data sets", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
-
-**2023**
-- De Valk, R., Schöning, K., Weigl, D. M., Lewis, D., Crawford, T., Lewon, M., Overell, P., "'Ain schone kunstliche Underweisung': Modelling German lute tablature in MEI", Encoding Cultures: Joint MEC and TEI Conference 2023 Abstracts (MEC/TEI), 4.9–9.9.2023, <https://teimec2023.uni-paderborn.de>.
-
 --------------------------------------------------------------------------------
 
 **[Publication of music editions via the platform](https://edition.onb.ac.at/context:elaute)**
@@ -69,5 +65,7 @@ lang: en
 - Janjuš, O., "See the bigger picture? - Applying computational approaches to tablature data sets", Medieval and Renaissance Music Conference (MedRen), Granada, 6.7.–9.7.2024, <https://www.medren2024.com>.
 
 **2023**
-- De Valk, R., Burghoff, H., Schöning, K., "The edition-project ,E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition – The lute in the German-Speaking Area 1450–1550’“ (Poster), Medieval and Renaissance Music Conference (MedRen), München, 24.–28.7.2023, <https://medren2023.com>.
+- De Valk, R., Burghoff, H., Schöning, K., "The edition-project ,E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition – The lute in the German-Speaking Area 1450–1550’“ (Poster), Medieval and Renaissance Music Conference (MedRen), München, 24.–28.7.2023, <https://medren2023.com>.  
+
+- De Valk, R., Schöning, K., Weigl, D. M., Lewis, D., Crawford, T., Lewon, M., Overell, P., "'Ain schone kunstliche Underweisung': Modelling German lute tablature in MEI", Encoding Cultures: Joint MEC and TEI Conference 2023 Abstracts (MEC/TEI), 4.9–9.9.2023, <https://teimec2023.uni-paderborn.de>.  
 
