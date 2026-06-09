@@ -9,7 +9,7 @@ lang: en
 **2026**
 - Kyriazis, I., "E-LAUTE: Eine digitale Musikedition an der
 Schnittstelle von Datenkuration, Musikcodierung und dem Semantic Web", in: *Forum Musikbibliothek : Beiträge und Informationen aus der
-musikbibliothekarischen Praxis* 47_(2), 7–13, Beeskow: ortus Musikverlag 2026.
+musikbibliothekarischen Praxis* 47/2, 7–13, Beeskow: ortus Musikverlag 2026.
 
 **2025**
 - Schöning, K., De Valk, R. et al., "A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project", in: *Journal of New Music Research*, 2025, DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593)
