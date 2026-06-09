@@ -18,11 +18,11 @@ musikbibliothekarischen Praxis* 47_(2), 7–13, Beeskow: ortus Musikverlag 2026.
 
 **With contributions by E-LAUTE authors:**
 
-- [David, M. Weigl]&#58; Frans Wiering (ed.), *Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy*, Utrecht University, 2025, 73 pp., DOI: [10.5281/zenodo.17543932](https://doi.org/10.5281/zenodo.17543932)
+- [David, M. Weigl]&#58; Frans Wiering (ed.), *Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy*, Utrecht University, 73 pp., 2025, DOI: [10.5281/zenodo.17543932](https://doi.org/10.5281/zenodo.17543932)
 
 
 **2024**
-- Puentes-Blanco, A., Kokole, M., Vendrix, P., Gembero-Ustárroz, M, Herissone, R., Troelsgård, C., Grabnar, K., Lodes, B., Schöning, K., Vrbanić, V., "The monumental edition in the digital age: creating a sustainable future", in: *Journal of New Music Research* (2024), pp. 1–13, DOI: [10.1080/09298215.2024.2373998](https://doi.org/10.1080/09298215.2024.2373998)
+- Puentes-Blanco, A., Kokole, M., Vendrix, P., Gembero-Ustárroz, M, Herissone, R., Troelsgård, C., Grabnar, K., Lodes, B., Schöning, K., Vrbanić, V., "The monumental edition in the digital age: creating a sustainable future", in: *Journal of New Music Research*, 1–13, 2024, DOI: [10.1080/09298215.2024.2373998](https://doi.org/10.1080/09298215.2024.2373998)
 
 - Goebl, W., Weigl, D. M., "mei-friend: An Interactive Web-based Editor for Digital Music Encodings", in: *Journal of Open Source Software* 9/98, 2024.
 
