@@ -9,12 +9,12 @@ lang: de
 **2026**
 - Kyriazis, I., „E-LAUTE: Eine digitale Musikedition an der
 Schnittstelle von Datenkuration, Musikcodierung und dem Semantic Web", in: *Forum Musikbibliothek : Beiträge und Informationen aus der
-musikbibliothekarischen Praxis* 47/2, 7–13, Beeskow: ortus Musikverlag 2026.
+musikbibliothekarischen Praxis* 47/2 (2026), 7–13, Beeskow: ortus Musikverlag.
 
 **2025**
-- Schöning, K., De Valk, R. et al., „A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project", in: *Journal of New Music Research*, 2025, DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593).
+- Schöning, K., De Valk, R. et al., „A Collaborative Digital Edition of 15th- and 16th-Century German Lute Tablature: The E-LAUTE Project", in: *Journal of New Music Research* (2025), DOI: [10.1080/09298215.2024.2445593](https://doi.org/10.1080/09298215.2024.2445593).
 
-- Rosmer, S., Weigl, D. M., „Editing premodern German song texts within a musicological edition platform: challenges and possibilities", in: *Philologia Hispalensis*, 2025.
+- Rosmer, S., Weigl, D. M., „Editing premodern German song texts within a musicological edition platform: challenges and possibilities", in: *Philologia Hispalensis* (2025).
 
 
 **Mit Beiträgen von E-LAUTE-Autor:innen:**
@@ -23,9 +23,9 @@ musikbibliothekarischen Praxis* 47/2, 7–13, Beeskow: ortus Musikverlag 2026.
 
 
 **2024**
-- Puentes-Blanco, A., Kokole, M., Vendrix, P., Gembero-Ustárroz, M, Herissone, R., Troelsgård, C., Grabnar, K., Lodes, B., Schöning, K., Vrbanić, V., „The monumental edition in the digital age: creating a sustainable future", in: *Journal of New Music Research*, S. 1–13, 2024, DOI: [10.1080/09298215.2024.2373998](https://doi.org/10.1080/09298215.2024.2373998).
+- Puentes-Blanco, A., Kokole, M., Vendrix, P., Gembero-Ustárroz, M, Herissone, R., Troelsgård, C., Grabnar, K., Lodes, B., Schöning, K., Vrbanić, V., „The monumental edition in the digital age: creating a sustainable future", in: *Journal of New Music Research*, (2024), 1–13, DOI: [10.1080/09298215.2024.2373998](https://doi.org/10.1080/09298215.2024.2373998).
 
-- Goebl, W., Weigl, D. M., „mei-friend: An Interactive Web-based Editor for Digital Music Encodings", in: *Journal of Open Source Software* 9/98, 2024.
+- Goebl, W., Weigl, D. M., „mei-friend: An Interactive Web-based Editor for Digital Music Encodings", in: *Journal of Open Source Software* 9/98 (2024).
 
 - De Valk, R., „AbsoLutely Tabulous – A toolbox for computational processing and analysis of music in lute tablature", Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges (ECHOS / CESEM) Lissabon, 27.6.–29.6.2024. Vollständiger Beitrag auf der Konferenz vorgestellt.
 
