@@ -6,7 +6,7 @@ lang: en
 <!--<img class="left blend" src="/assets/img/Foedera.png" title="© Bayerische Staatsbibliothek](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10206910-6), Andrea Alciato, Emblematum liber, ed. Christianus Wechelus, Paris 1542, S. 20-21. Nach D-Mbs Res. L.eleg. m.35."/>-->
 
 ###  Cooperation Partner
----
+
 [PD Dr. Laurent Pugin](https://rism.digital/organization/contact.html) RISM Digital, Switzerland  
 <img class="left blend" src="/assets/img/RISM.png"/>  
 
@@ -34,10 +34,10 @@ lang: en
 
 <img class="left blend" src="/assets/img/uni-sbg.GIF"/>
 
-
+---
 
 ###  Advisory Board
----
+
 [Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Professorial Research Fellow in Computational Musicology, Goldsmiths University of London, Department of Computing  
 
 [Prof. Dr. John Griffiths](https://www.lavihuela.com/), AM Oficial de la Orden de Isabel la Católica FAHA, Chair [IMS Study Group _Tablature in Western Music_](https://www.musicology.org/networks/sg/tablature), Director-at-Large, International Musicological Society    
