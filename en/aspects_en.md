@@ -57,6 +57,9 @@ musikbibliothekarischen Praxis* 47/2 (2026), 7–13, Beeskow: ortus Musikverlag.
 
 #### Published abstracts / short contributions
 
+**2026**
+- Weigl, D., Jaklin, J. and Burghoff H., “GitHub Actions in Action: Workflow Automation for Digital Music Research and Editions”, Music Encoding Conference (MEC) 2026 Tokyo, 26.5.–29.6.2026, <https://music-encoding.org/conference/2026/program/#may28> 
+
 **2025**
 - Steindl, C., Schöning, K., "E-LAUTE - die Musik abseits der Noten und die Daten abseits der Musik", Digital Humanities im deutschsprachigen Raum (DHd), Universität Bielefeld, 5.3.–6.3.2025, DOI: <https://doi.org/10.5281/zenodo.14887461>.  
 
