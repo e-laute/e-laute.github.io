@@ -47,7 +47,7 @@ lang: en
 
 - Reinier de Valk, "The digital editing of German lute tablature for the E-LAUTE project: Workflows and first results“, The Future of Digital Editions of Music Conference, Newcastle, 28.–30.3.2023.
 
-- Reinier de Valk, Henning Burghoff, Kateryna Schöning, “The edition-project ‘E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition – The lute in the German-Speaking Area 1450–1550’“ (Poster), Medieval and Renaissance Music Conference (MedRen), Munich, 24.–28.7.2023, <https://medren2023.com>.
+- Reinier de Valk, Henning Burghoff, and Kateryna Schöning, “The edition-project ‘E-LAUTE: Electronic Linked, Annotated, and Unified Tablature Edition – The lute in the German-Speaking Area 1450–1550’“ (Poster), Medieval and Renaissance Music Conference (MedRen), Munich, 24.–28.7.2023, <https://medren2023.com>.
 
 - Reinier de Valk, Kateryna Schöning, David M. Weigl, David Lewis, Tim Crawford, Marc Lewon, and Paul Overell, "Ain schone kunstliche Underweisung": Modelling German lute tablature in MEI’, Encoding Cultures: Joint MEC and TEI Conference 2023 Abstracts (MEC/TEI), 4.–9.9.2023, <https://teimec2023.uni-paderborn.de>.
 
