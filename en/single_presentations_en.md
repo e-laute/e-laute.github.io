@@ -6,6 +6,10 @@ lang: en
 
 ### Presentations 
 
+**2026**
+
+- David Weigl, Julia Jaklin and Henning Burghoff, “GitHub Actions in Action: Workflow Automation for Digital Music Research and Editions”, Music Encoding Conference (MEC) 2026 Tokyo, 26.5.–29.6.2026, <https://music-encoding.org/conference/2026/> 
+
 **2025**  
 - Stefan Rosmer, "Deutsche Lieder in Lautentabulaturen. Liedrepertoires und Liedschichten in der ersten Hälfte des 16. Jahrhunderts im Vergleich verschiedener Lied-Medien", Perspectives of Song Research, German Historical Institute in Rome (DHI), 29.1.–31.1.2025, <https://dhi-roma.it/fileadmin/user_upload/pdf-dateien/Veranstaltungsprogramme/2025/20250129-31_Programm_Liedforschung_DHI.pdf>.
 
