@@ -15,17 +15,6 @@ ________________________________________________________________________________
 ________________________________________________________________________________________
 ### Bevorstehende Präsentationen
 
-#### E-LAUTE at MEC 2026 (Music Encoding Conference) in Japan
-**Donnerstag, 28. Mai 2026, ca. 13:00 Uhr JST / 06:00 Uhr MESZ, Morito Memorial Hall (森戸記念館) der Tokyo University of Science**
-
-David Weigl, Julia Jaklin und Henning Burghoff aus dem E-LAUTE-Projekt präsentieren am zweiten Konferenztag ihren Beitrag „GitHub Actions in Action: Workflow Automation for Digital Music Research and Editions“ im Rahmen der Session „Managing and Cataloguing Music Data“ (12:00–13:30 JST / 05:00–06:30 MESZ).
-
-**Abstract (Englisch)**: Digital scholarly editions increasingly depend on structured encodings and automated workflows to manage large data collections. In the E-LAUTE project, over fifty GitHub repositories with several thousand MEI encodings are maintained. Different project-specific procedures are required for conversion, validation, clean-up, and post-processing of these encodings. To avoid duplicating code across repositories, we introduce a two-tier system using GitHub Actions: a central repository that stores shared automation logic, and multiple caller repositories containing the encodings themselves. The caller repository dispatches task requests and data to the central repository, which processes the relevant MEI files and commits changes back. Integrated with the mei-friend editor, this setup allows users to trigger project-specific scripts directly from their editing environment, supplying filepaths, XML identifiers, and command-specific parameters through a simple GUI. We detail our approach and provide repository templates to support similar automation in other Digital Humanities projects.
-
-[Mehr Information und vollständiges Programm hier ](https://music-encoding.org/conference/2026/program/)
-
----
-
 #### E-LAUTE auf der Medieval and Renaissance Music Conference 2026 in Warschau
 **Dienstag 7. Juli 2026, 9:30–11:30, altes Gebäude der Universitätsbibliothek (Old University Library Building), Universität Warschau**
 
@@ -42,35 +31,3 @@ Im Rahmen der eigens dem Projekt gewidmeten Session „The E-LAUTE Project“, p
 
 [Mehr Information und vorläufiges Programm hier](https://medren2026.uw.edu.pl/programme/)
 
-________________________________________________________________________________________  
-
-### E-LAUTE bei der Langen Nacht der Forschung 2026
-
-Im Rahmen der Langen Nacht der Forschung 2026 präsentierte das Projekt E-LAUTE seine Arbeit einem breiten Publikum und bot interaktive Einblicke in historische Musiknotation und digitale musikwissenschaftliche Forschung.
-
-An zwei Standorten in Wien hatten Besucher:innen die Möglichkeit, die Methoden und Materialien des Projekts zu entdecken, selbst auszuprobieren und aktiv mit ihnen zu arbeiten.
-
-#### 🟥 Universität Wien – Mitmachstation
-
-**Selbst ausprobieren: Lautentabulaturen entdecken**
-
-Im Hauptgebäude der Universität Wien (Universitätsring 1, 1010 Wien) lud das E-LAUTE-Team an einer Mitmachstation dazu ein, historische Notationspraktiken aktiv zu erkunden. Besucher:innen konnten Notation am Laptop ausprobieren, eigene Lautentabulaturen mit symbolischen Systemen gestalten und Faksimiles von Handschriften und frühen Drucken aus der Österreichischen Nationalbibliothek betrachten.
-
-Ein eigener Bereich für Kinder bot Rätsel und spielerische Aktivitäten, die es auch jüngeren Besucher:innen ermöglichten, sich auf kreative und niedrigschwellige Weise mit musikalischen Symbolen und Notation vertraut zu machen.
-
-Das interaktive Format ermöglichte es Besucher:innen aller Altersgruppen zu erleben, wie Musik in vergangenen Jahrhunderten festgehalten und weitergegeben wurde.
-
-#### 🟥 mdw – Workshop
-
-**Hören, Lesen, Verstehen: Musik neu entdecken**
-
-Am Campus der mdw (Anton-von-Webern-Platz 1, 1030 Wien) wurden in mehreren Kleingruppen-Workshops Einblicke in die digitale Editionsplattform von E-LAUTE vermittelt. Die Teilnehmenden lernten, Musik in deutscher Lautentabulatur zu lesen, und konnten ausgewählte Werke auf historischen Instrumenten hören.
-
-Die Workshops zeigten, wie digitale Forschungsmethoden bislang schwer zugängliche musikalische Quellen erschließen und sowohl für die Wissenschaft als auch für die Aufführungspraxis zugänglich machen können.
-
-Das Format ermöglichte einen intensiven Austausch und eine direkte Auseinandersetzung mit den präsentierten Materialien und Werkzeugen.
-
-
-Mehr Information:  
-[Station and der Universität Wien](https://langenachtderforschung.at/station/5643)  
-[mdw-Workshop](https://langenachtderforschung.at/station/6485)
