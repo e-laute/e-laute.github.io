@@ -6,7 +6,7 @@ lang: de
 
 
 ### Kooperationspartner
----
+
 [PD Dr. Laurent Pugin](https://rism.digital/organization/contact.html) RISM Digital, Schweiz  
 <img class="left blend" src="/assets/img/RISM.png" title="RISM Digital, Schweiz"/>  
 
@@ -34,8 +34,10 @@ lang: de
 
 <img class="left blend" src="/assets/img/uni-sbg.GIF"/>
 
-###  Beratendes Gremium
 ---
+
+###  Beratendes Gremium
+
  [Prof. Dr. Tim Crawford](https://www.gold.ac.uk/computing/people/t-crawford/), Professorial Research Fellow in Computational Musicology, Goldsmiths University of London, Department of Computing    
 
  [Prof. Dr. John Griffiths](https://www.lavihuela.com/), AM Oficial de la Orden de Isabel la Católica FAHA, Chair [IMS Study Group _Tablature in Western Music_](https://www.musicology.org/networks/sg/tablature), Director-at-Large, International Musicological Society  
