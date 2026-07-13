@@ -29,5 +29,5 @@ Im Rahmen der eigens dem Projekt gewidmeten Session „The E-LAUTE Project“, p
 
 **Silas Bischoff – „The "Regensburg diagram" - An Enigmatic Draft for Intabulating Mensural Notation"**
 
-[Mehr Information und vorläufiges Programm hier](https://medren2026.uw.edu.pl/programme/)
+[Mehr Information und Programm hier](https://medren2026.uw.edu.pl/programme/)
 
