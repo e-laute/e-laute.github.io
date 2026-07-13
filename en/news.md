@@ -29,5 +29,5 @@ Members of the E-LAUTE project will participate in the Medieval and Renaissance 
 
 **Silas Bischoff – "The "Regensburg diagram" - An Enigmatic Draft for Intabulating Mensural Notation"**
 
-[More information and preliminary programme here](https://medren2026.uw.edu.pl/programme/)
+[More information and programme here](https://medren2026.uw.edu.pl/programme/)
 
