@@ -13,13 +13,13 @@ ________________________________________________________________________________
 - Dezember 2025: release von [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
   
 ________________________________________________________________________________________
-### Bevorstehende Präsentationen
+### Neueste Präsentationen
 
 #### E-LAUTE auf der Medieval and Renaissance Music Conference 2026 in Warschau
 **Dienstag 7. Juli 2026, 9:30–11:30, altes Gebäude der Universitätsbibliothek (Old University Library Building), Universität Warschau**
 
-Mitglieder des E-LAUTE-Projekts werden an der Medieval and Renaissance Music Conference (MedRen 2026) teilnehmen, die vom 6. bis 10. Juli 2026 an der Universität Warschau stattfindet.
-Im Rahmen der eigens dem Projekt gewidmeten Session „The E-LAUTE Project“, präsentieren E-LAUTE-Forschende aktuelle Entwicklungen und laufende Arbeiten des Projekts, mit folgenden Beiträgen:
+Mitglieder des E-LAUTE-Projekts nahmen an der Medieval and Renaissance Music Conference (MedRen 2026) vom 6. bis 10. Juli 2026 an der Universität Warschau teil.
+Im Rahmen der eigens dem Projekt gewidmeten Session „The E-LAUTE Project“, präsentierten E-LAUTE-Forschende aktuelle Entwicklungen und laufende Arbeiten des Projekts, mit folgenden Beiträgen:
 
 **Kateryna Schöning – The state of affairs in 2026**
 
