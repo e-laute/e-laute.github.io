@@ -11,6 +11,7 @@ ________________________________________________________________________________
 - Januar 2026: release von [einem Teil der Datenbanksuche](https://edition.onb.ac.at/fedora/objects/o:lau.db-search/methods/sdef:TEI/get) (beta version)
 - Dezember 2025: release von [Hans Judenkünig, _Ain schone kunstliche underweisung_, Wien 1523](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
 - Dezember 2025: release von [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
+- June 2026: release of [Stephan Craus, Lautenbuch, A-Wn Mus.Hs. 18688] (https://edition.onb.ac.at/fedora/objects/o:lau.A-Wn_Mus.Hs._18688/methods/sdef:TEI/get?mode=n00)
   
 ________________________________________________________________________________________
 ### Neueste Präsentationen
