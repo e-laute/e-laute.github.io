@@ -7,7 +7,7 @@ lang: de
 ### Präsentationen
 
 **2026**
-- Silas Bischoff, „The “Regensburg diagram” – an enigmatic draft for intabulating mensural notation", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
+- Silas Bischoff, „The ,Regensburg diagram' – an enigmatic draft for intabulating mensural notation", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
 
 - Irina Döring, „Reconstructing and encoding lost and unclear information", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
 
