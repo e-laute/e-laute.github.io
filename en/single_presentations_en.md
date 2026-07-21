@@ -7,6 +7,13 @@ lang: en
 ### Presentations 
 
 **2026**
+- Silas Bischoff, "The 'Regensburg diagram' – an enigmatic draft for intabulating mensural notation", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
+
+- Irina Döring, "Reconstructing and encoding lost and unclear information", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
+
+- Reinier de Valk, "The state of affairs in 2026 (II)", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
+
+- Kateryna Schöning, "The state of affairs in 2026 (I)", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
 
 - David Weigl, Julia Jaklin and Henning Burghoff, “GitHub Actions in Action: Workflow Automation for Digital Music Research and Editions”, Music Encoding Conference (MEC) 2026 Tokyo, 26.5.–29.6.2026, <https://music-encoding.org/conference/2026/> 
 
