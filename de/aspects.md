@@ -60,6 +60,14 @@ musikbibliothekarischen Praxis* 47/2 (2026), 7–13, Beeskow: ortus Musikverlag.
 #### Veröffentlichte Abstracts / kleinere Beiträge
 
 **2026**
+- Bischoff, S., „The ,Regensburg diagram' – an enigmatic draft for intabulating mensural notation", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl/wp-content/uploads/sites/275/2026/07/ksiazka-programowa-MedRen-wersja-ostateczna.pdf>.
+
+- Döring, I., „Reconstructing and encoding lost and unclear information", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
+
+- De Valk, R., „The state of affairs in 2026 (II)", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
+
+- Schöning, K., „The state of affairs in 2026 (I)", Medieval and Renaissance Music Conference (MedRen), Warsaw 6–10.7.2026, <https://medren2026.uw.edu.pl>.
+
 - Weigl, D., Jaklin, J. und Burghoff H., „GitHub Actions in Action: Workflow Automation for Digital Music Research and Editions”, Music Encoding Conference (MEC) 2026 Tokyo, 26.5.–29.6.2026, <https://music-encoding.org/conference/2026/program/#may28> 
 
 **2025**
