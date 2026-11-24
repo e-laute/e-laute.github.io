@@ -5,6 +5,8 @@ lang: de
 ---
 
 ### Die Laute im deutschsprachigen Raum 1450–1550
+### E-LAUTE II ist bewilligt worden! Wir starten am 1. Dezember 2026 und bedanken uns bei allen für die Unterstützung!
+### Ein Update für diese Website mit aktuellen Infos und Newsletter folgt in Kürze (voraussichtlich im Dezember 2026).  
 
 ##### Unsere News sehen Sie [hier](https://e-laute.info/de/news/)
 
