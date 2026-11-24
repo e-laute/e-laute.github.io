@@ -5,6 +5,8 @@ lang: en
 ---
 
 ### The Lute in the German-Speaking Area 1450–1550
+### E-LAUTE II has been approved! We will launch on 1 December 2026 and would like to thank everyone for their support.  
+### An update to this website with the latest information and newsletter is coming soon (expected in December 2026).
 
 ##### Our News see [here](https://e-laute.info/news/)
 
