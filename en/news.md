@@ -14,6 +14,25 @@ ________________________________________________________________________________
 - December 2025: release of [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
   
 ________________________________________________________________________________________
+
+### E-LAUTE featured in a press release by the University of Bayreuth
+
+#### Digital access to early music: E-LAUTE makes historical lute tablatures readable and audible again
+
+"Modern readers often mistake them for a kind of secret code, but in fact they open the door to a fascinating historical sound world: records written in German lute tablature. The rich body of surviving music written in this notation, which was specifically developed for the Renaissance lute, preserves dances, songs and other musical pieces that were extremely popular around 500 years ago.
+
+As part of an interdisciplinary team of experts, researchers at the University of Bayreuth are now making this music accessible to read and hear again through a digital scholarly edition platform. The project is funded with several million euros by the Austrian Science Fund (FWF), the German Research Foundation (DFG) and the Swiss National Science Foundation (SNSF)."
+
+**Further information:**
+
+- [Read the full press release by the University of Bayreuth](https://www.uni-bayreuth.de/pressemitteilung/e-laute)
+- [Visit the digital scholarly edition platform](https://edition.onb.ac.at/fedora/objects/context:elaute/methods/sdef:Context/get)
+- [Visit the E-LAUTE project website](https://e-laute.info/)
+
+*Source: University of Bayreuth, Press Release 096/2026, 26 November 2026.*
+
+---
+
 ### Recent presentations
 
 
