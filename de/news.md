@@ -15,6 +15,23 @@ ________________________________________________________________________________
 - Dezember 2025: release von [Hans Judenkünig, _Utilis et compendiaria introductio_, Wien [1523]](https://edition.onb.ac.at/fedora/objects/context:elaute-overview/methods/sdef:Context/get)
   
 ________________________________________________________________________________________
+### E-LAUTE in einer Pressemitteilung der Universität Bayreuth
+
+#### Digitale Zugänge zu alter Musik: E-LAUTE macht historische Lautentabulaturen wieder les- und hörbar
+
+„Moderne Leser halten sie oft für eine Art Geheimschrift, tatsächlich öffnen sie aber die Tür zu einer faszinierenden historischen Klangwelt: Aufzeichnungen in deutscher Lautentabulatur. Die reiche Überlieferung einer Musiknotation, die speziell für die Renaissancelaute entwickelt wurde, bewahrt Tänze, Lieder und andere Musikstücke, die vor ca. 500 Jahren äußerst beliebt waren.
+
+Als Teil eines interdisziplinären Expertenteams machen Forschende der Universität Bayreuth sie nun in einer digitalen Editionsplattform wieder les- und hörbar. Das Projekt wird vom Österreichischen Wissenschaftsfonds (FWF), von der Deutschen Forschungsgemeinschaft (DFG) und vom Schweizerischen Nationalfonds (SNF) mit mehreren Millionen Euro gefördert."
+
+**Weitere Informationen:**
+- [Zur vollständigen Pressemitteilung der Universität Bayreuth](https://www.uni-bayreuth.de/pressemitteilung/e-laute)
+- [Zur digitalen Editionsplattform](https://edition.onb.ac.at/fedora/objects/context:elaute/methods/sdef:Context/get)
+- [Zur Projektwebsite E-LAUTE](https://e-laute.info/)
+
+*Quelle: Universität Bayreuth, Pressemitteilung 096/2026, 26. November 2026.*
+
+---
+
 ### Neueste Präsentationen
 
 #### E-LAUTE auf der Medieval and Renaissance Music Conference 2026 in Warschau
